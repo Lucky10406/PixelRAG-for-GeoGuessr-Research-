@@ -1,0 +1,15 @@
+# Baseline configuration
+# We will finalize these values after the Phase 1 smoke test.
+
+pixelrag:
+  version: "0.4.0"
+  top_k: 5
+
+dataset:
+  sample_size: 150
+
+reader:
+  prompt_version: "retrieval-country-match-v1"
+
+experiment:
+  name: "baseline-v0"

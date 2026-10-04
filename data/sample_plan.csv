@@ -1,0 +1,151 @@
+image_id,country,source_path,source_filename,split
+geo_0001,Andorra,compressed_dataset/Andorra/canvas_1630142667.jpg,canvas_1630142667.jpg,frozen_eval
+geo_0002,Andorra,compressed_dataset/Andorra/canvas_1629277172.jpg,canvas_1629277172.jpg,frozen_eval
+geo_0003,Andorra,compressed_dataset/Andorra/canvas_1629408265.jpg,canvas_1629408265.jpg,frozen_eval
+geo_0004,Andorra,compressed_dataset/Andorra/canvas_1629768327.jpg,canvas_1629768327.jpg,frozen_eval
+geo_0005,Andorra,compressed_dataset/Andorra/canvas_1629709452.jpg,canvas_1629709452.jpg,frozen_eval
+geo_0006,Argentina,compressed_dataset/Argentina/canvas_1629709522.jpg,canvas_1629709522.jpg,frozen_eval
+geo_0007,Argentina,compressed_dataset/Argentina/canvas_1629507327.jpg,canvas_1629507327.jpg,frozen_eval
+geo_0008,Argentina,compressed_dataset/Argentina/canvas_1629572785.jpg,canvas_1629572785.jpg,frozen_eval
+geo_0009,Argentina,compressed_dataset/Argentina/canvas_1629772446.jpg,canvas_1629772446.jpg,frozen_eval
+geo_0010,Argentina,compressed_dataset/Argentina/canvas_1629419982.jpg,canvas_1629419982.jpg,frozen_eval
+geo_0011,Botswana,compressed_dataset/Botswana/canvas_1629435649.jpg,canvas_1629435649.jpg,frozen_eval
+geo_0012,Botswana,compressed_dataset/Botswana/canvas_1629920787.jpg,canvas_1629920787.jpg,frozen_eval
+geo_0013,Botswana,compressed_dataset/Botswana/canvas_1629445329.jpg,canvas_1629445329.jpg,frozen_eval
+geo_0014,Botswana,compressed_dataset/Botswana/canvas_1629899698.jpg,canvas_1629899698.jpg,frozen_eval
+geo_0015,Botswana,compressed_dataset/Botswana/canvas_1629855943.jpg,canvas_1629855943.jpg,frozen_eval
+geo_0016,Bulgaria,compressed_dataset/Bulgaria/canvas_1629939563.jpg,canvas_1629939563.jpg,frozen_eval
+geo_0017,Bulgaria,compressed_dataset/Bulgaria/canvas_1629534631.jpg,canvas_1629534631.jpg,frozen_eval
+geo_0018,Bulgaria,compressed_dataset/Bulgaria/canvas_1630215032.jpg,canvas_1630215032.jpg,frozen_eval
+geo_0019,Bulgaria,compressed_dataset/Bulgaria/canvas_1629302258.jpg,canvas_1629302258.jpg,frozen_eval
+geo_0020,Bulgaria,compressed_dataset/Bulgaria/canvas_1630083452.jpg,canvas_1630083452.jpg,frozen_eval
+geo_0021,Cambodia,compressed_dataset/Cambodia/canvas_1629752096.jpg,canvas_1629752096.jpg,frozen_eval
+geo_0022,Cambodia,compressed_dataset/Cambodia/canvas_1629846369.jpg,canvas_1629846369.jpg,frozen_eval
+geo_0023,Cambodia,compressed_dataset/Cambodia/canvas_1629407770.jpg,canvas_1629407770.jpg,frozen_eval
+geo_0024,Cambodia,compressed_dataset/Cambodia/canvas_1629693676.jpg,canvas_1629693676.jpg,frozen_eval
+geo_0025,Cambodia,compressed_dataset/Cambodia/canvas_1629328726.jpg,canvas_1629328726.jpg,frozen_eval
+geo_0026,China,compressed_dataset/China/canvas_1629706316.jpg,canvas_1629706316.jpg,frozen_eval
+geo_0027,China,compressed_dataset/China/canvas_1629510110.jpg,canvas_1629510110.jpg,frozen_eval
+geo_0028,China,compressed_dataset/China/canvas_1629748734.jpg,canvas_1629748734.jpg,frozen_eval
+geo_0029,China,compressed_dataset/China/canvas_1629737736.jpg,canvas_1629737736.jpg,frozen_eval
+geo_0030,China,compressed_dataset/China/canvas_1629545168.jpg,canvas_1629545168.jpg,frozen_eval
+geo_0031,Ecuador,compressed_dataset/Ecuador/canvas_1630055280.jpg,canvas_1630055280.jpg,frozen_eval
+geo_0032,Ecuador,compressed_dataset/Ecuador/canvas_1629592670.jpg,canvas_1629592670.jpg,frozen_eval
+geo_0033,Ecuador,compressed_dataset/Ecuador/canvas_1630259212.jpg,canvas_1630259212.jpg,frozen_eval
+geo_0034,Ecuador,compressed_dataset/Ecuador/canvas_1629279975.jpg,canvas_1629279975.jpg,frozen_eval
+geo_0035,Ecuador,compressed_dataset/Ecuador/canvas_1629276914.jpg,canvas_1629276914.jpg,frozen_eval
+geo_0036,Estonia,compressed_dataset/Estonia/canvas_1630082785.jpg,canvas_1630082785.jpg,frozen_eval
+geo_0037,Estonia,compressed_dataset/Estonia/canvas_1629525731.jpg,canvas_1629525731.jpg,frozen_eval
+geo_0038,Estonia,compressed_dataset/Estonia/canvas_1630336886.jpg,canvas_1630336886.jpg,frozen_eval
+geo_0039,Estonia,compressed_dataset/Estonia/canvas_1629613066.jpg,canvas_1629613066.jpg,frozen_eval
+geo_0040,Estonia,compressed_dataset/Estonia/canvas_1629411898.jpg,canvas_1629411898.jpg,frozen_eval
+geo_0041,Eswatini,compressed_dataset/Eswatini/canvas_1630140869.jpg,canvas_1630140869.jpg,frozen_eval
+geo_0042,Eswatini,compressed_dataset/Eswatini/canvas_1629480111.jpg,canvas_1629480111.jpg,frozen_eval
+geo_0043,Eswatini,compressed_dataset/Eswatini/canvas_1630140901.jpg,canvas_1630140901.jpg,frozen_eval
+geo_0044,Eswatini,compressed_dataset/Eswatini/canvas_1629388296.jpg,canvas_1629388296.jpg,frozen_eval
+geo_0045,Eswatini,compressed_dataset/Eswatini/canvas_1629701338.jpg,canvas_1629701338.jpg,frozen_eval
+geo_0046,Faroe Islands,compressed_dataset/Faroe Islands/canvas_1630048866.jpg,canvas_1630048866.jpg,frozen_eval
+geo_0047,Faroe Islands,compressed_dataset/Faroe Islands/canvas_1630252494.jpg,canvas_1630252494.jpg,frozen_eval
+geo_0048,Faroe Islands,compressed_dataset/Faroe Islands/canvas_1630080207.jpg,canvas_1630080207.jpg,frozen_eval
+geo_0049,Faroe Islands,compressed_dataset/Faroe Islands/canvas_1629913625.jpg,canvas_1629913625.jpg,frozen_eval
+geo_0050,Faroe Islands,compressed_dataset/Faroe Islands/canvas_1629783036.jpg,canvas_1629783036.jpg,frozen_eval
+geo_0051,France,compressed_dataset/France/canvas_1629717132.jpg,canvas_1629717132.jpg,frozen_eval
+geo_0052,France,compressed_dataset/France/canvas_1629705876.jpg,canvas_1629705876.jpg,frozen_eval
+geo_0053,France,compressed_dataset/France/canvas_1629508248.jpg,canvas_1629508248.jpg,frozen_eval
+geo_0054,France,compressed_dataset/France/canvas_1630038977.jpg,canvas_1630038977.jpg,frozen_eval
+geo_0055,France,compressed_dataset/France/canvas_1629568445.jpg,canvas_1629568445.jpg,frozen_eval
+geo_0056,Greenland,compressed_dataset/Greenland/canvas_1630278169.jpg,canvas_1630278169.jpg,frozen_eval
+geo_0057,Greenland,compressed_dataset/Greenland/canvas_1629389511.jpg,canvas_1629389511.jpg,frozen_eval
+geo_0058,Greenland,compressed_dataset/Greenland/canvas_1629691785.jpg,canvas_1629691785.jpg,frozen_eval
+geo_0059,Greenland,compressed_dataset/Greenland/canvas_1629697769.jpg,canvas_1629697769.jpg,frozen_eval
+geo_0060,Greenland,compressed_dataset/Greenland/canvas_1630054739.jpg,canvas_1630054739.jpg,frozen_eval
+geo_0061,Latvia,compressed_dataset/Latvia/canvas_1629765857.jpg,canvas_1629765857.jpg,frozen_eval
+geo_0062,Latvia,compressed_dataset/Latvia/canvas_1629721205.jpg,canvas_1629721205.jpg,frozen_eval
+geo_0063,Latvia,compressed_dataset/Latvia/canvas_1629578080.jpg,canvas_1629578080.jpg,frozen_eval
+geo_0064,Latvia,compressed_dataset/Latvia/canvas_1629942653.jpg,canvas_1629942653.jpg,frozen_eval
+geo_0065,Latvia,compressed_dataset/Latvia/canvas_1630005911.jpg,canvas_1630005911.jpg,frozen_eval
+geo_0066,Lebanon,compressed_dataset/Lebanon/canvas_1629701265.jpg,canvas_1629701265.jpg,frozen_eval
+geo_0067,Lebanon,compressed_dataset/Lebanon/canvas_1629780686.jpg,canvas_1629780686.jpg,frozen_eval
+geo_0068,Lebanon,compressed_dataset/Lebanon/canvas_1629620767.jpg,canvas_1629620767.jpg,frozen_eval
+geo_0069,Lebanon,compressed_dataset/Lebanon/canvas_1629474915.jpg,canvas_1629474915.jpg,frozen_eval
+geo_0070,Lebanon,compressed_dataset/Lebanon/canvas_1629481913.jpg,canvas_1629481913.jpg,frozen_eval
+geo_0071,Luxembourg,compressed_dataset/Luxembourg/canvas_1629355398.jpg,canvas_1629355398.jpg,frozen_eval
+geo_0072,Luxembourg,compressed_dataset/Luxembourg/canvas_1629691827.jpg,canvas_1629691827.jpg,frozen_eval
+geo_0073,Luxembourg,compressed_dataset/Luxembourg/canvas_1629720930.jpg,canvas_1629720930.jpg,frozen_eval
+geo_0074,Luxembourg,compressed_dataset/Luxembourg/canvas_1629527055.jpg,canvas_1629527055.jpg,frozen_eval
+geo_0075,Luxembourg,compressed_dataset/Luxembourg/canvas_1629394359.jpg,canvas_1629394359.jpg,frozen_eval
+geo_0076,Montenegro,compressed_dataset/Montenegro/canvas_1629700928.jpg,canvas_1629700928.jpg,frozen_eval
+geo_0077,Montenegro,compressed_dataset/Montenegro/canvas_1629927766.jpg,canvas_1629927766.jpg,frozen_eval
+geo_0078,Montenegro,compressed_dataset/Montenegro/canvas_1630302983.jpg,canvas_1630302983.jpg,frozen_eval
+geo_0079,Montenegro,compressed_dataset/Montenegro/canvas_1630019705.jpg,canvas_1630019705.jpg,frozen_eval
+geo_0080,Montenegro,compressed_dataset/Montenegro/canvas_1630107135.jpg,canvas_1630107135.jpg,frozen_eval
+geo_0081,Northern Mariana Islands,compressed_dataset/Northern Mariana Islands/canvas_1629318488.jpg,canvas_1629318488.jpg,frozen_eval
+geo_0082,Northern Mariana Islands,compressed_dataset/Northern Mariana Islands/canvas_1629697491.jpg,canvas_1629697491.jpg,frozen_eval
+geo_0083,Northern Mariana Islands,compressed_dataset/Northern Mariana Islands/canvas_1630274880.jpg,canvas_1630274880.jpg,frozen_eval
+geo_0084,Northern Mariana Islands,compressed_dataset/Northern Mariana Islands/canvas_1629312854.jpg,canvas_1629312854.jpg,frozen_eval
+geo_0085,Northern Mariana Islands,compressed_dataset/Northern Mariana Islands/canvas_1629702321.jpg,canvas_1629702321.jpg,frozen_eval
+geo_0086,Pakistan,compressed_dataset/Pakistan/canvas_1630276360.jpg,canvas_1630276360.jpg,frozen_eval
+geo_0087,Pakistan,compressed_dataset/Pakistan/canvas_1630278119.jpg,canvas_1630278119.jpg,frozen_eval
+geo_0088,Pakistan,compressed_dataset/Pakistan/canvas_1629832063.jpg,canvas_1629832063.jpg,frozen_eval
+geo_0089,Pakistan,compressed_dataset/Pakistan/canvas_1630025468.jpg,canvas_1630025468.jpg,frozen_eval
+geo_0090,Pakistan,compressed_dataset/Pakistan/canvas_1630025512.jpg,canvas_1630025512.jpg,frozen_eval
+geo_0091,Poland,compressed_dataset/Poland/canvas_1629971480.jpg,canvas_1629971480.jpg,frozen_eval
+geo_0092,Poland,compressed_dataset/Poland/canvas_1629772972.jpg,canvas_1629772972.jpg,frozen_eval
+geo_0093,Poland,compressed_dataset/Poland/canvas_1629741436.jpg,canvas_1629741436.jpg,frozen_eval
+geo_0094,Poland,compressed_dataset/Poland/canvas_1629536581.jpg,canvas_1629536581.jpg,frozen_eval
+geo_0095,Poland,compressed_dataset/Poland/canvas_1629441774.jpg,canvas_1629441774.jpg,frozen_eval
+geo_0096,Puerto Rico,compressed_dataset/Puerto Rico/canvas_1630001103.jpg,canvas_1630001103.jpg,frozen_eval
+geo_0097,Puerto Rico,compressed_dataset/Puerto Rico/canvas_1629942949.jpg,canvas_1629942949.jpg,frozen_eval
+geo_0098,Puerto Rico,compressed_dataset/Puerto Rico/canvas_1629400814.jpg,canvas_1629400814.jpg,frozen_eval
+geo_0099,Puerto Rico,compressed_dataset/Puerto Rico/canvas_1629313041.jpg,canvas_1629313041.jpg,frozen_eval
+geo_0100,Puerto Rico,compressed_dataset/Puerto Rico/canvas_1629429830.jpg,canvas_1629429830.jpg,frozen_eval
+geo_0101,Senegal,compressed_dataset/Senegal/canvas_1629508123.jpg,canvas_1629508123.jpg,frozen_eval
+geo_0102,Senegal,compressed_dataset/Senegal/canvas_1629515644.jpg,canvas_1629515644.jpg,frozen_eval
+geo_0103,Senegal,compressed_dataset/Senegal/canvas_1630023214.jpg,canvas_1630023214.jpg,frozen_eval
+geo_0104,Senegal,compressed_dataset/Senegal/canvas_1629399192.jpg,canvas_1629399192.jpg,frozen_eval
+geo_0105,Senegal,compressed_dataset/Senegal/canvas_1629933641.jpg,canvas_1629933641.jpg,frozen_eval
+geo_0106,South Africa,compressed_dataset/South Africa/canvas_1629934310.jpg,canvas_1629934310.jpg,frozen_eval
+geo_0107,South Africa,compressed_dataset/South Africa/canvas_1630065398.jpg,canvas_1630065398.jpg,frozen_eval
+geo_0108,South Africa,compressed_dataset/South Africa/canvas_1630210556.jpg,canvas_1630210556.jpg,frozen_eval
+geo_0109,South Africa,compressed_dataset/South Africa/canvas_1629732986.jpg,canvas_1629732986.jpg,frozen_eval
+geo_0110,South Africa,compressed_dataset/South Africa/canvas_1630273144.jpg,canvas_1630273144.jpg,frozen_eval
+geo_0111,South Korea,compressed_dataset/South Korea/canvas_1630125588.jpg,canvas_1630125588.jpg,frozen_eval
+geo_0112,South Korea,compressed_dataset/South Korea/canvas_1630302682.jpg,canvas_1630302682.jpg,frozen_eval
+geo_0113,South Korea,compressed_dataset/South Korea/canvas_1629259171.jpg,canvas_1629259171.jpg,frozen_eval
+geo_0114,South Korea,compressed_dataset/South Korea/canvas_1630000649.jpg,canvas_1630000649.jpg,frozen_eval
+geo_0115,South Korea,compressed_dataset/South Korea/canvas_1630038990.jpg,canvas_1630038990.jpg,frozen_eval
+geo_0116,Switzerland,compressed_dataset/Switzerland/canvas_1629444579.jpg,canvas_1629444579.jpg,frozen_eval
+geo_0117,Switzerland,compressed_dataset/Switzerland/canvas_1630028864.jpg,canvas_1630028864.jpg,frozen_eval
+geo_0118,Switzerland,compressed_dataset/Switzerland/canvas_1629710391.jpg,canvas_1629710391.jpg,frozen_eval
+geo_0119,Switzerland,compressed_dataset/Switzerland/canvas_1630274892.jpg,canvas_1630274892.jpg,frozen_eval
+geo_0120,Switzerland,compressed_dataset/Switzerland/canvas_1629775602.jpg,canvas_1629775602.jpg,frozen_eval
+geo_0121,Taiwan,compressed_dataset/Taiwan/canvas_1629478481.jpg,canvas_1629478481.jpg,frozen_eval
+geo_0122,Taiwan,compressed_dataset/Taiwan/canvas_1629840144.jpg,canvas_1629840144.jpg,frozen_eval
+geo_0123,Taiwan,compressed_dataset/Taiwan/canvas_1630060470.jpg,canvas_1630060470.jpg,frozen_eval
+geo_0124,Taiwan,compressed_dataset/Taiwan/canvas_1629552213.jpg,canvas_1629552213.jpg,frozen_eval
+geo_0125,Taiwan,compressed_dataset/Taiwan/canvas_1630091426.jpg,canvas_1630091426.jpg,frozen_eval
+geo_0126,Tunisia,compressed_dataset/Tunisia/canvas_1629264409.jpg,canvas_1629264409.jpg,frozen_eval
+geo_0127,Tunisia,compressed_dataset/Tunisia/canvas_1629595909.jpg,canvas_1629595909.jpg,frozen_eval
+geo_0128,Tunisia,compressed_dataset/Tunisia/canvas_1630050505.jpg,canvas_1630050505.jpg,frozen_eval
+geo_0129,Tunisia,compressed_dataset/Tunisia/canvas_1629449299.jpg,canvas_1629449299.jpg,frozen_eval
+geo_0130,Tunisia,compressed_dataset/Tunisia/canvas_1629408926.jpg,canvas_1629408926.jpg,frozen_eval
+geo_0131,Uganda,compressed_dataset/Uganda/canvas_1629994709.jpg,canvas_1629994709.jpg,frozen_eval
+geo_0132,Uganda,compressed_dataset/Uganda/canvas_1629749749.jpg,canvas_1629749749.jpg,frozen_eval
+geo_0133,Uganda,compressed_dataset/Uganda/canvas_1630133220.jpg,canvas_1630133220.jpg,frozen_eval
+geo_0134,Uganda,compressed_dataset/Uganda/canvas_1629905882.jpg,canvas_1629905882.jpg,frozen_eval
+geo_0135,Uganda,compressed_dataset/Uganda/canvas_1629963276.jpg,canvas_1629963276.jpg,frozen_eval
+geo_0136,United Arab Emirates,compressed_dataset/United Arab Emirates/canvas_1629747597.jpg,canvas_1629747597.jpg,frozen_eval
+geo_0137,United Arab Emirates,compressed_dataset/United Arab Emirates/canvas_1629533015.jpg,canvas_1629533015.jpg,frozen_eval
+geo_0138,United Arab Emirates,compressed_dataset/United Arab Emirates/canvas_1630028473.jpg,canvas_1630028473.jpg,frozen_eval
+geo_0139,United Arab Emirates,compressed_dataset/United Arab Emirates/canvas_1629536397.jpg,canvas_1629536397.jpg,frozen_eval
+geo_0140,United Arab Emirates,compressed_dataset/United Arab Emirates/canvas_1630283079.jpg,canvas_1630283079.jpg,frozen_eval
+geo_0141,United Kingdom,compressed_dataset/United Kingdom/canvas_1630104604.jpg,canvas_1630104604.jpg,frozen_eval
+geo_0142,United Kingdom,compressed_dataset/United Kingdom/canvas_1629258221.jpg,canvas_1629258221.jpg,frozen_eval
+geo_0143,United Kingdom,compressed_dataset/United Kingdom/canvas_1630284590.jpg,canvas_1630284590.jpg,frozen_eval
+geo_0144,United Kingdom,compressed_dataset/United Kingdom/canvas_1629828908.jpg,canvas_1629828908.jpg,frozen_eval
+geo_0145,United Kingdom,compressed_dataset/United Kingdom/canvas_1630065106.jpg,canvas_1630065106.jpg,frozen_eval
+geo_0146,United States,compressed_dataset/United States/canvas_1629273043.jpg,canvas_1629273043.jpg,frozen_eval
+geo_0147,United States,compressed_dataset/United States/canvas_1629421073.jpg,canvas_1629421073.jpg,frozen_eval
+geo_0148,United States,compressed_dataset/United States/canvas_1629769479.jpg,canvas_1629769479.jpg,frozen_eval
+geo_0149,United States,compressed_dataset/United States/canvas_1629715087.jpg,canvas_1629715087.jpg,frozen_eval
+geo_0150,United States,compressed_dataset/United States/canvas_1629589420.jpg,canvas_1629589420.jpg,frozen_eval

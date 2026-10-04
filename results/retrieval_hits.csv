@@ -1,0 +1,751 @@
+image_id,country,image_path,rank,score,article_id,title,vector_id,tile_index,chunk_index,y_offset,tile_height,path
+geo_0001,Andorra,data/images/geo_0001.jpg,1,0.38956284523010254,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0001,Andorra,data/images/geo_0001.jpg,2,0.3811381459236145,4546560,List_of_highest_paved_roads_in_Europe,15223066,0,5,5120,1024,shard_548/shard_00006/4546560.png.tiles/chunk_0000_05.png
+geo_0001,Andorra,data/images/geo_0001.jpg,3,0.37406671047210693,6476538,Route_nationale_21,21099673,0,1,1024,485,shard_781/shard_00000/6476538.png.tiles/chunk_0000_01.png
+geo_0001,Andorra,data/images/geo_0001.jpg,4,0.3711854815483093,2934309,GeoGuessr,9807325,0,5,5120,868,shard_354/shard_00001/2934309.png.tiles/chunk_0000_05.png
+geo_0001,Andorra,data/images/geo_0001.jpg,5,0.37050560116767883,6056671,Portal:U.S._roads/Selected_picture,19891274,0,2,2048,1024,shard_731/shard_00001/6056671.png.tiles/chunk_0000_02.png
+geo_0002,Andorra,data/images/geo_0002.jpg,1,0.3942071795463562,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0002,Andorra,data/images/geo_0002.jpg,2,0.38864102959632874,2934309,GeoGuessr,9807320,0,0,0,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_00.png
+geo_0002,Andorra,data/images/geo_0002.jpg,3,0.3834616541862488,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0002,Andorra,data/images/geo_0002.jpg,4,0.3699624538421631,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0002,Andorra,data/images/geo_0002.jpg,5,0.3684227168560028,3037981,Go_Go_Stop,10108917,0,1,1024,1024,shard_366/shard_00006/3037981.png.tiles/chunk_0000_01.png
+geo_0003,Andorra,data/images/geo_0003.jpg,1,0.4429279863834381,7261719,Temple_(nightclub),23392085,0,0,0,1024,shard_876/shard_00004/7261719.png.tiles/chunk_0000_00.png
+geo_0003,Andorra,data/images/geo_0003.jpg,2,0.42955344915390015,6908394,"Solomon's_Temple,_Aizawl",22354904,0,2,2048,1024,shard_833/shard_00007/6908394.png.tiles/chunk_0000_02.png
+geo_0003,Andorra,data/images/geo_0003.jpg,3,0.4124361574649811,6633729,Santiago_Chile_Temple,21551953,0,1,1024,1024,shard_800/shard_00006/6633729.png.tiles/chunk_0000_01.png
+geo_0003,Andorra,data/images/geo_0003.jpg,4,0.39470672607421875,4597050,List_of_temples_of_the_Church_of_Jesus_Christ_of_Latter-day_Saints_by_geographic_region,15709165,0,5,5120,1024,shard_554/shard_00007/4597050.png.tiles/chunk_0000_05.png
+geo_0003,Andorra,data/images/geo_0003.jpg,5,0.39440250396728516,4590527,List_of_sister_cities_in_Texas,15637401,0,6,6144,1024,shard_554/shard_00001/4590527.png.tiles/chunk_0000_06.png
+geo_0004,Andorra,data/images/geo_0004.jpg,1,0.38238397240638733,4466826,List_of_Google_Easter_eggs,14426852,1,4,4096,1024,shard_539/shard_00009/4466826.png.tiles/chunk_0001_04.png
+geo_0004,Andorra,data/images/geo_0004.jpg,2,0.3752463161945343,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0004,Andorra,data/images/geo_0004.jpg,3,0.36580711603164673,3059469,Google_Street_View,10171920,0,1,1024,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0000_01.png
+geo_0004,Andorra,data/images/geo_0004.jpg,4,0.3613547682762146,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0004,Andorra,data/images/geo_0004.jpg,5,0.3569839596748352,3059469,Google_Street_View,10171928,1,1,1024,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_01.png
+geo_0005,Andorra,data/images/geo_0005.jpg,1,0.3960112929344177,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0005,Andorra,data/images/geo_0005.jpg,2,0.3838759958744049,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0005,Andorra,data/images/geo_0005.jpg,3,0.37452390789985657,2450247,El_Golobar,8383030,0,0,0,1024,shard_295/shard_00005/2450247.png.tiles/chunk_0000_00.png
+geo_0005,Andorra,data/images/geo_0005.jpg,4,0.37285029888153076,4546560,List_of_highest_paved_roads_in_Europe,15223081,2,4,4096,1024,shard_548/shard_00006/4546560.png.tiles/chunk_0002_04.png
+geo_0005,Andorra,data/images/geo_0005.jpg,5,0.3701168894767761,4546560,List_of_highest_paved_roads_in_Europe,15223066,0,5,5120,1024,shard_548/shard_00006/4546560.png.tiles/chunk_0000_05.png
+geo_0006,Argentina,data/images/geo_0006.jpg,1,0.3866000771522522,3098484,Great_Plains,10297613,0,1,1024,1024,shard_374/shard_00000/3098484.png.tiles/chunk_0000_01.png
+geo_0006,Argentina,data/images/geo_0006.jpg,2,0.36523663997650146,2938197,Geography_of_Saskatchewan,9818482,1,4,4096,1024,shard_354/shard_00011/2938197.png.tiles/chunk_0001_04.png
+geo_0006,Argentina,data/images/geo_0006.jpg,3,0.3643675744533539,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0006,Argentina,data/images/geo_0006.jpg,4,0.3565725088119507,516139,96th_meridian_west,2719009,0,2,2048,1024,shard_062/shard_00002/516139.png.tiles/chunk_0000_02.png
+geo_0006,Argentina,data/images/geo_0006.jpg,5,0.3499201238155365,6008556,Portal:Geography/Selected_picture,19817043,0,2,2048,1024,shard_725/shard_00002/6008556.png.tiles/chunk_0000_02.png
+geo_0007,Argentina,data/images/geo_0007.jpg,1,0.3919735848903656,5498807,North_Texas,18398611,2,5,5120,1024,shard_663/shard_00006/5498807.png.tiles/chunk_0002_05.png
+geo_0007,Argentina,data/images/geo_0007.jpg,2,0.38052189350128174,5498807,North_Texas,18398604,1,6,6144,1024,shard_663/shard_00006/5498807.png.tiles/chunk_0001_06.png
+geo_0007,Argentina,data/images/geo_0007.jpg,3,0.3621900677680969,3059307,Google_Maps,10170977,3,2,2048,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0003_02.png
+geo_0007,Argentina,data/images/geo_0007.jpg,4,0.3613370656967163,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0007,Argentina,data/images/geo_0007.jpg,5,0.3567069172859192,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0008,Argentina,data/images/geo_0008.jpg,1,0.3726465702056885,3059475,Google_Street_View_in_Argentina,10172022,0,3,3072,965,shard_369/shard_00001/3059475.png.tiles/chunk_0000_03.png
+geo_0008,Argentina,data/images/geo_0008.jpg,2,0.3649585545063019,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0008,Argentina,data/images/geo_0008.jpg,3,0.36238497495651245,3349985,Highway_I–16_(Cuba),11009738,0,2,2048,1024,shard_404/shard_00009/3349985.png.tiles/chunk_0000_02.png
+geo_0008,Argentina,data/images/geo_0008.jpg,4,0.35793444514274597,7592423,"Transportation_in_Augusta,_Georgia",24405771,3,1,1024,1024,shard_916/shard_00004/7592423.png.tiles/chunk_0003_01.png
+geo_0008,Argentina,data/images/geo_0008.jpg,5,0.3557668924331665,669406,Aix-les-Bains,3135707,0,4,4096,1024,shard_080/shard_00006/669406.png.tiles/chunk_0000_04.png
+geo_0009,Argentina,data/images/geo_0009.jpg,1,0.41551530361175537,633649,Aeroclub_Argentino,3031321,0,0,0,1024,shard_076/shard_00004/633649.png.tiles/chunk_0000_00.png
+geo_0009,Argentina,data/images/geo_0009.jpg,2,0.39816293120384216,7620068,Tropic_of_Capricorn,24483196,0,4,4096,1024,shard_919/shard_00007/7620068.png.tiles/chunk_0000_04.png
+geo_0009,Argentina,data/images/geo_0009.jpg,3,0.39607375860214233,7620068,Tropic_of_Capricorn,24483195,0,3,3072,1024,shard_919/shard_00007/7620068.png.tiles/chunk_0000_03.png
+geo_0009,Argentina,data/images/geo_0009.jpg,4,0.39058735966682434,7845667,Villa_María_de_Río_Seco_Airport,25135732,0,0,0,1024,shard_947/shard_00000/7845667.png.tiles/chunk_0000_00.png
+geo_0009,Argentina,data/images/geo_0009.jpg,5,0.3888933062553406,1246716,"Bernardo,_New_Mexico",4838806,0,1,1024,1024,shard_150/shard_00010/1246716.png.tiles/chunk_0000_01.png
+geo_0010,Argentina,data/images/geo_0010.jpg,1,0.42918598651885986,4553312,List_of_landforms_of_the_Nellis_&_Wildlife_5_Ranges_region,15275083,0,2,2048,1024,shard_549/shard_00005/4553312.png.tiles/chunk_0000_02.png
+geo_0010,Argentina,data/images/geo_0010.jpg,2,0.4253515601158142,1542743,California_State_Route_62,5712145,0,2,2048,1024,shard_186/shard_00001/1542743.png.tiles/chunk_0000_02.png
+geo_0010,Argentina,data/images/geo_0010.jpg,3,0.4222944974899292,7677528,U.S._Route_95_in_Arizona,24628081,1,0,0,1024,shard_926/shard_00006/7677528.png.tiles/chunk_0001_00.png
+geo_0010,Argentina,data/images/geo_0010.jpg,4,0.42220890522003174,4483438,List_of_Nevada_Scenic_Byways,14603957,0,2,2048,1024,shard_541/shard_00001/4483438.png.tiles/chunk_0000_02.png
+geo_0010,Argentina,data/images/geo_0010.jpg,5,0.420332133769989,7677528,U.S._Route_95_in_Arizona,24628073,0,0,0,1024,shard_926/shard_00006/7677528.png.tiles/chunk_0000_00.png
+geo_0011,Botswana,data/images/geo_0011.jpg,1,0.4178228974342346,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0011,Botswana,data/images/geo_0011.jpg,2,0.4029659926891327,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0011,Botswana,data/images/geo_0011.jpg,3,0.3791079521179199,6514375,Rwamagana_Solar_Power_Station,21219251,0,1,1024,288,shard_786/shard_00003/6514375.png.tiles/chunk_0000_01.png
+geo_0011,Botswana,data/images/geo_0011.jpg,4,0.375622034072876,617514,Adi_Bakel,2986261,0,2,2048,1024,shard_074/shard_00004/617514.png.tiles/chunk_0000_02.png
+geo_0011,Botswana,data/images/geo_0011.jpg,5,0.369742751121521,7300022,The_Amazing_Race_1,23501169,1,0,0,1024,shard_881/shard_00001/7300022.png.tiles/chunk_0001_00.png
+geo_0012,Botswana,data/images/geo_0012.jpg,1,0.41280168294906616,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0012,Botswana,data/images/geo_0012.jpg,2,0.3940415680408478,2301268,Donkerbos,7950896,0,0,0,1024,shard_277/shard_00006/2301268.png.tiles/chunk_0000_00.png
+geo_0012,Botswana,data/images/geo_0012.jpg,3,0.39084160327911377,6919310,Sonneblom,22387762,0,0,0,1024,shard_835/shard_00002/6919310.png.tiles/chunk_0000_00.png
+geo_0012,Botswana,data/images/geo_0012.jpg,4,0.3750516176223755,4536911,List_of_donkey_breeds,15125269,2,4,4096,1024,shard_547/shard_00003/4536911.png.tiles/chunk_0002_04.png
+geo_0012,Botswana,data/images/geo_0012.jpg,5,0.3701293468475342,4536911,List_of_donkey_breeds,15125260,1,3,3072,1024,shard_547/shard_00003/4536911.png.tiles/chunk_0001_03.png
+geo_0013,Botswana,data/images/geo_0013.jpg,1,0.4008718729019165,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0013,Botswana,data/images/geo_0013.jpg,2,0.39196860790252686,4735617,M9_(Johannesburg),16162583,0,1,1024,770,shard_571/shard_00005/4735617.png.tiles/chunk_0000_01.png
+geo_0013,Botswana,data/images/geo_0013.jpg,3,0.3792221248149872,4735192,M57_(Johannesburg),16161298,0,1,1024,998,shard_571/shard_00005/4735192.png.tiles/chunk_0000_01.png
+geo_0013,Botswana,data/images/geo_0013.jpg,4,0.3700191378593445,6202568,R511_(South_Africa),20297706,0,0,0,1024,shard_748/shard_00006/6202568.png.tiles/chunk_0000_00.png
+geo_0013,Botswana,data/images/geo_0013.jpg,5,0.36707597970962524,4735010,M43_(Johannesburg),16160692,0,1,1024,394,shard_571/shard_00004/4735010.png.tiles/chunk_0000_01.png
+geo_0014,Botswana,data/images/geo_0014.jpg,1,0.4221354126930237,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0014,Botswana,data/images/geo_0014.jpg,2,0.3874300718307495,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0014,Botswana,data/images/geo_0014.jpg,3,0.38735198974609375,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0014,Botswana,data/images/geo_0014.jpg,4,0.37398093938827515,3059473,Google_Street_View_in_Africa,10172012,0,4,4096,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_04.png
+geo_0014,Botswana,data/images/geo_0014.jpg,5,0.37248048186302185,6202568,R511_(South_Africa),20297706,0,0,0,1024,shard_748/shard_00006/6202568.png.tiles/chunk_0000_00.png
+geo_0015,Botswana,data/images/geo_0015.jpg,1,0.4158283472061157,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0015,Botswana,data/images/geo_0015.jpg,2,0.3989768922328949,4735211,M5_(Johannesburg),16161353,0,0,0,1024,shard_571/shard_00005/4735211.png.tiles/chunk_0000_00.png
+geo_0015,Botswana,data/images/geo_0015.jpg,3,0.3980730175971985,6201754,R24_(South_Africa),20296383,0,1,1024,1024,shard_748/shard_00005/6201754.png.tiles/chunk_0000_01.png
+geo_0015,Botswana,data/images/geo_0015.jpg,4,0.3938148617744446,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0015,Botswana,data/images/geo_0015.jpg,5,0.3844485282897949,4735212,M5_(Pretoria),16161355,0,0,0,1024,shard_571/shard_00005/4735212.png.tiles/chunk_0000_00.png
+geo_0016,Bulgaria,data/images/geo_0016.jpg,1,0.4159948229789734,7253283,Teghut_mine,23366526,1,5,5120,1024,shard_875/shard_00004/7253283.png.tiles/chunk_0001_05.png
+geo_0016,Bulgaria,data/images/geo_0016.jpg,2,0.39844462275505066,2107686,Dashalty,7368716,0,1,1024,1024,shard_254/shard_00003/2107686.png.tiles/chunk_0000_01.png
+geo_0016,Bulgaria,data/images/geo_0016.jpg,3,0.39591577649116516,7633661,"Tserovo,_Pazardzhik_Province",24512394,0,1,1024,727,shard_921/shard_00004/7633661.png.tiles/chunk_0000_01.png
+geo_0016,Bulgaria,data/images/geo_0016.jpg,4,0.39004403352737427,3059480,Google_Street_View_in_Europe,10172093,3,3,3072,1024,shard_369/shard_00001/3059480.png.tiles/chunk_0003_03.png
+geo_0016,Bulgaria,data/images/geo_0016.jpg,5,0.38904044032096863,7900086,"Voyvodovo,_Vratsa_Province",25262044,0,1,1024,1024,shard_953/shard_00005/7900086.png.tiles/chunk_0000_01.png
+geo_0017,Bulgaria,data/images/geo_0017.jpg,1,0.39011484384536743,6476538,Route_nationale_21,21099673,0,1,1024,485,shard_781/shard_00000/6476538.png.tiles/chunk_0000_01.png
+geo_0017,Bulgaria,data/images/geo_0017.jpg,2,0.38199734687805176,2966483,Georgia_State_Route_297,9896493,0,1,1024,391,shard_358/shard_00000/2966483.png.tiles/chunk_0000_01.png
+geo_0017,Bulgaria,data/images/geo_0017.jpg,3,0.38195839524269104,4545356,List_of_gravity_hills,15211726,1,2,2048,1024,shard_548/shard_00005/4545356.png.tiles/chunk_0001_02.png
+geo_0017,Bulgaria,data/images/geo_0017.jpg,4,0.38027864694595337,2046426,D21_road_(Croatia),7193194,0,1,1024,1024,shard_247/shard_00000/2046426.png.tiles/chunk_0000_01.png
+geo_0017,Bulgaria,data/images/geo_0017.jpg,5,0.376168817281723,6527220,S12_highway_(Georgia),21253600,0,3,3072,1024,shard_787/shard_00007/6527220.png.tiles/chunk_0000_03.png
+geo_0018,Bulgaria,data/images/geo_0018.jpg,1,0.388142466545105,525520,A591_road,2741556,0,1,1024,758,shard_063/shard_00003/525520.png.tiles/chunk_0000_01.png
+geo_0018,Bulgaria,data/images/geo_0018.jpg,2,0.3847014307975769,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0018,Bulgaria,data/images/geo_0018.jpg,3,0.3769935369491577,525436,A515_road,2741336,0,0,0,1024,shard_063/shard_00003/525436.png.tiles/chunk_0000_00.png
+geo_0018,Bulgaria,data/images/geo_0018.jpg,4,0.36570748686790466,1094494,B_roads_in_Zone_3_of_the_Great_Britain_numbering_scheme,4361678,6,4,4096,1024,shard_132/shard_00001/1094494.png.tiles/chunk_0006_04.png
+geo_0018,Bulgaria,data/images/geo_0018.jpg,5,0.36479759216308594,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0019,Bulgaria,data/images/geo_0019.jpg,1,0.3961564600467682,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0019,Bulgaria,data/images/geo_0019.jpg,2,0.3710106313228607,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0019,Bulgaria,data/images/geo_0019.jpg,3,0.36323320865631104,4466825,List_of_Google_April_Fools'_Day_jokes,14426816,2,6,6144,1024,shard_539/shard_00001/4466825.png.tiles/chunk_0002_06.png
+geo_0019,Bulgaria,data/images/geo_0019.jpg,4,0.35500437021255493,3402307,Historypin,11151793,0,1,1024,360,shard_410/shard_00010/3402307.png.tiles/chunk_0000_01.png
+geo_0019,Bulgaria,data/images/geo_0019.jpg,5,0.3521501421928406,3059474,Google_Street_View_in_Antarctica,10172018,0,2,2048,304,shard_369/shard_00001/3059474.png.tiles/chunk_0000_02.png
+geo_0020,Bulgaria,data/images/geo_0020.jpg,1,0.38534408807754517,5465176,Niš_Fortress,18298038,0,1,1024,1024,shard_659/shard_00006/5465176.png.tiles/chunk_0000_01.png
+geo_0020,Bulgaria,data/images/geo_0020.jpg,2,0.38248687982559204,2911713,Gates_of_Belgrade,9740749,1,5,5120,1024,shard_351/shard_00004/2911713.png.tiles/chunk_0001_05.png
+geo_0020,Bulgaria,data/images/geo_0020.jpg,3,0.3770410418510437,2911713,Gates_of_Belgrade,9740740,0,4,4096,1024,shard_351/shard_00004/2911713.png.tiles/chunk_0000_04.png
+geo_0020,Bulgaria,data/images/geo_0020.jpg,4,0.37695932388305664,7018172,Stari_dvor,22697344,0,3,3072,1024,shard_847/shard_00001/7018172.png.tiles/chunk_0000_03.png
+geo_0020,Bulgaria,data/images/geo_0020.jpg,5,0.3703245520591736,7900086,"Voyvodovo,_Vratsa_Province",25262044,0,1,1024,1024,shard_953/shard_00005/7900086.png.tiles/chunk_0000_01.png
+geo_0021,Cambodia,data/images/geo_0021.jpg,1,0.42621350288391113,3059476,Google_Street_View_in_Asia,10172024,0,1,1024,1024,shard_369/shard_00001/3059476.png.tiles/chunk_0000_01.png
+geo_0021,Cambodia,data/images/geo_0021.jpg,2,0.4079224467277527,7300108,The_Amazing_Race_Vietnam_2015,23502701,0,7,7168,1024,shard_881/shard_00001/7300108.png.tiles/chunk_0000_07.png
+geo_0021,Cambodia,data/images/geo_0021.jpg,3,0.40250033140182495,4688598,Luang_Prabang,16033884,0,6,6144,1024,shard_565/shard_00008/4688598.png.tiles/chunk_0000_06.png
+geo_0021,Cambodia,data/images/geo_0021.jpg,4,0.4009111821651459,5173999,Monivong_Boulevard,17435525,0,0,0,1024,shard_624/shard_00004/5173999.png.tiles/chunk_0000_00.png
+geo_0021,Cambodia,data/images/geo_0021.jpg,5,0.3982551693916321,5874390,Phnom_Penh,19470373,3,7,7168,1024,shard_709/shard_00001/5874390.png.tiles/chunk_0003_07.png
+geo_0022,Cambodia,data/images/geo_0022.jpg,1,0.40528249740600586,1129512,Ban_Sop_Ruak,4466072,0,2,2048,1024,shard_136/shard_00010/1129512.png.tiles/chunk_0000_02.png
+geo_0022,Cambodia,data/images/geo_0022.jpg,2,0.3990226984024048,4584740,List_of_rivers_of_Cameroon,15564013,0,2,2048,1024,shard_553/shard_00003/4584740.png.tiles/chunk_0000_02.png
+geo_0022,Cambodia,data/images/geo_0022.jpg,3,0.3916791081428528,4767377,Mae_Hong_Son_province,16250595,1,2,2048,1024,shard_575/shard_00004/4767377.png.tiles/chunk_0001_02.png
+geo_0022,Cambodia,data/images/geo_0022.jpg,4,0.39030903577804565,5861364,Phi_Pan_Nam_Range,19429644,0,6,6144,1024,shard_707/shard_00004/5861364.png.tiles/chunk_0000_06.png
+geo_0022,Cambodia,data/images/geo_0022.jpg,5,0.38661760091781616,6564879,Sai_River_(Thailand),21350161,0,0,0,1024,shard_792/shard_00003/6564879.png.tiles/chunk_0000_00.png
+geo_0023,Cambodia,data/images/geo_0023.jpg,1,0.4123246669769287,6503372,Rural_Khmer_house,21180576,1,6,6144,1024,shard_785/shard_00000/6503372.png.tiles/chunk_0001_06.png
+geo_0023,Cambodia,data/images/geo_0023.jpg,2,0.3794577121734619,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0023,Cambodia,data/images/geo_0023.jpg,3,0.37348586320877075,6042757,Portal:Sierra_Leone/Selected_picture,19870693,0,1,1024,1024,shard_729/shard_00003/6042757.png.tiles/chunk_0000_01.png
+geo_0023,Cambodia,data/images/geo_0023.jpg,4,0.37085598707199097,6347368,Rice_barn,20737625,0,1,1024,1024,shard_766/shard_00001/6347368.png.tiles/chunk_0000_01.png
+geo_0023,Cambodia,data/images/geo_0023.jpg,5,0.3705969452857971,1812966,Circles_of_latitude_between_the_Equator_and_the_5th_parallel_north,6508793,1,3,3072,1024,shard_218/shard_00006/1812966.png.tiles/chunk_0001_03.png
+geo_0024,Cambodia,data/images/geo_0024.jpg,1,0.5075273513793945,6503372,Rural_Khmer_house,21180576,1,6,6144,1024,shard_785/shard_00000/6503372.png.tiles/chunk_0001_06.png
+geo_0024,Cambodia,data/images/geo_0024.jpg,2,0.41763579845428467,6503372,Rural_Khmer_house,21180569,0,7,7168,1024,shard_785/shard_00000/6503372.png.tiles/chunk_0000_07.png
+geo_0024,Cambodia,data/images/geo_0024.jpg,3,0.4129619002342224,6503372,Rural_Khmer_house,21180564,0,2,2048,1024,shard_785/shard_00000/6503372.png.tiles/chunk_0000_02.png
+geo_0024,Cambodia,data/images/geo_0024.jpg,4,0.40047112107276917,6503372,Rural_Khmer_house,21180570,1,0,0,1024,shard_785/shard_00000/6503372.png.tiles/chunk_0001_00.png
+geo_0024,Cambodia,data/images/geo_0024.jpg,5,0.3960985839366913,5984013,Portal:Cambodia,19761751,0,5,5120,1024,shard_722/shard_00002/5984013.png.tiles/chunk_0000_05.png
+geo_0025,Cambodia,data/images/geo_0025.jpg,1,0.3763841390609741,2750004,Florida_State_Road_405,9257920,0,1,1024,368,shard_331/shard_00006/2750004.png.tiles/chunk_0000_01.png
+geo_0025,Cambodia,data/images/geo_0025.jpg,2,0.3760513961315155,2043108,Călmățui_(Brăila),7184221,0,1,1024,211,shard_246/shard_00011/2043108.png.tiles/chunk_0000_01.png
+geo_0025,Cambodia,data/images/geo_0025.jpg,3,0.364333838224411,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0025,Cambodia,data/images/geo_0025.jpg,4,0.3624300956726074,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0025,Cambodia,data/images/geo_0025.jpg,5,0.3607085049152374,2405593,Ecuador_Highway_35,8255851,0,1,1024,323,shard_290/shard_00001/2405593.png.tiles/chunk_0000_01.png
+geo_0026,China,data/images/geo_0026.jpg,1,0.37906545400619507,3059204,Google_Earth,10170421,1,3,3072,1024,shard_369/shard_00001/3059204.png.tiles/chunk_0001_03.png
+geo_0026,China,data/images/geo_0026.jpg,2,0.37131229043006897,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573873,0,4,4096,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_04.png
+geo_0026,China,data/images/geo_0026.jpg,3,0.3565741777420044,1619153,Cartographic_censorship,5938932,0,3,3072,1024,shard_195/shard_00003/1619153.png.tiles/chunk_0000_03.png
+geo_0026,China,data/images/geo_0026.jpg,4,0.35039615631103516,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0026,China,data/images/geo_0026.jpg,5,0.3468171954154968,3059307,Google_Maps,10170963,1,4,4096,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_04.png
+geo_0027,China,data/images/geo_0027.jpg,1,0.41475188732147217,2707952,Field_Museum_of_Natural_History,9125975,1,7,7168,1024,shard_326/shard_00012/2707952.png.tiles/chunk_0001_07.png
+geo_0027,China,data/images/geo_0027.jpg,2,0.40822869539260864,5366222,Nazarbayev_Center,18007424,0,2,2048,1024,shard_647/shard_00006/5366222.png.tiles/chunk_0000_02.png
+geo_0027,China,data/images/geo_0027.jpg,3,0.4062844514846802,5491923,North_American_Native_Museum,18373614,0,1,1024,1024,shard_662/shard_00009/5491923.png.tiles/chunk_0000_01.png
+geo_0027,China,data/images/geo_0027.jpg,4,0.4015224277973175,7496467,Tibet_Museum_(Lhasa),24082562,0,1,1024,1024,shard_904/shard_00007/7496467.png.tiles/chunk_0000_01.png
+geo_0027,China,data/images/geo_0027.jpg,5,0.40113765001296997,5070383,Middle_American_Research_Institute,17122046,0,3,3072,1024,shard_612/shard_00000/5070383.png.tiles/chunk_0000_03.png
+geo_0028,China,data/images/geo_0028.jpg,1,0.3907735049724579,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0028,China,data/images/geo_0028.jpg,2,0.38505473732948303,4603063,List_of_works_by_Zaha_Hadid,15777630,1,1,1024,1024,shard_555/shard_00005/4603063.png.tiles/chunk_0001_01.png
+geo_0028,China,data/images/geo_0028.jpg,3,0.3837427496910095,7951603,Wangjing_SOHO,25407498,0,0,0,1024,shard_959/shard_00007/7951603.png.tiles/chunk_0000_00.png
+geo_0028,China,data/images/geo_0028.jpg,4,0.38060444593429565,8207304,Zaha_Hadid,26142408,1,0,0,1024,shard_990/shard_00006/8207304.png.tiles/chunk_0001_00.png
+geo_0028,China,data/images/geo_0028.jpg,5,0.3793441951274872,6538901,SOHO_China,21284605,0,3,3072,1024,shard_789/shard_00002/6538901.png.tiles/chunk_0000_03.png
+geo_0029,China,data/images/geo_0029.jpg,1,0.4518589377403259,4556134,List_of_longest_suspension_bridge_spans_of_main_span_between_500_and_1000_meters,15300332,2,1,1024,1024,shard_549/shard_00008/4556134.png.tiles/chunk_0002_01.png
+geo_0029,China,data/images/geo_0029.jpg,2,0.44657570123672485,4556134,List_of_longest_suspension_bridge_spans_of_main_span_between_500_and_1000_meters,15300325,1,2,2048,1024,shard_549/shard_00008/4556134.png.tiles/chunk_0001_02.png
+geo_0029,China,data/images/geo_0029.jpg,3,0.4388172924518585,4555990,List_of_longest_cable-stayed_bridge_spans,15299679,1,0,0,1024,shard_549/shard_00008/4555990.png.tiles/chunk_0001_00.png
+geo_0029,China,data/images/geo_0029.jpg,4,0.43742257356643677,4555990,List_of_longest_cable-stayed_bridge_spans,15299681,1,2,2048,1024,shard_549/shard_00008/4555990.png.tiles/chunk_0001_02.png
+geo_0029,China,data/images/geo_0029.jpg,5,0.4370770752429962,945816,Architecture_of_Macau,3914309,0,2,2048,1024,shard_114/shard_00001/945816.png.tiles/chunk_0000_02.png
+geo_0030,China,data/images/geo_0030.jpg,1,0.3707721531391144,4592944,List_of_state_highways_in_Hawaii,15669790,6,5,5120,448,shard_554/shard_00003/4592944.png.tiles/chunk_0006_05.png
+geo_0030,China,data/images/geo_0030.jpg,2,0.37018120288848877,3128638,Guam_Highway_14,10392595,0,1,1024,592,shard_377/shard_00005/3128638.png.tiles/chunk_0000_01.png
+geo_0030,China,data/images/geo_0030.jpg,3,0.367540568113327,2387815,East_Asia,8194265,2,6,6144,1024,shard_288/shard_00010/2387815.png.tiles/chunk_0002_06.png
+geo_0030,China,data/images/geo_0030.jpg,4,0.3632182478904724,6008519,Portal:Geography/Featured_picture_archive/2008,19816921,3,6,6144,1024,shard_725/shard_00002/6008519.png.tiles/chunk_0003_06.png
+geo_0030,China,data/images/geo_0030.jpg,5,0.3631017208099365,6527830,S9902_Xinle-Yuanshi_Expressway,21254904,0,1,1024,1024,shard_788/shard_00000/6527830.png.tiles/chunk_0000_01.png
+geo_0031,Ecuador,data/images/geo_0031.jpg,1,0.3678789436817169,6522144,Río_Inabón,21240984,0,3,3072,1024,shard_787/shard_00002/6522144.png.tiles/chunk_0000_03.png
+geo_0031,Ecuador,data/images/geo_0031.jpg,2,0.36438432335853577,689000,Alamikamba_Airport,3190479,0,0,0,1024,shard_083/shard_00010/689000.png.tiles/chunk_0000_00.png
+geo_0031,Ecuador,data/images/geo_0031.jpg,3,0.36054834723472595,5705605,Palcasa_Airport,18992645,0,1,1024,368,shard_688/shard_00009/5705605.png.tiles/chunk_0000_01.png
+geo_0031,Ecuador,data/images/geo_0031.jpg,4,0.3594098687171936,6634853,"Santo_Domingo,_Nueva_Ecija",21554850,0,5,5120,1024,shard_800/shard_00007/6634853.png.tiles/chunk_0000_05.png
+geo_0031,Ecuador,data/images/geo_0031.jpg,5,0.3551557660102844,5713029,Pan-American_Highway,19016116,2,3,3072,1024,shard_689/shard_00005/5713029.png.tiles/chunk_0002_03.png
+geo_0032,Ecuador,data/images/geo_0032.jpg,1,0.40884071588516235,4546616,"List_of_highways_in_Ponce,_Puerto_Rico",15223475,0,5,5120,1024,shard_548/shard_00006/4546616.png.tiles/chunk_0000_05.png
+geo_0032,Ecuador,data/images/geo_0032.jpg,2,0.4070167541503906,6152103,Puerto_Rico_Highway_3,20162176,1,2,2048,1024,shard_742/shard_00005/6152103.png.tiles/chunk_0001_02.png
+geo_0032,Ecuador,data/images/geo_0032.jpg,3,0.3957740068435669,7592014,Transport_in_Nicaragua,24404174,0,3,3072,1024,shard_916/shard_00003/7592014.png.tiles/chunk_0000_03.png
+geo_0032,Ecuador,data/images/geo_0032.jpg,4,0.3934621214866638,6151987,Puerto_Rico_Highway_123,20161812,0,3,3072,1024,shard_742/shard_00005/6151987.png.tiles/chunk_0000_03.png
+geo_0032,Ecuador,data/images/geo_0032.jpg,5,0.3901522755622864,6151954,Puerto_Rico_Highway_1,20161688,0,3,3072,1024,shard_742/shard_00005/6151954.png.tiles/chunk_0000_03.png
+geo_0033,Ecuador,data/images/geo_0033.jpg,1,0.39372801780700684,4554312,List_of_licensed_and_localized_editions_of_Monopoly:_South_America,15285689,0,2,2048,1024,shard_549/shard_00006/4554312.png.tiles/chunk_0000_02.png
+geo_0033,Ecuador,data/images/geo_0033.jpg,2,0.38269299268722534,6068417,Portugués_River,19918535,0,3,3072,1024,shard_732/shard_00004/6068417.png.tiles/chunk_0000_03.png
+geo_0033,Ecuador,data/images/geo_0033.jpg,3,0.38037967681884766,3059485,Google_Street_View_in_South_America,10172114,0,0,0,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0000_00.png
+geo_0033,Ecuador,data/images/geo_0033.jpg,4,0.3777894973754883,3059485,Google_Street_View_in_South_America,10172128,1,6,6144,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_06.png
+geo_0033,Ecuador,data/images/geo_0033.jpg,5,0.37538647651672363,5035937,Mexico_City_Metrobús_Line_3,17021651,1,3,3072,1024,shard_607/shard_00007/5035937.png.tiles/chunk_0001_03.png
+geo_0034,Ecuador,data/images/geo_0034.jpg,1,0.3971590995788574,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0034,Ecuador,data/images/geo_0034.jpg,2,0.38703393936157227,3059475,Google_Street_View_in_Argentina,10172022,0,3,3072,965,shard_369/shard_00001/3059475.png.tiles/chunk_0000_03.png
+geo_0034,Ecuador,data/images/geo_0034.jpg,3,0.38699421286582947,3059479,Google_Street_View_in_Colombia,10172065,1,7,7168,1024,shard_369/shard_00001/3059479.png.tiles/chunk_0001_07.png
+geo_0034,Ecuador,data/images/geo_0034.jpg,4,0.38371190428733826,3059485,Google_Street_View_in_South_America,10172129,1,7,7168,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_07.png
+geo_0034,Ecuador,data/images/geo_0034.jpg,5,0.37598347663879395,5713029,Pan-American_Highway,19016111,1,6,6144,1024,shard_689/shard_00005/5713029.png.tiles/chunk_0001_06.png
+geo_0035,Ecuador,data/images/geo_0035.jpg,1,0.4182780385017395,1462373,Bucaná_River,5468685,0,1,1024,1024,shard_176/shard_00011/1462373.png.tiles/chunk_0000_01.png
+geo_0035,Ecuador,data/images/geo_0035.jpg,2,0.41750168800354004,3059485,Google_Street_View_in_South_America,10172129,1,7,7168,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_07.png
+geo_0035,Ecuador,data/images/geo_0035.jpg,3,0.40636831521987915,3059479,Google_Street_View_in_Colombia,10172065,1,7,7168,1024,shard_369/shard_00001/3059479.png.tiles/chunk_0001_07.png
+geo_0035,Ecuador,data/images/geo_0035.jpg,4,0.4002265930175781,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0035,Ecuador,data/images/geo_0035.jpg,5,0.3948863744735718,6152103,Puerto_Rico_Highway_3,20162176,1,2,2048,1024,shard_742/shard_00005/6152103.png.tiles/chunk_0001_02.png
+geo_0036,Estonia,data/images/geo_0036.jpg,1,0.41022491455078125,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0036,Estonia,data/images/geo_0036.jpg,2,0.398111492395401,3050092,Golf,10146446,0,2,2048,1024,shard_368/shard_00009/3050092.png.tiles/chunk_0000_02.png
+geo_0036,Estonia,data/images/geo_0036.jpg,3,0.37705904245376587,2097103,"Darby,_Montana",7337120,0,4,4096,1024,shard_253/shard_00001/2097103.png.tiles/chunk_0000_04.png
+geo_0036,Estonia,data/images/geo_0036.jpg,4,0.3744577169418335,8113448,World_Woods_Golf_Club,25892603,0,0,0,1024,shard_979/shard_00003/8113448.png.tiles/chunk_0000_00.png
+geo_0036,Estonia,data/images/geo_0036.jpg,5,0.3729710578918457,3528130,Iandra_Castle,11520871,0,4,4096,1024,shard_425/shard_00013/3528130.png.tiles/chunk_0000_04.png
+geo_0037,Estonia,data/images/geo_0037.jpg,1,0.39693111181259155,6934513,South_Carolina_Highway_252,22436907,0,4,4096,237,shard_837/shard_00000/6934513.png.tiles/chunk_0000_04.png
+geo_0037,Estonia,data/images/geo_0037.jpg,2,0.3842981159687042,6665590,Scania_Truck_Driving_Simulator,21642442,0,0,0,1024,shard_804/shard_00005/6665590.png.tiles/chunk_0000_00.png
+geo_0037,Estonia,data/images/geo_0037.jpg,3,0.3797234296798706,3059471,Google_Street_View_coverage,10171998,7,6,6144,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_06.png
+geo_0037,Estonia,data/images/geo_0037.jpg,4,0.375474214553833,255754,2005_Race_of_Champions,1049234,0,3,3072,1024,shard_030/shard_00007/255754.png.tiles/chunk_0000_03.png
+geo_0037,Estonia,data/images/geo_0037.jpg,5,0.37452006340026855,2934309,GeoGuessr,9807325,0,5,5120,868,shard_354/shard_00001/2934309.png.tiles/chunk_0000_05.png
+geo_0038,Estonia,data/images/geo_0038.jpg,1,0.3737855553627014,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0038,Estonia,data/images/geo_0038.jpg,2,0.3704379200935364,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0038,Estonia,data/images/geo_0038.jpg,3,0.3624061346054077,4554309,List_of_licensed_and_localized_editions_of_Monopoly:_Europe,15285621,4,3,3072,1024,shard_549/shard_00006/4554309.png.tiles/chunk_0004_03.png
+geo_0038,Estonia,data/images/geo_0038.jpg,4,0.34914928674697876,3059480,Google_Street_View_in_Europe,10172091,3,1,1024,1024,shard_369/shard_00001/3059480.png.tiles/chunk_0003_01.png
+geo_0038,Estonia,data/images/geo_0038.jpg,5,0.34782177209854126,3087866,Grand_union,10263946,0,7,7168,1024,shard_372/shard_00011/3087866.png.tiles/chunk_0000_07.png
+geo_0039,Estonia,data/images/geo_0039.jpg,1,0.38273847103118896,6018996,Portal:Latvia/Featured_picture/12,19833612,0,0,0,1024,shard_726/shard_00004/6018996.png.tiles/chunk_0000_00.png
+geo_0039,Estonia,data/images/geo_0039.jpg,2,0.36227357387542725,2966483,Georgia_State_Route_297,9896493,0,1,1024,391,shard_358/shard_00000/2966483.png.tiles/chunk_0000_01.png
+geo_0039,Estonia,data/images/geo_0039.jpg,3,0.3575730323791504,3050092,Golf,10146446,0,2,2048,1024,shard_368/shard_00009/3050092.png.tiles/chunk_0000_02.png
+geo_0039,Estonia,data/images/geo_0039.jpg,4,0.3563910126686096,2750059,Florida_State_Road_5,9258061,0,2,2048,507,shard_331/shard_00006/2750059.png.tiles/chunk_0000_02.png
+geo_0039,Estonia,data/images/geo_0039.jpg,5,0.3561481237411499,2965004,"Georgia,_New_Jersey",9893219,0,0,0,1024,shard_357/shard_00007/2965004.png.tiles/chunk_0000_00.png
+geo_0040,Estonia,data/images/geo_0040.jpg,1,0.4024101793766022,5493753,North_Carolina_Highway_740,18381056,0,1,1024,569,shard_663/shard_00001/5493753.png.tiles/chunk_0000_01.png
+geo_0040,Estonia,data/images/geo_0040.jpg,2,0.3960719406604767,6104539,Prince_of_Wales_Drive,20030157,0,0,0,1024,shard_736/shard_00007/6104539.png.tiles/chunk_0000_00.png
+geo_0040,Estonia,data/images/geo_0040.jpg,3,0.3958745300769806,5413779,New_York_State_Route_5,18147041,0,4,4096,1024,shard_653/shard_00004/5413779.png.tiles/chunk_0000_04.png
+geo_0040,Estonia,data/images/geo_0040.jpg,4,0.3955942988395691,6187540,Quebec_Route_291,20256696,0,0,0,1024,shard_746/shard_00007/6187540.png.tiles/chunk_0000_00.png
+geo_0040,Estonia,data/images/geo_0040.jpg,5,0.39319175481796265,4585196,List_of_roads_in_Brampton,15568002,1,7,7168,1024,shard_553/shard_00004/4585196.png.tiles/chunk_0001_07.png
+geo_0041,Eswatini,data/images/geo_0041.jpg,1,0.3927419185638428,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0041,Eswatini,data/images/geo_0041.jpg,2,0.367301881313324,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0041,Eswatini,data/images/geo_0041.jpg,3,0.36063235998153687,4546616,"List_of_highways_in_Ponce,_Puerto_Rico",15223475,0,5,5120,1024,shard_548/shard_00006/4546616.png.tiles/chunk_0000_05.png
+geo_0041,Eswatini,data/images/geo_0041.jpg,4,0.360429584980011,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0041,Eswatini,data/images/geo_0041.jpg,5,0.34690192341804504,4545356,List_of_gravity_hills,15211717,0,1,1024,1024,shard_548/shard_00005/4545356.png.tiles/chunk_0000_01.png
+geo_0042,Eswatini,data/images/geo_0042.jpg,1,0.38720571994781494,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0042,Eswatini,data/images/geo_0042.jpg,2,0.38615331053733826,6152095,Puerto_Rico_Highway_252,20162152,0,0,0,1024,shard_742/shard_00005/6152095.png.tiles/chunk_0000_00.png
+geo_0042,Eswatini,data/images/geo_0042.jpg,3,0.3835555911064148,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0042,Eswatini,data/images/geo_0042.jpg,4,0.3815489709377289,6152077,Puerto_Rico_Highway_20,20162111,0,2,2048,804,shard_742/shard_00005/6152077.png.tiles/chunk_0000_02.png
+geo_0042,Eswatini,data/images/geo_0042.jpg,5,0.38061970472335815,1066331,Avenida_Juan_Ponce_de_León,4283878,0,4,4096,1024,shard_128/shard_00005/1066331.png.tiles/chunk_0000_04.png
+geo_0043,Eswatini,data/images/geo_0043.jpg,1,0.38517674803733826,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0043,Eswatini,data/images/geo_0043.jpg,2,0.37392544746398926,2270586,Djuma_Game_Reserve,7863745,0,0,0,1024,shard_274/shard_00000/2270586.png.tiles/chunk_0000_00.png
+geo_0043,Eswatini,data/images/geo_0043.jpg,3,0.3686567544937134,8032726,Wilderness_(company),25656660,0,2,2048,1024,shard_969/shard_00005/8032726.png.tiles/chunk_0000_02.png
+geo_0043,Eswatini,data/images/geo_0043.jpg,4,0.3672597110271454,1344654,Bo_Plains,5119135,0,0,0,1024,shard_162/shard_00010/1344654.png.tiles/chunk_0000_00.png
+geo_0043,Eswatini,data/images/geo_0043.jpg,5,0.36712077260017395,8031061,WildEarth,25652094,0,1,1024,1024,shard_969/shard_00003/8031061.png.tiles/chunk_0000_01.png
+geo_0044,Eswatini,data/images/geo_0044.jpg,1,0.4323291480541229,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0044,Eswatini,data/images/geo_0044.jpg,2,0.4050735831260681,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0044,Eswatini,data/images/geo_0044.jpg,3,0.39454731345176697,3059473,Google_Street_View_in_Africa,10172012,0,4,4096,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_04.png
+geo_0044,Eswatini,data/images/geo_0044.jpg,4,0.3864278793334961,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0044,Eswatini,data/images/geo_0044.jpg,5,0.3749465346336365,3059471,Google_Street_View_coverage,10171999,7,7,7168,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_07.png
+geo_0045,Eswatini,data/images/geo_0045.jpg,1,0.4802955090999603,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0045,Eswatini,data/images/geo_0045.jpg,2,0.43267127871513367,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0045,Eswatini,data/images/geo_0045.jpg,3,0.4322846233844757,3059473,Google_Street_View_in_Africa,10172011,0,3,3072,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_03.png
+geo_0045,Eswatini,data/images/geo_0045.jpg,4,0.4267737865447998,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0045,Eswatini,data/images/geo_0045.jpg,5,0.42671018838882446,3059473,Google_Street_View_in_Africa,10172012,0,4,4096,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_04.png
+geo_0046,Faroe Islands,data/images/geo_0046.jpg,1,0.4107693135738373,2938516,Geography_of_the_Faroe_Islands,9819751,0,0,0,1024,shard_354/shard_00011/2938516.png.tiles/chunk_0000_00.png
+geo_0046,Faroe Islands,data/images/geo_0046.jpg,2,0.4103236198425293,2854593,Fugloyarfjørður,9580669,0,0,0,1024,shard_344/shard_00011/2854593.png.tiles/chunk_0000_00.png
+geo_0046,Faroe Islands,data/images/geo_0046.jpg,3,0.40776270627975464,3293564,Helluland,10860116,0,1,1024,1024,shard_397/shard_00004/3293564.png.tiles/chunk_0000_01.png
+geo_0046,Faroe Islands,data/images/geo_0046.jpg,4,0.40594053268432617,2735193,Fjord,9213731,1,1,1024,1024,shard_330/shard_00001/2735193.png.tiles/chunk_0001_01.png
+geo_0046,Faroe Islands,data/images/geo_0046.jpg,5,0.40253084897994995,7644221,Tunulliarfik_Fjord,24542537,0,1,1024,600,shard_922/shard_00006/7644221.png.tiles/chunk_0000_01.png
+geo_0047,Faroe Islands,data/images/geo_0047.jpg,1,0.4539863169193268,6473538,Route_1_(Iceland),21098930,0,5,5120,1024,shard_781/shard_00003/6473538.png.tiles/chunk_0000_05.png
+geo_0047,Faroe Islands,data/images/geo_0047.jpg,2,0.42050451040267944,4466826,List_of_Google_Easter_eggs,14426852,1,4,4096,1024,shard_539/shard_00009/4466826.png.tiles/chunk_0001_04.png
+geo_0047,Faroe Islands,data/images/geo_0047.jpg,3,0.41618621349334717,6473538,Route_1_(Iceland),21098925,0,0,0,1024,shard_781/shard_00003/6473538.png.tiles/chunk_0000_00.png
+geo_0047,Faroe Islands,data/images/geo_0047.jpg,4,0.41097745299339294,3118122,Grim_(Kristiansand),10363819,0,6,6144,1024,shard_376/shard_00011/3118122.png.tiles/chunk_0000_06.png
+geo_0047,Faroe Islands,data/images/geo_0047.jpg,5,0.40667325258255005,7300047,The_Amazing_Race_30,23501686,0,4,4096,1024,shard_881/shard_00001/7300047.png.tiles/chunk_0000_04.png
+geo_0048,Faroe Islands,data/images/geo_0048.jpg,1,0.44034814834594727,2865632,Fáskrúðsfjörður,9612553,0,1,1024,1024,shard_345/shard_00006/2865632.png.tiles/chunk_0000_01.png
+geo_0048,Faroe Islands,data/images/geo_0048.jpg,2,0.4157007932662964,2913045,Gaular,9744735,1,3,3072,1024,shard_351/shard_00005/2913045.png.tiles/chunk_0001_03.png
+geo_0048,Faroe Islands,data/images/geo_0048.jpg,3,0.41131192445755005,7178176,Sørvágur,23152061,0,0,0,1024,shard_866/shard_00004/7178176.png.tiles/chunk_0000_00.png
+geo_0048,Faroe Islands,data/images/geo_0048.jpg,4,0.4060893952846527,7525606,Tjørnuvík,24202325,0,0,0,1024,shard_908/shard_00003/7525606.png.tiles/chunk_0000_00.png
+geo_0048,Faroe Islands,data/images/geo_0048.jpg,5,0.4052028954029083,4571233,List_of_northernmost_items,15447243,5,0,0,1024,shard_551/shard_00009/4571233.png.tiles/chunk_0005_00.png
+geo_0049,Faroe Islands,data/images/geo_0049.jpg,1,0.4531390070915222,2938516,Geography_of_the_Faroe_Islands,9819751,0,0,0,1024,shard_354/shard_00011/2938516.png.tiles/chunk_0000_00.png
+geo_0049,Faroe Islands,data/images/geo_0049.jpg,2,0.44135910272598267,6473538,Route_1_(Iceland),21098930,0,5,5120,1024,shard_781/shard_00003/6473538.png.tiles/chunk_0000_05.png
+geo_0049,Faroe Islands,data/images/geo_0049.jpg,3,0.43344390392303467,5355690,National_Tourist_Routes_in_Norway,17973860,0,2,2048,1024,shard_646/shard_00004/5355690.png.tiles/chunk_0000_02.png
+geo_0049,Faroe Islands,data/images/geo_0049.jpg,4,0.43251076340675354,2938516,Geography_of_the_Faroe_Islands,9819759,1,0,0,1024,shard_354/shard_00011/2938516.png.tiles/chunk_0001_00.png
+geo_0049,Faroe Islands,data/images/geo_0049.jpg,5,0.426617830991745,6388030,Roads_in_Iceland,20857029,0,5,5120,1024,shard_771/shard_00001/6388030.png.tiles/chunk_0000_05.png
+geo_0050,Faroe Islands,data/images/geo_0050.jpg,1,0.46186041831970215,5507296,Norðfjarðargöng,18430124,0,0,0,1024,shard_664/shard_00006/5507296.png.tiles/chunk_0000_00.png
+geo_0050,Faroe Islands,data/images/geo_0050.jpg,2,0.45206278562545776,3159641,Gásadalstunnilin,10479320,0,0,0,1024,shard_381/shard_00003/3159641.png.tiles/chunk_0000_00.png
+geo_0050,Faroe Islands,data/images/geo_0050.jpg,3,0.4406740367412567,5476661,Nogvafjord_Tunnel,18329309,0,0,0,1024,shard_661/shard_00000/5476661.png.tiles/chunk_0000_00.png
+geo_0050,Faroe Islands,data/images/geo_0050.jpg,4,0.4402619004249573,5355690,National_Tourist_Routes_in_Norway,17973860,0,2,2048,1024,shard_646/shard_00004/5355690.png.tiles/chunk_0000_02.png
+geo_0050,Faroe Islands,data/images/geo_0050.jpg,5,0.43953657150268555,2865631,Fáskrúðsfjarðargöng,9612551,0,0,0,1024,shard_345/shard_00006/2865631.png.tiles/chunk_0000_00.png
+geo_0051,France,data/images/geo_0051.jpg,1,0.3740113377571106,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0051,France,data/images/geo_0051.jpg,2,0.3631944954395294,4457112,List_of_Charleroi_Metro_former_lines,14312602,0,6,6144,350,shard_538/shard_00000/4457112.png.tiles/chunk_0000_06.png
+geo_0051,France,data/images/geo_0051.jpg,3,0.3630906939506531,523706,A1_autoroute,2738938,0,0,0,1024,shard_063/shard_00001/523706.png.tiles/chunk_0000_00.png
+geo_0051,France,data/images/geo_0051.jpg,4,0.35781505703926086,805108,Amiens,3526056,1,3,3072,1024,shard_097/shard_00001/805108.png.tiles/chunk_0001_03.png
+geo_0051,France,data/images/geo_0051.jpg,5,0.35761380195617676,5738235,Paris_Avenue_(Versailles),19082635,0,0,0,1024,shard_692/shard_00005/5738235.png.tiles/chunk_0000_00.png
+geo_0052,France,data/images/geo_0052.jpg,1,0.40206101536750793,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0052,France,data/images/geo_0052.jpg,2,0.3851920962333679,5598153,On_the_Trail_of_the_Golden_Owl,18674289,1,2,2048,1024,shard_675/shard_00006/5598153.png.tiles/chunk_0001_02.png
+geo_0052,France,data/images/geo_0052.jpg,3,0.37505093216896057,1628847,Castle_of_Penedono,5967370,0,2,2048,1024,shard_196/shard_00010/1628847.png.tiles/chunk_0000_02.png
+geo_0052,France,data/images/geo_0052.jpg,4,0.3741108179092407,1482485,Burg_Klingenstein,5524764,0,4,4096,1024,shard_178/shard_00013/1482485.png.tiles/chunk_0000_04.png
+geo_0052,France,data/images/geo_0052.jpg,5,0.3725866675376892,1799036,Church_of_Notre-Dame_de_Dives-sur-Merent,6467297,0,7,7168,1024,shard_217/shard_00001/1799036.png.tiles/chunk_0000_07.png
+geo_0053,France,data/images/geo_0053.jpg,1,0.39170968532562256,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0053,France,data/images/geo_0053.jpg,2,0.3581656515598297,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0053,France,data/images/geo_0053.jpg,3,0.35246211290359497,261332,2006_Race_of_Champions,1081338,0,3,3072,1024,shard_031/shard_00009/261332.png.tiles/chunk_0000_03.png
+geo_0053,France,data/images/geo_0053.jpg,4,0.35146158933639526,3982654,JumpStart_Advanced_2nd_Grade,12872767,0,3,3072,1024,shard_480/shard_00005/3982654.png.tiles/chunk_0000_03.png
+geo_0053,France,data/images/geo_0053.jpg,5,0.3495190739631653,3037981,Go_Go_Stop,10108917,0,1,1024,1024,shard_366/shard_00006/3037981.png.tiles/chunk_0000_01.png
+geo_0054,France,data/images/geo_0054.jpg,1,0.37174057960510254,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0054,France,data/images/geo_0054.jpg,2,0.36813247203826904,4466826,List_of_Google_Easter_eggs,14426852,1,4,4096,1024,shard_539/shard_00009/4466826.png.tiles/chunk_0001_04.png
+geo_0054,France,data/images/geo_0054.jpg,3,0.3650033175945282,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0054,France,data/images/geo_0054.jpg,4,0.36367267370224,4457112,List_of_Charleroi_Metro_former_lines,14312602,0,6,6144,350,shard_538/shard_00000/4457112.png.tiles/chunk_0000_06.png
+geo_0054,France,data/images/geo_0054.jpg,5,0.36216092109680176,4577998,List_of_places_named_after_Pierre_Brossolette,15498869,4,5,5120,1024,shard_552/shard_00005/4577998.png.tiles/chunk_0004_05.png
+geo_0055,France,data/images/geo_0055.jpg,1,0.39627617597579956,3059471,Google_Street_View_coverage,10171993,7,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_01.png
+geo_0055,France,data/images/geo_0055.jpg,2,0.3881549835205078,3059278,Google_Image_Labeler,10170764,0,4,4096,1024,shard_369/shard_00001/3059278.png.tiles/chunk_0000_04.png
+geo_0055,France,data/images/geo_0055.jpg,3,0.3881409168243408,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0055,France,data/images/geo_0055.jpg,4,0.38772958517074585,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0055,France,data/images/geo_0055.jpg,5,0.3741353750228882,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0056,Greenland,data/images/geo_0056.jpg,1,0.4288848638534546,694421,Alaska_North_Slope,3206617,0,1,1024,1024,shard_083/shard_00001/694421.png.tiles/chunk_0000_01.png
+geo_0056,Greenland,data/images/geo_0056.jpg,2,0.4261407256126404,5909211,Pipe_Peak,19559528,0,0,0,1024,shard_713/shard_00002/5909211.png.tiles/chunk_0000_00.png
+geo_0056,Greenland,data/images/geo_0056.jpg,3,0.4231141209602356,4571233,List_of_northernmost_items,15447243,5,0,0,1024,shard_551/shard_00009/4571233.png.tiles/chunk_0005_00.png
+geo_0056,Greenland,data/images/geo_0056.jpg,4,0.4216312766075134,3481527,Hut_Point_Peninsula,11395065,1,2,2048,1024,shard_420/shard_00001/3481527.png.tiles/chunk_0001_02.png
+geo_0056,Greenland,data/images/geo_0056.jpg,5,0.42070984840393066,4394882,Leverett_Glacier,14029650,0,1,1024,1024,shard_530/shard_00004/4394882.png.tiles/chunk_0000_01.png
+geo_0057,Greenland,data/images/geo_0057.jpg,1,0.3899552822113037,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0057,Greenland,data/images/geo_0057.jpg,2,0.37909817695617676,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0057,Greenland,data/images/geo_0057.jpg,3,0.37358927726745605,955108,Ari_Huusela,3941923,0,2,2048,1024,shard_115/shard_00002/955108.png.tiles/chunk_0000_02.png
+geo_0057,Greenland,data/images/geo_0057.jpg,4,0.36820468306541443,5322030,Nanuuseq,17860517,0,1,1024,330,shard_642/shard_00003/5322030.png.tiles/chunk_0000_01.png
+geo_0057,Greenland,data/images/geo_0057.jpg,5,0.36013108491897583,1813579,Circumnavigation,6511124,1,0,0,1024,shard_218/shard_00006/1813579.png.tiles/chunk_0001_00.png
+geo_0058,Greenland,data/images/geo_0058.jpg,1,0.4382571876049042,3118122,Grim_(Kristiansand),10363819,0,6,6144,1024,shard_376/shard_00011/3118122.png.tiles/chunk_0000_06.png
+geo_0058,Greenland,data/images/geo_0058.jpg,2,0.41706568002700806,4571233,List_of_northernmost_items,15447243,5,0,0,1024,shard_551/shard_00009/4571233.png.tiles/chunk_0005_00.png
+geo_0058,Greenland,data/images/geo_0058.jpg,3,0.40394333004951477,4605267,Listed_buildings_in_Jönköping_County,15792164,0,4,4096,1024,shard_555/shard_00007/4605267.png.tiles/chunk_0000_04.png
+geo_0058,Greenland,data/images/geo_0058.jpg,4,0.3996141850948334,4571233,List_of_northernmost_items,15447229,3,2,2048,1024,shard_551/shard_00009/4571233.png.tiles/chunk_0003_02.png
+geo_0058,Greenland,data/images/geo_0058.jpg,5,0.3953607976436615,4571233,List_of_northernmost_items,15447255,6,4,4096,1024,shard_551/shard_00009/4571233.png.tiles/chunk_0006_04.png
+geo_0059,Greenland,data/images/geo_0059.jpg,1,0.41448670625686646,2138763,Davy_Sound,7458466,0,1,1024,915,shard_258/shard_00001/2138763.png.tiles/chunk_0000_01.png
+geo_0059,Greenland,data/images/geo_0059.jpg,2,0.41086453199386597,8036247,Wilhelmina_Bay,25666489,0,4,4096,1024,shard_970/shard_00000/8036247.png.tiles/chunk_0000_04.png
+geo_0059,Greenland,data/images/geo_0059.jpg,3,0.40818995237350464,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0059,Greenland,data/images/geo_0059.jpg,4,0.40468668937683105,5322030,Nanuuseq,17860517,0,1,1024,330,shard_642/shard_00003/5322030.png.tiles/chunk_0000_01.png
+geo_0059,Greenland,data/images/geo_0059.jpg,5,0.4041890501976013,6553714,Sabine_Islands,21319446,0,0,0,1024,shard_791/shard_00001/6553714.png.tiles/chunk_0000_00.png
+geo_0060,Greenland,data/images/geo_0060.jpg,1,0.4002816081047058,3461214,Hudson_Bay,11326228,2,1,1024,1024,shard_417/shard_00006/3461214.png.tiles/chunk_0002_01.png
+geo_0060,Greenland,data/images/geo_0060.jpg,2,0.39419132471084595,3059474,Google_Street_View_in_Antarctica,10172016,0,0,0,1024,shard_369/shard_00001/3059474.png.tiles/chunk_0000_00.png
+geo_0060,Greenland,data/images/geo_0060.jpg,3,0.39023295044898987,3059474,Google_Street_View_in_Antarctica,10172017,0,1,1024,1024,shard_369/shard_00001/3059474.png.tiles/chunk_0000_01.png
+geo_0060,Greenland,data/images/geo_0060.jpg,4,0.3898881673812866,4571233,List_of_northernmost_items,15447243,5,0,0,1024,shard_551/shard_00009/4571233.png.tiles/chunk_0005_00.png
+geo_0060,Greenland,data/images/geo_0060.jpg,5,0.3890611529350281,4555876,List_of_locations_in_the_Port_of_London,15298075,3,2,2048,1024,shard_549/shard_00007/4555876.png.tiles/chunk_0003_02.png
+geo_0061,Latvia,data/images/geo_0061.jpg,1,0.3883613049983978,5166290,Molotov_Line,17412225,0,2,2048,756,shard_623/shard_00005/5166290.png.tiles/chunk_0000_02.png
+geo_0061,Latvia,data/images/geo_0061.jpg,2,0.3831644654273987,5944016,Poland–Russia_border,19652567,0,5,5120,1024,shard_717/shard_00004/5944016.png.tiles/chunk_0000_05.png
+geo_0061,Latvia,data/images/geo_0061.jpg,3,0.37747806310653687,523708,A1_autostrada_(Poland),2738960,1,6,6144,1024,shard_063/shard_00001/523708.png.tiles/chunk_0001_06.png
+geo_0061,Latvia,data/images/geo_0061.jpg,4,0.36853498220443726,5357348,National_road_91_(Poland),17980437,0,1,1024,1024,shard_646/shard_00005/5357348.png.tiles/chunk_0000_01.png
+geo_0061,Latvia,data/images/geo_0061.jpg,5,0.3669722080230713,2624474,Expressway_S3_(Poland),8889987,1,3,3072,1024,shard_316/shard_00005/2624474.png.tiles/chunk_0001_03.png
+geo_0062,Latvia,data/images/geo_0062.jpg,1,0.38891786336898804,6007933,Portal:Gardening/Selected_picture/7,19816069,0,0,0,1024,shard_725/shard_00002/6007933.png.tiles/chunk_0000_00.png
+geo_0062,Latvia,data/images/geo_0062.jpg,2,0.38517796993255615,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0062,Latvia,data/images/geo_0062.jpg,3,0.38182613253593445,6028122,Portal:North_America/Selected_picture,19847755,1,2,2048,1024,shard_727/shard_00005/6028122.png.tiles/chunk_0001_02.png
+geo_0062,Latvia,data/images/geo_0062.jpg,4,0.37655508518218994,1812955,Circles_of_latitude_between_the_50th_parallel_north_and_the_55th_parallel_north,6508612,0,0,0,1024,shard_218/shard_00006/1812955.png.tiles/chunk_0000_00.png
+geo_0062,Latvia,data/images/geo_0062.jpg,5,0.3700835704803467,2371441,Długołęka-Koski,8146116,0,1,1024,1024,shard_286/shard_00002/2371441.png.tiles/chunk_0000_01.png
+geo_0063,Latvia,data/images/geo_0063.jpg,1,0.3828480839729309,2371441,Długołęka-Koski,8146116,0,1,1024,1024,shard_286/shard_00002/2371441.png.tiles/chunk_0000_01.png
+geo_0063,Latvia,data/images/geo_0063.jpg,2,0.3811580240726471,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0063,Latvia,data/images/geo_0063.jpg,3,0.380235493183136,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0063,Latvia,data/images/geo_0063.jpg,4,0.37812066078186035,5166290,Molotov_Line,17412225,0,2,2048,756,shard_623/shard_00005/5166290.png.tiles/chunk_0000_02.png
+geo_0063,Latvia,data/images/geo_0063.jpg,5,0.35604673624038696,943208,Archery_at_the_2017_World_Games_–_Men's_individual_compound,3905952,0,3,3072,507,shard_113/shard_00007/943208.png.tiles/chunk_0000_03.png
+geo_0064,Latvia,data/images/geo_0064.jpg,1,0.3617527484893799,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0064,Latvia,data/images/geo_0064.jpg,2,0.3594719171524048,3037981,Go_Go_Stop,10108917,0,1,1024,1024,shard_366/shard_00006/3037981.png.tiles/chunk_0000_01.png
+geo_0064,Latvia,data/images/geo_0064.jpg,3,0.3586309254169464,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0064,Latvia,data/images/geo_0064.jpg,4,0.35855692625045776,1812955,Circles_of_latitude_between_the_50th_parallel_north_and_the_55th_parallel_north,6508617,0,5,5120,1024,shard_218/shard_00006/1812955.png.tiles/chunk_0000_05.png
+geo_0064,Latvia,data/images/geo_0064.jpg,5,0.3555094003677368,6387527,Road_signs_in_Latvia,20854304,1,3,3072,1024,shard_771/shard_00000/6387527.png.tiles/chunk_0001_03.png
+geo_0065,Latvia,data/images/geo_0065.jpg,1,0.3971630334854126,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0065,Latvia,data/images/geo_0065.jpg,2,0.37770146131515503,6008255,"Portal:Geography/Featured_picture/2006,_week_28",19816562,0,0,0,1024,shard_725/shard_00002/6008255.png.tiles/chunk_0000_00.png
+geo_0065,Latvia,data/images/geo_0065.jpg,3,0.3547325134277344,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0065,Latvia,data/images/geo_0065.jpg,4,0.35319027304649353,5809858,Pennsylvania_Route_272,19286376,0,3,3072,1024,shard_701/shard_00002/5809858.png.tiles/chunk_0000_03.png
+geo_0065,Latvia,data/images/geo_0065.jpg,5,0.35191798210144043,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0066,Lebanon,data/images/geo_0066.jpg,1,0.4230725169181824,5826349,Perperikon,19331659,0,2,2048,1024,shard_703/shard_00002/5826349.png.tiles/chunk_0000_02.png
+geo_0066,Lebanon,data/images/geo_0066.jpg,2,0.4055153727531433,4790135,Makhtesh_Ramon,16317211,0,2,2048,1024,shard_578/shard_00001/4790135.png.tiles/chunk_0000_02.png
+geo_0066,Lebanon,data/images/geo_0066.jpg,3,0.40321314334869385,2513096,Endeavour_(crater),8577459,2,7,7168,1024,shard_303/shard_00002/2513096.png.tiles/chunk_0002_07.png
+geo_0066,Lebanon,data/images/geo_0066.jpg,4,0.3885115385055542,4647519,Long_distance_observations,15924095,1,1,1024,1024,shard_561/shard_00000/4647519.png.tiles/chunk_0001_01.png
+geo_0066,Lebanon,data/images/geo_0066.jpg,5,0.38801467418670654,5142826,Mitzpe_Ramon,17347624,0,0,0,1024,shard_620/shard_00006/5142826.png.tiles/chunk_0000_00.png
+geo_0067,Lebanon,data/images/geo_0067.jpg,1,0.4124745726585388,3365261,Historic_Monuments_and_Sites_of_Morocco,11054290,0,1,1024,1024,shard_406/shard_00009/3365261.png.tiles/chunk_0000_01.png
+geo_0067,Lebanon,data/images/geo_0067.jpg,2,0.40511876344680786,4566881,"List_of_monuments_in_Salé,_Morocco",15408688,0,3,3072,1024,shard_551/shard_00002/4566881.png.tiles/chunk_0000_03.png
+geo_0067,Lebanon,data/images/geo_0067.jpg,3,0.403156042098999,4566801,List_of_monuments_in_Marrakesh,15408220,0,1,1024,1024,shard_551/shard_00002/4566801.png.tiles/chunk_0000_01.png
+geo_0067,Lebanon,data/images/geo_0067.jpg,4,0.4016318917274475,4534083,List_of_cultural_assets_of_Algeria,15097011,3,4,4096,1024,shard_547/shard_00001/4534083.png.tiles/chunk_0003_04.png
+geo_0067,Lebanon,data/images/geo_0067.jpg,5,0.39830130338668823,4566881,"List_of_monuments_in_Salé,_Morocco",15408686,0,1,1024,1024,shard_551/shard_00002/4566881.png.tiles/chunk_0000_01.png
+geo_0068,Lebanon,data/images/geo_0068.jpg,1,0.40858525037765503,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0068,Lebanon,data/images/geo_0068.jpg,2,0.4013928174972534,3059485,Google_Street_View_in_South_America,10172129,1,7,7168,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_07.png
+geo_0068,Lebanon,data/images/geo_0068.jpg,3,0.39940595626831055,6008073,Portal:Geography/DYK/21,19816304,0,0,0,1024,shard_725/shard_00002/6008073.png.tiles/chunk_0000_00.png
+geo_0068,Lebanon,data/images/geo_0068.jpg,4,0.3974803686141968,3059481,Google_Street_View_in_Israel,10172100,0,2,2048,1024,shard_369/shard_00001/3059481.png.tiles/chunk_0000_02.png
+geo_0068,Lebanon,data/images/geo_0068.jpg,5,0.39692118763923645,731151,Alexandria_Corniche,3308475,0,1,1024,1024,shard_088/shard_00010/731151.png.tiles/chunk_0000_01.png
+geo_0069,Lebanon,data/images/geo_0069.jpg,1,0.3800896406173706,7300024,The_Amazing_Race_11,23501207,0,7,7168,1024,shard_881/shard_00001/7300024.png.tiles/chunk_0000_07.png
+geo_0069,Lebanon,data/images/geo_0069.jpg,2,0.37482306361198425,3649246,Isola_di_Lolando,11915135,0,1,1024,645,shard_440/shard_00010/3649246.png.tiles/chunk_0000_01.png
+geo_0069,Lebanon,data/images/geo_0069.jpg,3,0.3676808476448059,4992007,Megastructures_(TV_series),16893176,0,4,4096,1024,shard_602/shard_00005/4992007.png.tiles/chunk_0000_04.png
+geo_0069,Lebanon,data/images/geo_0069.jpg,4,0.367563396692276,5508125,Nosy_Alañaña_Light,18432087,0,1,1024,1024,shard_664/shard_00007/5508125.png.tiles/chunk_0000_01.png
+geo_0069,Lebanon,data/images/geo_0069.jpg,5,0.36684638261795044,4554445,List_of_lighthouses_in_Chile:_NGA2328–NGA2718,15286985,0,4,4096,1024,shard_549/shard_00006/4554445.png.tiles/chunk_0000_04.png
+geo_0070,Lebanon,data/images/geo_0070.jpg,1,0.39042454957962036,3210205,Hamra_Street,10621543,0,0,0,1024,shard_387/shard_00003/3210205.png.tiles/chunk_0000_00.png
+geo_0070,Lebanon,data/images/geo_0070.jpg,2,0.3869610130786896,3210199,"Hamra,_Beirut",10621528,0,0,0,1024,shard_387/shard_00003/3210199.png.tiles/chunk_0000_00.png
+geo_0070,Lebanon,data/images/geo_0070.jpg,3,0.3787912130355835,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0070,Lebanon,data/images/geo_0070.jpg,4,0.377824991941452,2990233,Ghubaira,9973141,0,1,1024,315,shard_360/shard_00011/2990233.png.tiles/chunk_0000_01.png
+geo_0070,Lebanon,data/images/geo_0070.jpg,5,0.3773301839828491,4250025,Kızıltoprak_railway_station,13616257,0,1,1024,302,shard_513/shard_00000/4250025.png.tiles/chunk_0000_01.png
+geo_0071,Luxembourg,data/images/geo_0071.jpg,1,0.3618227243423462,6064199,Porte_d'Auteuil_station,19903478,0,1,1024,1024,shard_732/shard_00000/6064199.png.tiles/chunk_0000_01.png
+geo_0071,Luxembourg,data/images/geo_0071.jpg,2,0.35453617572784424,7002873,Stade_Roland_Garros,22651883,0,6,6144,1024,shard_845/shard_00002/7002873.png.tiles/chunk_0000_06.png
+geo_0071,Luxembourg,data/images/geo_0071.jpg,3,0.345676064491272,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0071,Luxembourg,data/images/geo_0071.jpg,4,0.3418891429901123,2934309,GeoGuessr,9807325,0,5,5120,868,shard_354/shard_00001/2934309.png.tiles/chunk_0000_05.png
+geo_0071,Luxembourg,data/images/geo_0071.jpg,5,0.34070467948913574,377471,2019_Overwatch_World_Cup,1926610,0,3,3072,1024,shard_045/shard_00011/377471.png.tiles/chunk_0000_03.png
+geo_0072,Luxembourg,data/images/geo_0072.jpg,1,0.43306541442871094,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0072,Luxembourg,data/images/geo_0072.jpg,2,0.384960412979126,2934309,GeoGuessr,9807320,0,0,0,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_00.png
+geo_0072,Luxembourg,data/images/geo_0072.jpg,3,0.3805732727050781,3087866,Grand_union,10263946,0,7,7168,1024,shard_372/shard_00011/3087866.png.tiles/chunk_0000_07.png
+geo_0072,Luxembourg,data/images/geo_0072.jpg,4,0.3779557943344116,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0072,Luxembourg,data/images/geo_0072.jpg,5,0.37147194147109985,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0073,Luxembourg,data/images/geo_0073.jpg,1,0.37938955426216125,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0073,Luxembourg,data/images/geo_0073.jpg,2,0.37790071964263916,4488780,List_of_Polish_cities_and_towns_damaged_in_World_War_II,14659306,0,1,1024,1024,shard_541/shard_00007/4488780.png.tiles/chunk_0000_01.png
+geo_0073,Luxembourg,data/images/geo_0073.jpg,3,0.36981040239334106,3059471,Google_Street_View_coverage,10171998,7,6,6144,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_06.png
+geo_0073,Luxembourg,data/images/geo_0073.jpg,4,0.369396448135376,4534115,List_of_cultural_property_of_national_significance_in_Switzerland:_Fribourg,15097605,0,1,1024,1024,shard_547/shard_00001/4534115.png.tiles/chunk_0000_01.png
+geo_0073,Luxembourg,data/images/geo_0073.jpg,5,0.3644493818283081,4582116,List_of_protected_heritage_sites_in_Namur_(city),15537905,1,5,5120,1024,shard_553/shard_00001/4582116.png.tiles/chunk_0001_05.png
+geo_0074,Luxembourg,data/images/geo_0074.jpg,1,0.3716221749782562,3059469,Google_Street_View,10171920,0,1,1024,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0000_01.png
+geo_0074,Luxembourg,data/images/geo_0074.jpg,2,0.3605751395225525,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0074,Luxembourg,data/images/geo_0074.jpg,3,0.35719096660614014,3059480,Google_Street_View_in_Europe,10172066,0,0,0,1024,shard_369/shard_00001/3059480.png.tiles/chunk_0000_00.png
+geo_0074,Luxembourg,data/images/geo_0074.jpg,4,0.3568788766860962,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0074,Luxembourg,data/images/geo_0074.jpg,5,0.3556874990463257,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0075,Luxembourg,data/images/geo_0075.jpg,1,0.39615291357040405,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0075,Luxembourg,data/images/geo_0075.jpg,2,0.38788872957229614,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0075,Luxembourg,data/images/geo_0075.jpg,3,0.37393245100975037,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0075,Luxembourg,data/images/geo_0075.jpg,4,0.3637695908546448,7074760,Straight_line_mission,22845281,0,0,0,1024,shard_854/shard_00000/7074760.png.tiles/chunk_0000_00.png
+geo_0075,Luxembourg,data/images/geo_0075.jpg,5,0.3573903739452362,4466825,List_of_Google_April_Fools'_Day_jokes,14426816,2,6,6144,1024,shard_539/shard_00001/4466825.png.tiles/chunk_0002_06.png
+geo_0076,Montenegro,data/images/geo_0076.jpg,1,0.41046392917633057,2599047,European_route_E80,8820541,0,1,1024,1024,shard_313/shard_00005/2599047.png.tiles/chunk_0000_01.png
+geo_0076,Montenegro,data/images/geo_0076.jpg,2,0.40233880281448364,1063083,Autostrada_A55,4274249,0,2,2048,1024,shard_128/shard_00002/1063083.png.tiles/chunk_0000_02.png
+geo_0076,Montenegro,data/images/geo_0076.jpg,3,0.40054792165756226,2599025,European_route_E70,8820469,0,1,1024,1024,shard_313/shard_00005/2599025.png.tiles/chunk_0000_01.png
+geo_0076,Montenegro,data/images/geo_0076.jpg,4,0.39750295877456665,1063060,Autostrada_A23_(Italy),4274141,0,1,1024,1024,shard_128/shard_00002/1063060.png.tiles/chunk_0000_01.png
+geo_0076,Montenegro,data/images/geo_0076.jpg,5,0.38745006918907166,4731434,M-4.1_highway_(Montenegro),16150467,0,0,0,1024,shard_571/shard_00001/4731434.png.tiles/chunk_0000_00.png
+geo_0077,Montenegro,data/images/geo_0077.jpg,1,0.38962888717651367,2966867,Georgia_State_Route_65,9897027,0,1,1024,215,shard_358/shard_00009/2966867.png.tiles/chunk_0000_01.png
+geo_0077,Montenegro,data/images/geo_0077.jpg,2,0.38666054606437683,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0077,Montenegro,data/images/geo_0077.jpg,3,0.38314497470855713,2966184,Georgia_State_Route_171,9896074,0,2,2048,205,shard_358/shard_00000/2966184.png.tiles/chunk_0000_02.png
+geo_0077,Montenegro,data/images/geo_0077.jpg,4,0.37808167934417725,2934309,GeoGuessr,9807325,0,5,5120,868,shard_354/shard_00001/2934309.png.tiles/chunk_0000_05.png
+geo_0077,Montenegro,data/images/geo_0077.jpg,5,0.37158191204071045,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0078,Montenegro,data/images/geo_0078.jpg,1,0.3806383013725281,442751,2025_Senior_Open_Championship,2510351,0,1,1024,1024,shard_053/shard_00003/442751.png.tiles/chunk_0000_01.png
+geo_0078,Montenegro,data/images/geo_0078.jpg,2,0.3670044541358948,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0078,Montenegro,data/images/geo_0078.jpg,3,0.36213594675064087,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0078,Montenegro,data/images/geo_0078.jpg,4,0.3568020761013031,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0078,Montenegro,data/images/geo_0078.jpg,5,0.3562391698360443,3059307,Google_Maps,10170955,0,4,4096,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_04.png
+geo_0079,Montenegro,data/images/geo_0079.jpg,1,0.3853291869163513,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0079,Montenegro,data/images/geo_0079.jpg,2,0.36974772810935974,4020789,Kaaterskill_High_Peak,12982962,1,2,2048,1024,shard_485/shard_00003/4020789.png.tiles/chunk_0001_02.png
+geo_0079,Montenegro,data/images/geo_0079.jpg,3,0.3663969933986664,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0079,Montenegro,data/images/geo_0079.jpg,4,0.3575090169906616,4495083,List_of_South_Fork_Eel_River_crossings,14724994,0,3,3072,386,shard_542/shard_00005/4495083.png.tiles/chunk_0000_03.png
+geo_0079,Montenegro,data/images/geo_0079.jpg,5,0.35677570104599,4431692,Line_of_greatest_slope,14141385,0,1,1024,586,shard_534/shard_00008/4431692.png.tiles/chunk_0000_01.png
+geo_0080,Montenegro,data/images/geo_0080.jpg,1,0.44060608744621277,2599047,European_route_E80,8820541,0,1,1024,1024,shard_313/shard_00005/2599047.png.tiles/chunk_0000_01.png
+geo_0080,Montenegro,data/images/geo_0080.jpg,2,0.43946170806884766,2046449,D25_road_(Croatia),7193252,0,1,1024,1024,shard_247/shard_00000/2046449.png.tiles/chunk_0000_01.png
+geo_0080,Montenegro,data/images/geo_0080.jpg,3,0.43790245056152344,4731434,M-4.1_highway_(Montenegro),16150467,0,0,0,1024,shard_571/shard_00001/4731434.png.tiles/chunk_0000_00.png
+geo_0080,Montenegro,data/images/geo_0080.jpg,4,0.4364805221557617,4731406,M-2_highway_(Montenegro),16150376,0,2,2048,1024,shard_571/shard_00001/4731406.png.tiles/chunk_0000_02.png
+geo_0080,Montenegro,data/images/geo_0080.jpg,5,0.43476349115371704,3059480,Google_Street_View_in_Europe,10172093,3,3,3072,1024,shard_369/shard_00001/3059480.png.tiles/chunk_0003_03.png
+geo_0081,Northern Mariana Islands,data/images/geo_0081.jpg,1,0.4112577438354492,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0081,Northern Mariana Islands,data/images/geo_0081.jpg,2,0.3999703526496887,6152152,Puerto_Rico_Highway_504,20162252,0,0,0,1024,shard_742/shard_00005/6152152.png.tiles/chunk_0000_00.png
+geo_0081,Northern Mariana Islands,data/images/geo_0081.jpg,3,0.39640262722969055,7677754,U.S._Virgin_Islands_Highway_40,24628622,0,0,0,1024,shard_926/shard_00006/7677754.png.tiles/chunk_0000_00.png
+geo_0081,Northern Mariana Islands,data/images/geo_0081.jpg,4,0.38704001903533936,2750004,Florida_State_Road_405,9257920,0,1,1024,368,shard_331/shard_00006/2750004.png.tiles/chunk_0000_01.png
+geo_0081,Northern Mariana Islands,data/images/geo_0081.jpg,5,0.38703227043151855,6152169,Puerto_Rico_Highway_54,20162289,0,0,0,1024,shard_742/shard_00005/6152169.png.tiles/chunk_0000_00.png
+geo_0082,Northern Mariana Islands,data/images/geo_0082.jpg,1,0.37710341811180115,804168,Amerzone,3523391,0,1,1024,1024,shard_097/shard_00000/804168.png.tiles/chunk_0000_01.png
+geo_0082,Northern Mariana Islands,data/images/geo_0082.jpg,2,0.36529359221458435,3059484,Google_Street_View_in_Oceania,10172112,0,2,2048,1024,shard_369/shard_00001/3059484.png.tiles/chunk_0000_02.png
+geo_0082,Northern Mariana Islands,data/images/geo_0082.jpg,3,0.3626821041107178,2710078,Fig_Tree_Drive,9133618,0,0,0,1024,shard_327/shard_00000/2710078.png.tiles/chunk_0000_00.png
+geo_0082,Northern Mariana Islands,data/images/geo_0082.jpg,4,0.3614550232887268,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0082,Northern Mariana Islands,data/images/geo_0082.jpg,5,0.35951557755470276,1812966,Circles_of_latitude_between_the_Equator_and_the_5th_parallel_north,6508788,0,6,6144,1024,shard_218/shard_00006/1812966.png.tiles/chunk_0000_06.png
+geo_0083,Northern Mariana Islands,data/images/geo_0083.jpg,1,0.3912929892539978,6579661,Sakishima_Beacons,21396020,0,1,1024,1024,shard_794/shard_00002/6579661.png.tiles/chunk_0000_01.png
+geo_0083,Northern Mariana Islands,data/images/geo_0083.jpg,2,0.38766688108444214,1580909,Cape_Sōya,5828090,0,2,2048,1024,shard_190/shard_00013/1580909.png.tiles/chunk_0000_02.png
+geo_0083,Northern Mariana Islands,data/images/geo_0083.jpg,3,0.3854534327983856,4554445,List_of_lighthouses_in_Chile:_NGA2328–NGA2718,15286985,0,4,4096,1024,shard_549/shard_00006/4554445.png.tiles/chunk_0000_04.png
+geo_0083,Northern Mariana Islands,data/images/geo_0083.jpg,4,0.3825043737888336,3059484,Google_Street_View_in_Oceania,10172112,0,2,2048,1024,shard_369/shard_00001/3059484.png.tiles/chunk_0000_02.png
+geo_0083,Northern Mariana Islands,data/images/geo_0083.jpg,5,0.37894028425216675,5217070,Mount_Olotele,17557162,0,0,0,1024,shard_629/shard_00006/5217070.png.tiles/chunk_0000_00.png
+geo_0084,Northern Mariana Islands,data/images/geo_0084.jpg,1,0.44265317916870117,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0084,Northern Mariana Islands,data/images/geo_0084.jpg,2,0.41317179799079895,653295,"Aguadilla,_Puerto_Rico",3089129,2,1,1024,1024,shard_078/shard_00007/653295.png.tiles/chunk_0002_01.png
+geo_0084,Northern Mariana Islands,data/images/geo_0084.jpg,3,0.40858572721481323,6152206,Puerto_Rico_Highway_735,20162351,0,1,1024,1024,shard_742/shard_00005/6152206.png.tiles/chunk_0000_01.png
+geo_0084,Northern Mariana Islands,data/images/geo_0084.jpg,4,0.4083035886287689,6629978,Santa_Clara–Caibarién_Road,21541489,0,1,1024,1024,shard_800/shard_00002/6629978.png.tiles/chunk_0000_01.png
+geo_0084,Northern Mariana Islands,data/images/geo_0084.jpg,5,0.40646594762802124,7675329,U.S._Route_41_in_Florida,24624648,1,2,2048,1024,shard_926/shard_00004/7675329.png.tiles/chunk_0001_02.png
+geo_0085,Northern Mariana Islands,data/images/geo_0085.jpg,1,0.40183186531066895,2750004,Florida_State_Road_405,9257920,0,1,1024,368,shard_331/shard_00006/2750004.png.tiles/chunk_0000_01.png
+geo_0085,Northern Mariana Islands,data/images/geo_0085.jpg,2,0.39841896295547485,6151987,Puerto_Rico_Highway_123,20161812,0,3,3072,1024,shard_742/shard_00005/6151987.png.tiles/chunk_0000_03.png
+geo_0085,Northern Mariana Islands,data/images/geo_0085.jpg,3,0.39462074637413025,2750213,Florida_State_Road_758,9258425,0,2,2048,1024,shard_331/shard_00006/2750213.png.tiles/chunk_0000_02.png
+geo_0085,Northern Mariana Islands,data/images/geo_0085.jpg,4,0.3896607458591461,2750151,Florida_State_Road_64,9258293,0,2,2048,1024,shard_331/shard_00006/2750151.png.tiles/chunk_0000_02.png
+geo_0085,Northern Mariana Islands,data/images/geo_0085.jpg,5,0.3880074918270111,7675329,U.S._Route_41_in_Florida,24624649,1,3,3072,1024,shard_926/shard_00004/7675329.png.tiles/chunk_0001_03.png
+geo_0086,Pakistan,data/images/geo_0086.jpg,1,0.44774866104125977,4481108,List_of_Monuments_of_National_Importance_in_Delhi,14578922,3,3,3072,1024,shard_540/shard_00007/4481108.png.tiles/chunk_0003_03.png
+geo_0086,Pakistan,data/images/geo_0086.jpg,2,0.4462462067604065,4481103,List_of_Monuments_of_National_Importance_in_Bihar,14578810,0,6,6144,1024,shard_540/shard_00007/4481103.png.tiles/chunk_0000_06.png
+geo_0086,Pakistan,data/images/geo_0086.jpg,3,0.4372212886810303,4481092,List_of_Monuments_of_National_Importance_in_Agra_circle,14578639,1,1,1024,1024,shard_540/shard_00007/4481092.png.tiles/chunk_0001_01.png
+geo_0086,Pakistan,data/images/geo_0086.jpg,4,0.43623465299606323,4481133,List_of_Monuments_of_National_Importance_in_Nagpur_circle,14579172,0,2,2048,1024,shard_540/shard_00007/4481133.png.tiles/chunk_0000_02.png
+geo_0086,Pakistan,data/images/geo_0086.jpg,5,0.43420302867889404,4481108,List_of_Monuments_of_National_Importance_in_Delhi,14578925,3,6,6144,1024,shard_540/shard_00007/4481108.png.tiles/chunk_0003_06.png
+geo_0087,Pakistan,data/images/geo_0087.jpg,1,0.3980620503425598,3266303,Hazarduari_Palace,10781448,0,2,2048,1024,shard_394/shard_00009/3266303.png.tiles/chunk_0000_02.png
+geo_0087,Pakistan,data/images/geo_0087.jpg,2,0.39030158519744873,4534100,List_of_cultural_heritage_sites_in_Lahore,15097228,0,4,4096,1024,shard_547/shard_00001/4534100.png.tiles/chunk_0000_04.png
+geo_0087,Pakistan,data/images/geo_0087.jpg,3,0.3830200135707855,4481093,List_of_Monuments_of_National_Importance_in_Agra_district,14578668,1,6,6144,1024,shard_540/shard_00007/4481093.png.tiles/chunk_0001_06.png
+geo_0087,Pakistan,data/images/geo_0087.jpg,4,0.3763540983200073,7132371,"Sus,_Pune",23017827,0,1,1024,1024,shard_860/shard_00008/7132371.png.tiles/chunk_0000_01.png
+geo_0087,Pakistan,data/images/geo_0087.jpg,5,0.3751847445964813,4481093,List_of_Monuments_of_National_Importance_in_Agra_district,14578666,1,4,4096,1024,shard_540/shard_00007/4481093.png.tiles/chunk_0001_04.png
+geo_0088,Pakistan,data/images/geo_0088.jpg,1,0.4363543391227722,3710965,"Jama_Mosque,_Ahmedabad",12096277,0,3,3072,1024,shard_447/shard_00007/3710965.png.tiles/chunk_0000_03.png
+geo_0088,Pakistan,data/images/geo_0088.jpg,2,0.4268091022968292,1819471,City_wall_of_Jaipur,6531576,0,1,1024,1024,shard_219/shard_00012/1819471.png.tiles/chunk_0000_01.png
+geo_0088,Pakistan,data/images/geo_0088.jpg,3,0.42371147871017456,3228376,Harand_Fort,10674524,0,1,1024,1024,shard_389/shard_00005/3228376.png.tiles/chunk_0000_01.png
+geo_0088,Pakistan,data/images/geo_0088.jpg,4,0.41425031423568726,2911706,Gates_in_Aurangabad,9740706,0,1,1024,1024,shard_351/shard_00004/2911706.png.tiles/chunk_0000_01.png
+geo_0088,Pakistan,data/images/geo_0088.jpg,5,0.41279369592666626,4481094,List_of_Monuments_of_National_Importance_in_Ahmedabad_district,14578688,0,2,2048,1024,shard_540/shard_00007/4481094.png.tiles/chunk_0000_02.png
+geo_0089,Pakistan,data/images/geo_0089.jpg,1,0.3878299593925476,6157822,Punpun,20178892,0,1,1024,1024,shard_743/shard_00002/6157822.png.tiles/chunk_0000_01.png
+geo_0089,Pakistan,data/images/geo_0089.jpg,2,0.3800475597381592,6632734,"Santacruz,_Mumbai",21549069,0,3,3072,1024,shard_800/shard_00005/6632734.png.tiles/chunk_0000_03.png
+geo_0089,Pakistan,data/images/geo_0089.jpg,3,0.37183982133865356,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0089,Pakistan,data/images/geo_0089.jpg,4,0.36971282958984375,7078198,Strawberry_Fields_High_School,22855415,0,0,0,1024,shard_854/shard_00003/7078198.png.tiles/chunk_0000_00.png
+geo_0089,Pakistan,data/images/geo_0089.jpg,5,0.3695005178451538,6632734,"Santacruz,_Mumbai",21549070,0,4,4096,1024,shard_800/shard_00005/6632734.png.tiles/chunk_0000_04.png
+geo_0090,Pakistan,data/images/geo_0090.jpg,1,0.39411115646362305,4481108,List_of_Monuments_of_National_Importance_in_Delhi,14578925,3,6,6144,1024,shard_540/shard_00007/4481108.png.tiles/chunk_0003_06.png
+geo_0090,Pakistan,data/images/geo_0090.jpg,2,0.3800976574420929,4481093,List_of_Monuments_of_National_Importance_in_Agra_district,14578666,1,4,4096,1024,shard_540/shard_00007/4481093.png.tiles/chunk_0001_04.png
+geo_0090,Pakistan,data/images/geo_0090.jpg,3,0.3767988979816437,4481093,List_of_Monuments_of_National_Importance_in_Agra_district,14578672,2,2,2048,1024,shard_540/shard_00007/4481093.png.tiles/chunk_0002_02.png
+geo_0090,Pakistan,data/images/geo_0090.jpg,4,0.3760429322719574,4481108,List_of_Monuments_of_National_Importance_in_Delhi,14578918,2,7,7168,1024,shard_540/shard_00007/4481108.png.tiles/chunk_0002_07.png
+geo_0090,Pakistan,data/images/geo_0090.jpg,5,0.37201279401779175,3059204,Google_Earth,10170421,1,3,3072,1024,shard_369/shard_00001/3059204.png.tiles/chunk_0001_03.png
+geo_0091,Poland,data/images/geo_0091.jpg,1,0.3907637298107147,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0091,Poland,data/images/geo_0091.jpg,2,0.38235288858413696,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0091,Poland,data/images/geo_0091.jpg,3,0.3640601634979248,3402307,Historypin,11151793,0,1,1024,360,shard_410/shard_00010/3402307.png.tiles/chunk_0000_01.png
+geo_0091,Poland,data/images/geo_0091.jpg,4,0.3572225272655487,5166290,Molotov_Line,17412225,0,2,2048,756,shard_623/shard_00005/5166290.png.tiles/chunk_0000_02.png
+geo_0091,Poland,data/images/geo_0091.jpg,5,0.35401999950408936,3059474,Google_Street_View_in_Antarctica,10172018,0,2,2048,304,shard_369/shard_00001/3059474.png.tiles/chunk_0000_02.png
+geo_0092,Poland,data/images/geo_0092.jpg,1,0.39025992155075073,3613103,Interstate_91,11803038,1,6,6144,1024,shard_436/shard_00000/3613103.png.tiles/chunk_0001_06.png
+geo_0092,Poland,data/images/geo_0092.jpg,2,0.369735449552536,5406299,New_Jersey_Route_35,18120729,0,3,3072,1024,shard_652/shard_00005/5406299.png.tiles/chunk_0000_03.png
+geo_0092,Poland,data/images/geo_0092.jpg,3,0.36858654022216797,5810090,Pennsylvania_Route_53,19287064,0,2,2048,1024,shard_701/shard_00003/5810090.png.tiles/chunk_0000_02.png
+geo_0092,Poland,data/images/geo_0092.jpg,4,0.3634800910949707,943208,Archery_at_the_2017_World_Games_–_Men's_individual_compound,3905952,0,3,3072,507,shard_113/shard_00007/943208.png.tiles/chunk_0000_03.png
+geo_0092,Poland,data/images/geo_0092.jpg,5,0.36229774355888367,5809815,Pennsylvania_Route_232,19286251,0,2,2048,1024,shard_701/shard_00002/5809815.png.tiles/chunk_0000_02.png
+geo_0093,Poland,data/images/geo_0093.jpg,1,0.38051193952560425,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0093,Poland,data/images/geo_0093.jpg,2,0.36150169372558594,6008255,"Portal:Geography/Featured_picture/2006,_week_28",19816562,0,0,0,1024,shard_725/shard_00002/6008255.png.tiles/chunk_0000_00.png
+geo_0093,Poland,data/images/geo_0093.jpg,3,0.35859793424606323,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0093,Poland,data/images/geo_0093.jpg,4,0.35310447216033936,3609938,Internet_Roadtrip,11792636,0,0,0,1024,shard_435/shard_00012/3609938.png.tiles/chunk_0000_00.png
+geo_0093,Poland,data/images/geo_0093.jpg,5,0.35304123163223267,4120198,Kettle_Moraine_Scenic_Drive,13262729,0,1,1024,1024,shard_497/shard_00002/4120198.png.tiles/chunk_0000_01.png
+geo_0094,Poland,data/images/geo_0094.jpg,1,0.4027857184410095,525767,A6_road_(Latvia),2742122,0,2,2048,386,shard_063/shard_00003/525767.png.tiles/chunk_0000_02.png
+geo_0094,Poland,data/images/geo_0094.jpg,2,0.39348936080932617,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0094,Poland,data/images/geo_0094.jpg,3,0.36562326550483704,1305009,Birobidzhan_Yuzhniy_Airfield,5015713,0,1,1024,850,shard_157/shard_00003/1305009.png.tiles/chunk_0000_01.png
+geo_0094,Poland,data/images/geo_0094.jpg,4,0.36291971802711487,3059480,Google_Street_View_in_Europe,10172091,3,1,1024,1024,shard_369/shard_00001/3059480.png.tiles/chunk_0003_01.png
+geo_0094,Poland,data/images/geo_0094.jpg,5,0.36115336418151855,4547877,List_of_highways_numbered_69,15226588,0,1,1024,1024,shard_548/shard_00008/4547877.png.tiles/chunk_0000_01.png
+geo_0095,Poland,data/images/geo_0095.jpg,1,0.42655959725379944,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0095,Poland,data/images/geo_0095.jpg,2,0.3855539560317993,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0095,Poland,data/images/geo_0095.jpg,3,0.37719953060150146,7017510,Stare_Gierałty,22695796,0,0,0,1024,shard_847/shard_00000/7017510.png.tiles/chunk_0000_00.png
+geo_0095,Poland,data/images/geo_0095.jpg,4,0.37045231461524963,4120198,Kettle_Moraine_Scenic_Drive,13262729,0,1,1024,1024,shard_497/shard_00002/4120198.png.tiles/chunk_0000_01.png
+geo_0095,Poland,data/images/geo_0095.jpg,5,0.36775022745132446,6018996,Portal:Latvia/Featured_picture/12,19833612,0,0,0,1024,shard_726/shard_00004/6018996.png.tiles/chunk_0000_00.png
+geo_0096,Puerto Rico,data/images/geo_0096.jpg,1,0.4188899099826813,4546616,"List_of_highways_in_Ponce,_Puerto_Rico",15223475,0,5,5120,1024,shard_548/shard_00006/4546616.png.tiles/chunk_0000_05.png
+geo_0096,Puerto Rico,data/images/geo_0096.jpg,2,0.41506046056747437,6152165,Puerto_Rico_Highway_52,20162272,0,1,1024,1024,shard_742/shard_00005/6152165.png.tiles/chunk_0000_01.png
+geo_0096,Puerto Rico,data/images/geo_0096.jpg,3,0.40986180305480957,6152103,Puerto_Rico_Highway_3,20162176,1,2,2048,1024,shard_742/shard_00005/6152103.png.tiles/chunk_0001_02.png
+geo_0096,Puerto Rico,data/images/geo_0096.jpg,4,0.40861767530441284,6151987,Puerto_Rico_Highway_123,20161812,0,3,3072,1024,shard_742/shard_00005/6151987.png.tiles/chunk_0000_03.png
+geo_0096,Puerto Rico,data/images/geo_0096.jpg,5,0.4082711637020111,6629978,Santa_Clara–Caibarién_Road,21541489,0,1,1024,1024,shard_800/shard_00002/6629978.png.tiles/chunk_0000_01.png
+geo_0097,Puerto Rico,data/images/geo_0097.jpg,1,0.427101194858551,6152103,Puerto_Rico_Highway_3,20162176,1,2,2048,1024,shard_742/shard_00005/6152103.png.tiles/chunk_0001_02.png
+geo_0097,Puerto Rico,data/images/geo_0097.jpg,2,0.4191446900367737,6152147,Puerto_Rico_Highway_5,20162240,0,4,4096,1024,shard_742/shard_00005/6152147.png.tiles/chunk_0000_04.png
+geo_0097,Puerto Rico,data/images/geo_0097.jpg,3,0.4042327105998993,6152080,Puerto_Rico_Highway_201,20162116,0,1,1024,786,shard_742/shard_00005/6152080.png.tiles/chunk_0000_01.png
+geo_0097,Puerto Rico,data/images/geo_0097.jpg,4,0.4032100439071655,1462373,Bucaná_River,5468685,0,1,1024,1024,shard_176/shard_00011/1462373.png.tiles/chunk_0000_01.png
+geo_0097,Puerto Rico,data/images/geo_0097.jpg,5,0.4028701186180115,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0098,Puerto Rico,data/images/geo_0098.jpg,1,0.40419211983680725,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0098,Puerto Rico,data/images/geo_0098.jpg,2,0.4028767943382263,4573158,List_of_numbered_highways_in_the_Northern_Mariana_Islands,15455860,0,3,3072,1024,shard_552/shard_00000/4573158.png.tiles/chunk_0000_03.png
+geo_0098,Puerto Rico,data/images/geo_0098.jpg,3,0.40118521451950073,6152103,Puerto_Rico_Highway_3,20162166,0,0,0,1024,shard_742/shard_00005/6152103.png.tiles/chunk_0000_00.png
+geo_0098,Puerto Rico,data/images/geo_0098.jpg,4,0.40042129158973694,6152167,Puerto_Rico_Highway_53,20162283,0,2,2048,1024,shard_742/shard_00005/6152167.png.tiles/chunk_0000_02.png
+geo_0098,Puerto Rico,data/images/geo_0098.jpg,5,0.39939039945602417,2052609,DR-3_(Dominican_Republic_highway),7210024,0,1,1024,1024,shard_247/shard_00004/2052609.png.tiles/chunk_0000_01.png
+geo_0099,Puerto Rico,data/images/geo_0099.jpg,1,0.4281315207481384,3059485,Google_Street_View_in_South_America,10172129,1,7,7168,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_07.png
+geo_0099,Puerto Rico,data/images/geo_0099.jpg,2,0.42420655488967896,3059485,Google_Street_View_in_South_America,10172128,1,6,6144,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_06.png
+geo_0099,Puerto Rico,data/images/geo_0099.jpg,3,0.4203389883041382,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0099,Puerto Rico,data/images/geo_0099.jpg,4,0.41937726736068726,3059475,Google_Street_View_in_Argentina,10172022,0,3,3072,965,shard_369/shard_00001/3059475.png.tiles/chunk_0000_03.png
+geo_0099,Puerto Rico,data/images/geo_0099.jpg,5,0.41270941495895386,3059483,Google_Street_View_in_North_America,10172109,0,7,7168,813,shard_369/shard_00001/3059483.png.tiles/chunk_0000_07.png
+geo_0100,Puerto Rico,data/images/geo_0100.jpg,1,0.45813119411468506,3059485,Google_Street_View_in_South_America,10172129,1,7,7168,1024,shard_369/shard_00001/3059485.png.tiles/chunk_0001_07.png
+geo_0100,Puerto Rico,data/images/geo_0100.jpg,2,0.43824806809425354,3059479,Google_Street_View_in_Colombia,10172065,1,7,7168,1024,shard_369/shard_00001/3059479.png.tiles/chunk_0001_07.png
+geo_0100,Puerto Rico,data/images/geo_0100.jpg,3,0.4342941641807556,3059483,Google_Street_View_in_North_America,10172107,0,5,5120,1024,shard_369/shard_00001/3059483.png.tiles/chunk_0000_05.png
+geo_0100,Puerto Rico,data/images/geo_0100.jpg,4,0.43322741985321045,6152103,Puerto_Rico_Highway_3,20162176,1,2,2048,1024,shard_742/shard_00005/6152103.png.tiles/chunk_0001_02.png
+geo_0100,Puerto Rico,data/images/geo_0100.jpg,5,0.42389726638793945,596115,Achutupo_Airport,2930278,0,1,1024,372,shard_071/shard_00007/596115.png.tiles/chunk_0000_01.png
+geo_0101,Senegal,data/images/geo_0101.jpg,1,0.3923642933368683,1812949,Circles_of_latitude_between_the_35th_parallel_north_and_the_40th_parallel_north,6508534,2,2,2048,1024,shard_218/shard_00006/1812949.png.tiles/chunk_0002_02.png
+geo_0101,Senegal,data/images/geo_0101.jpg,2,0.38733258843421936,3059204,Google_Earth,10170421,1,3,3072,1024,shard_369/shard_00001/3059204.png.tiles/chunk_0001_03.png
+geo_0101,Senegal,data/images/geo_0101.jpg,3,0.3847907781600952,7300033,The_Amazing_Race_1_(Chinese_season),23501405,1,0,0,1024,shard_881/shard_00001/7300033.png.tiles/chunk_0001_00.png
+geo_0101,Senegal,data/images/geo_0101.jpg,4,0.3838323652744293,4566405,List_of_modern_obelisks,15403673,2,2,2048,1024,shard_551/shard_00001/4566405.png.tiles/chunk_0002_02.png
+geo_0101,Senegal,data/images/geo_0101.jpg,5,0.38374489545822144,7300058,The_Amazing_Race_4_(Latin_American_season),23501888,0,5,5120,1024,shard_881/shard_00001/7300058.png.tiles/chunk_0000_05.png
+geo_0102,Senegal,data/images/geo_0102.jpg,1,0.3879982829093933,3059473,Google_Street_View_in_Africa,10172011,0,3,3072,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_03.png
+geo_0102,Senegal,data/images/geo_0102.jpg,2,0.38471758365631104,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0102,Senegal,data/images/geo_0102.jpg,3,0.38316410779953003,5286502,N4_road_(Senegal),17754259,0,0,0,1024,shard_638/shard_00001/5286502.png.tiles/chunk_0000_00.png
+geo_0102,Senegal,data/images/geo_0102.jpg,4,0.3788895606994629,5286575,N5_road_(Senegal),17754367,0,0,0,1024,shard_638/shard_00001/5286575.png.tiles/chunk_0000_00.png
+geo_0102,Senegal,data/images/geo_0102.jpg,5,0.36001038551330566,3585303,Infrastructure_in_Africa,11710735,0,0,0,1024,shard_432/shard_00005/3585303.png.tiles/chunk_0000_00.png
+geo_0103,Senegal,data/images/geo_0103.jpg,1,0.38271743059158325,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0103,Senegal,data/images/geo_0103.jpg,2,0.38003939390182495,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0103,Senegal,data/images/geo_0103.jpg,3,0.37578529119491577,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0103,Senegal,data/images/geo_0103.jpg,4,0.36727356910705566,3059307,Google_Maps,10170981,3,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0003_06.png
+geo_0103,Senegal,data/images/geo_0103.jpg,5,0.36672019958496094,3059471,Google_Street_View_coverage,10171986,6,2,2048,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0006_02.png
+geo_0104,Senegal,data/images/geo_0104.jpg,1,0.3716621696949005,5493690,North_Carolina_Highway_5,18380931,0,1,1024,421,shard_663/shard_00001/5493690.png.tiles/chunk_0000_01.png
+geo_0104,Senegal,data/images/geo_0104.jpg,2,0.36621397733688354,684269,Al_Khatim_Desert,3177707,0,0,0,1024,shard_082/shard_00004/684269.png.tiles/chunk_0000_00.png
+geo_0104,Senegal,data/images/geo_0104.jpg,3,0.36616671085357666,1812943,Circles_of_latitude_between_the_20th_parallel_north_and_the_25th_parallel_north,6508443,1,1,1024,1024,shard_218/shard_00006/1812943.png.tiles/chunk_0001_01.png
+geo_0104,Senegal,data/images/geo_0104.jpg,4,0.3589080274105072,1812943,Circles_of_latitude_between_the_20th_parallel_north_and_the_25th_parallel_north,6508434,0,0,0,1024,shard_218/shard_00006/1812943.png.tiles/chunk_0000_00.png
+geo_0104,Senegal,data/images/geo_0104.jpg,5,0.3554006814956665,6008556,Portal:Geography/Selected_picture,19817043,0,2,2048,1024,shard_725/shard_00002/6008556.png.tiles/chunk_0000_02.png
+geo_0105,Senegal,data/images/geo_0105.jpg,1,0.4553341865539551,617514,Adi_Bakel,2986261,0,2,2048,1024,shard_074/shard_00004/617514.png.tiles/chunk_0000_02.png
+geo_0105,Senegal,data/images/geo_0105.jpg,2,0.4273921549320221,6063250,Portal:Western_Sahara/Selected_pictures,19901602,0,1,1024,1024,shard_731/shard_00007/6063250.png.tiles/chunk_0000_01.png
+geo_0105,Senegal,data/images/geo_0105.jpg,3,0.4185892343521118,6063250,Portal:Western_Sahara/Selected_pictures,19901609,1,0,0,1024,shard_731/shard_00007/6063250.png.tiles/chunk_0001_00.png
+geo_0105,Senegal,data/images/geo_0105.jpg,4,0.41367846727371216,2985872,Ghadames,9959938,0,4,4096,1024,shard_360/shard_00010/2985872.png.tiles/chunk_0000_04.png
+geo_0105,Senegal,data/images/geo_0105.jpg,5,0.41227608919143677,7220322,Tanezrouft,23271538,0,0,0,1024,shard_871/shard_00004/7220322.png.tiles/chunk_0000_00.png
+geo_0106,South Africa,data/images/geo_0106.jpg,1,0.39923983812332153,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0106,South Africa,data/images/geo_0106.jpg,2,0.38184791803359985,6008556,Portal:Geography/Selected_picture,19817043,0,2,2048,1024,shard_725/shard_00002/6008556.png.tiles/chunk_0000_02.png
+geo_0106,South Africa,data/images/geo_0106.jpg,3,0.3647705912590027,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0106,South Africa,data/images/geo_0106.jpg,4,0.3641248047351837,6931769,South_Africa_Safari_Rally,22422118,0,0,0,1024,shard_836/shard_00006/6931769.png.tiles/chunk_0000_00.png
+geo_0106,South Africa,data/images/geo_0106.jpg,5,0.3635924756526947,1812947,Circles_of_latitude_between_the_30th_parallel_north_and_the_35th_parallel_north,6508493,0,3,3072,1024,shard_218/shard_00006/1812947.png.tiles/chunk_0000_03.png
+geo_0107,South Africa,data/images/geo_0107.jpg,1,0.38928839564323425,7455101,Thiele_Highway,23972358,0,1,1024,1024,shard_899/shard_00007/7455101.png.tiles/chunk_0000_01.png
+geo_0107,South Africa,data/images/geo_0107.jpg,2,0.3763588070869446,7620068,Tropic_of_Capricorn,24483195,0,3,3072,1024,shard_919/shard_00007/7620068.png.tiles/chunk_0000_03.png
+geo_0107,South Africa,data/images/geo_0107.jpg,3,0.3724254369735718,8114169,Worlds_End_Highway,25896002,0,0,0,1024,shard_979/shard_00004/8114169.png.tiles/chunk_0000_00.png
+geo_0107,South Africa,data/images/geo_0107.jpg,4,0.3661474585533142,5926986,Playford_Highway,19608090,0,1,1024,1024,shard_715/shard_00003/5926986.png.tiles/chunk_0000_01.png
+geo_0107,South Africa,data/images/geo_0107.jpg,5,0.36559194326400757,3348074,Highway_10_(Saudi_Arabia),11009023,0,0,0,1024,shard_404/shard_00001/3348074.png.tiles/chunk_0000_00.png
+geo_0108,South Africa,data/images/geo_0108.jpg,1,0.3768082857131958,5926986,Playford_Highway,19608090,0,1,1024,1024,shard_715/shard_00003/5926986.png.tiles/chunk_0000_01.png
+geo_0108,South Africa,data/images/geo_0108.jpg,2,0.36705881357192993,7455101,Thiele_Highway,23972358,0,1,1024,1024,shard_899/shard_00007/7455101.png.tiles/chunk_0000_01.png
+geo_0108,South Africa,data/images/geo_0108.jpg,3,0.36571329832077026,4531162,List_of_companies_traded_on_the_JSE,15067584,3,3,3072,1024,shard_546/shard_00004/4531162.png.tiles/chunk_0003_03.png
+geo_0108,South Africa,data/images/geo_0108.jpg,4,0.360187828540802,3612380,Interstate_5_in_California,11800867,1,7,7168,1024,shard_436/shard_00000/3612380.png.tiles/chunk_0001_07.png
+geo_0108,South Africa,data/images/geo_0108.jpg,5,0.35973697900772095,4882809,Markham_Building,16588186,0,2,2048,1024,shard_589/shard_00003/4882809.png.tiles/chunk_0000_02.png
+geo_0109,South Africa,data/images/geo_0109.jpg,1,0.46990713477134705,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0109,South Africa,data/images/geo_0109.jpg,2,0.45064371824264526,3059473,Google_Street_View_in_Africa,10172012,0,4,4096,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_04.png
+geo_0109,South Africa,data/images/geo_0109.jpg,3,0.4145057797431946,5145733,Mkuze,17355273,0,0,0,1024,shard_621/shard_00001/5145733.png.tiles/chunk_0000_00.png
+geo_0109,South Africa,data/images/geo_0109.jpg,4,0.4139977693557739,3267231,Hazyview,10784053,0,2,2048,1024,shard_394/shard_00010/3267231.png.tiles/chunk_0000_02.png
+geo_0109,South Africa,data/images/geo_0109.jpg,5,0.39885213971138,6012440,Portal:Hudson_Valley/Selected_picture,19823345,0,4,4096,1024,shard_725/shard_00006/6012440.png.tiles/chunk_0000_04.png
+geo_0110,South Africa,data/images/geo_0110.jpg,1,0.3898666799068451,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0110,South Africa,data/images/geo_0110.jpg,2,0.37004703283309937,1812966,Circles_of_latitude_between_the_Equator_and_the_5th_parallel_north,6508788,0,6,6144,1024,shard_218/shard_00006/1812966.png.tiles/chunk_0000_06.png
+geo_0110,South Africa,data/images/geo_0110.jpg,3,0.3694392740726471,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0110,South Africa,data/images/geo_0110.jpg,4,0.3659108281135559,1812947,Circles_of_latitude_between_the_30th_parallel_north_and_the_35th_parallel_north,6508493,0,3,3072,1024,shard_218/shard_00006/1812947.png.tiles/chunk_0000_03.png
+geo_0110,South Africa,data/images/geo_0110.jpg,5,0.3617600202560425,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0111,South Korea,data/images/geo_0111.jpg,1,0.3950740098953247,6648567,Saruta_Kōgyō_S.C.,21593292,0,1,1024,1024,shard_802/shard_00004/6648567.png.tiles/chunk_0000_01.png
+geo_0111,South Korea,data/images/geo_0111.jpg,2,0.38183337450027466,3795895,"Jeongja-dong,_Seongnam",12346031,0,0,0,1024,shard_458/shard_00001/3795895.png.tiles/chunk_0000_00.png
+geo_0111,South Korea,data/images/geo_0111.jpg,3,0.3760746717453003,6982465,Ssangnim-dong,22589497,0,0,0,1024,shard_842/shard_00007/6982465.png.tiles/chunk_0000_00.png
+geo_0111,South Korea,data/images/geo_0111.jpg,4,0.3752523362636566,6624444,Sangam-dong,21525757,0,0,0,1024,shard_799/shard_00005/6624444.png.tiles/chunk_0000_00.png
+geo_0111,South Korea,data/images/geo_0111.jpg,5,0.37420785427093506,3059473,Google_Street_View_in_Africa,10172015,0,7,7168,533,shard_369/shard_00001/3059473.png.tiles/chunk_0000_07.png
+geo_0112,South Korea,data/images/geo_0112.jpg,1,0.4000626504421234,917232,Anyangcheon,3831963,0,1,1024,1024,shard_110/shard_00005/917232.png.tiles/chunk_0000_01.png
+geo_0112,South Korea,data/images/geo_0112.jpg,2,0.38958853483200073,6388059,Roads_in_North_Korea,20857232,0,6,6144,1024,shard_771/shard_00001/6388059.png.tiles/chunk_0000_06.png
+geo_0112,South Korea,data/images/geo_0112.jpg,3,0.38677605986595154,5354152,National_Route_58_(South_Korea),17968473,0,3,3072,665,shard_646/shard_00002/5354152.png.tiles/chunk_0000_03.png
+geo_0112,South Korea,data/images/geo_0112.jpg,4,0.3832745850086212,5354049,National_Route_26_(South_Korea),17967978,1,3,3072,529,shard_646/shard_00002/5354049.png.tiles/chunk_0001_03.png
+geo_0112,South Korea,data/images/geo_0112.jpg,5,0.38072147965431213,5354076,National_Route_31_(South_Korea),17968105,2,1,1024,1024,shard_646/shard_00002/5354076.png.tiles/chunk_0002_01.png
+geo_0113,South Korea,data/images/geo_0113.jpg,1,0.38402682542800903,2916115,Gayang-daero,9753550,0,1,1024,1024,shard_352/shard_00000/2916115.png.tiles/chunk_0000_01.png
+geo_0113,South Korea,data/images/geo_0113.jpg,2,0.3832496404647827,7300044,The_Amazing_Race_29,23501638,1,6,6144,1024,shard_881/shard_00001/7300044.png.tiles/chunk_0001_06.png
+geo_0113,South Korea,data/images/geo_0113.jpg,3,0.38182663917541504,3059318,Google_Maps_pin,10171008,0,6,6144,1024,shard_369/shard_00001/3059318.png.tiles/chunk_0000_06.png
+geo_0113,South Korea,data/images/geo_0113.jpg,4,0.3764815926551819,6729523,Seoul_Subway_Line_5,21824574,1,2,2048,1024,shard_812/shard_00002/6729523.png.tiles/chunk_0001_02.png
+geo_0113,South Korea,data/images/geo_0113.jpg,5,0.3762907385826111,4536783,List_of_districts_of_Seoul,15124065,1,0,0,1024,shard_547/shard_00003/4536783.png.tiles/chunk_0001_00.png
+geo_0114,South Korea,data/images/geo_0114.jpg,1,0.3995774984359741,6387497,Road_signs_in_China,20853657,1,4,4096,1024,shard_771/shard_00000/6387497.png.tiles/chunk_0001_04.png
+geo_0114,South Korea,data/images/geo_0114.jpg,2,0.39371490478515625,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0114,South Korea,data/images/geo_0114.jpg,3,0.3842492401599884,2934309,GeoGuessr,9807325,0,5,5120,868,shard_354/shard_00001/2934309.png.tiles/chunk_0000_05.png
+geo_0114,South Korea,data/images/geo_0114.jpg,4,0.3686251640319824,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0114,South Korea,data/images/geo_0114.jpg,5,0.36788231134414673,3059471,Google_Street_View_coverage,10171998,7,6,6144,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_06.png
+geo_0115,South Korea,data/images/geo_0115.jpg,1,0.39413565397262573,6729523,Seoul_Subway_Line_5,21824574,1,2,2048,1024,shard_812/shard_00002/6729523.png.tiles/chunk_0001_02.png
+geo_0115,South Korea,data/images/geo_0115.jpg,2,0.39034512639045715,7300044,The_Amazing_Race_29,23501638,1,6,6144,1024,shard_881/shard_00001/7300044.png.tiles/chunk_0001_06.png
+geo_0115,South Korea,data/images/geo_0115.jpg,3,0.38779217004776,6729527,Seoul_Subway_Line_9,21824612,0,4,4096,1024,shard_812/shard_00002/6729527.png.tiles/chunk_0000_04.png
+geo_0115,South Korea,data/images/geo_0115.jpg,4,0.3862859308719635,6729523,Seoul_Subway_Line_5,21824567,0,3,3072,1024,shard_812/shard_00002/6729523.png.tiles/chunk_0000_03.png
+geo_0115,South Korea,data/images/geo_0115.jpg,5,0.38004767894744873,5354052,National_Route_28_(South_Korea),17967994,0,1,1024,1024,shard_646/shard_00002/5354052.png.tiles/chunk_0000_01.png
+geo_0116,Switzerland,data/images/geo_0116.jpg,1,0.3977246582508087,4534113,List_of_cultural_property_of_national_significance_in_Switzerland:_Bern_A-M,15097551,3,7,7168,1024,shard_547/shard_00001/4534113.png.tiles/chunk_0003_07.png
+geo_0116,Switzerland,data/images/geo_0116.jpg,2,0.39005279541015625,7582884,Tractor,24371649,3,4,4096,1024,shard_915/shard_00003/7582884.png.tiles/chunk_0003_04.png
+geo_0116,Switzerland,data/images/geo_0116.jpg,3,0.38154125213623047,3059471,Google_Street_View_coverage,10171998,7,6,6144,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_06.png
+geo_0116,Switzerland,data/images/geo_0116.jpg,4,0.3723886013031006,4534113,List_of_cultural_property_of_national_significance_in_Switzerland:_Bern_A-M,15097544,3,0,0,1024,shard_547/shard_00001/4534113.png.tiles/chunk_0003_00.png
+geo_0116,Switzerland,data/images/geo_0116.jpg,5,0.3720882534980774,5977971,Portal:Austria/WD/Scheibbs,19750153,9,2,2048,1024,shard_721/shard_00005/5977971.png.tiles/chunk_0009_02.png
+geo_0117,Switzerland,data/images/geo_0117.jpg,1,0.4233260750770569,4546560,List_of_highest_paved_roads_in_Europe,15223085,3,0,0,1024,shard_548/shard_00006/4546560.png.tiles/chunk_0003_00.png
+geo_0117,Switzerland,data/images/geo_0117.jpg,2,0.40945008397102356,6008327,"Portal:Geography/Featured_picture/2007,_week_51",19816635,0,0,0,1024,shard_725/shard_00002/6008327.png.tiles/chunk_0000_00.png
+geo_0117,Switzerland,data/images/geo_0117.jpg,3,0.39357632398605347,438828,2025_Blatten_glacier_collapse,2478392,0,7,7168,1024,shard_052/shard_00008/438828.png.tiles/chunk_0000_07.png
+geo_0117,Switzerland,data/images/geo_0117.jpg,4,0.39040371775627136,6842129,Simplon_Pass,22156522,0,2,2048,1024,shard_825/shard_00007/6842129.png.tiles/chunk_0000_02.png
+geo_0117,Switzerland,data/images/geo_0117.jpg,5,0.3892488479614258,4546560,List_of_highest_paved_roads_in_Europe,15223066,0,5,5120,1024,shard_548/shard_00006/4546560.png.tiles/chunk_0000_05.png
+geo_0118,Switzerland,data/images/geo_0118.jpg,1,0.3817293345928192,4585868,List_of_satellite_map_images_with_missing_or_unclear_data,15573872,0,3,3072,1024,shard_553/shard_00004/4585868.png.tiles/chunk_0000_03.png
+geo_0118,Switzerland,data/images/geo_0118.jpg,2,0.37010443210601807,524827,A35_autoroute,2740089,0,1,1024,1024,shard_063/shard_00002/524827.png.tiles/chunk_0000_01.png
+geo_0118,Switzerland,data/images/geo_0118.jpg,3,0.36929553747177124,1479268,Bundesautobahn_7,5516083,4,6,6144,1024,shard_178/shard_00004/1479268.png.tiles/chunk_0004_06.png
+geo_0118,Switzerland,data/images/geo_0118.jpg,4,0.3664116859436035,4635507,Lodrino_Air_Base,15888020,0,1,1024,373,shard_559/shard_00004/4635507.png.tiles/chunk_0000_01.png
+geo_0118,Switzerland,data/images/geo_0118.jpg,5,0.3645246624946594,1479258,Bundesautobahn_65,5516019,0,0,0,1024,shard_178/shard_00004/1479258.png.tiles/chunk_0000_00.png
+geo_0119,Switzerland,data/images/geo_0119.jpg,1,0.4696448743343353,1248950,Bernina_railway_line,4844876,0,3,3072,1024,shard_150/shard_00012/1248950.png.tiles/chunk_0000_03.png
+geo_0119,Switzerland,data/images/geo_0119.jpg,2,0.4681980311870575,1248942,Bernina_Express,4844843,0,1,1024,1024,shard_150/shard_00012/1248942.png.tiles/chunk_0000_01.png
+geo_0119,Switzerland,data/images/geo_0119.jpg,3,0.46512001752853394,1248950,Bernina_railway_line,4844884,1,3,3072,1024,shard_150/shard_00012/1248950.png.tiles/chunk_0001_03.png
+geo_0119,Switzerland,data/images/geo_0119.jpg,4,0.45183104276657104,7788960,Valmorea_railway,24970114,0,1,1024,441,shard_940/shard_00002/7788960.png.tiles/chunk_0000_01.png
+geo_0119,Switzerland,data/images/geo_0119.jpg,5,0.45044636726379395,3012292,Giubiasco_railway_station,10032272,0,1,1024,1024,shard_363/shard_00004/3012292.png.tiles/chunk_0000_01.png
+geo_0120,Switzerland,data/images/geo_0120.jpg,1,0.3751903176307678,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0120,Switzerland,data/images/geo_0120.jpg,2,0.3593403697013855,4466825,List_of_Google_April_Fools'_Day_jokes,14426816,2,6,6144,1024,shard_539/shard_00001/4466825.png.tiles/chunk_0002_06.png
+geo_0120,Switzerland,data/images/geo_0120.jpg,3,0.3483964204788208,6214609,Race_to_the_Center_of_the_Earth,20331140,1,1,1024,1024,shard_750/shard_00001/6214609.png.tiles/chunk_0001_01.png
+geo_0120,Switzerland,data/images/geo_0120.jpg,4,0.34756988286972046,377471,2019_Overwatch_World_Cup,1926610,0,3,3072,1024,shard_045/shard_00011/377471.png.tiles/chunk_0000_03.png
+geo_0120,Switzerland,data/images/geo_0120.jpg,5,0.34497547149658203,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0121,Taiwan,data/images/geo_0121.jpg,1,0.3574957847595215,2897840,Gaomei_Wetlands,9701738,0,0,0,1024,shard_349/shard_00005/2897840.png.tiles/chunk_0000_00.png
+geo_0121,Taiwan,data/images/geo_0121.jpg,2,0.35268068313598633,4478010,List_of_Major_National_Historical_and_Cultural_Sites_in_Beijing,14546562,1,4,4096,1024,shard_540/shard_00004/4478010.png.tiles/chunk_0001_04.png
+geo_0121,Taiwan,data/images/geo_0121.jpg,3,0.3492356538772583,6387251,Road_Salt_Pond,20852432,0,0,0,1024,shard_771/shard_00000/6387251.png.tiles/chunk_0000_00.png
+geo_0121,Taiwan,data/images/geo_0121.jpg,4,0.3456338346004486,2358911,Dushu_Lake,8113375,0,2,2048,1024,shard_284/shard_00005/2358911.png.tiles/chunk_0000_02.png
+geo_0121,Taiwan,data/images/geo_0121.jpg,5,0.34513333439826965,4478034,List_of_Major_National_Historical_and_Cultural_Sites_in_Sichuan,14546799,1,0,0,1024,shard_540/shard_00004/4478034.png.tiles/chunk_0001_00.png
+geo_0122,Taiwan,data/images/geo_0122.jpg,1,0.4058314561843872,4467951,List_of_Hangzhou_Metro_stations,14438130,0,4,4096,1024,shard_539/shard_00002/4467951.png.tiles/chunk_0000_04.png
+geo_0122,Taiwan,data/images/geo_0122.jpg,2,0.3974152207374573,6527830,S9902_Xinle-Yuanshi_Expressway,21254904,0,1,1024,1024,shard_788/shard_00000/6527830.png.tiles/chunk_0000_01.png
+geo_0122,Taiwan,data/images/geo_0122.jpg,3,0.38781964778900146,4594740,List_of_streets_and_roads_in_Hong_Kong,15683553,1,6,6144,1024,shard_554/shard_00005/4594740.png.tiles/chunk_0001_06.png
+geo_0122,Taiwan,data/images/geo_0122.jpg,4,0.3872552514076233,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0122,Taiwan,data/images/geo_0122.jpg,5,0.38085055351257324,3059278,Google_Image_Labeler,10170764,0,4,4096,1024,shard_369/shard_00001/3059278.png.tiles/chunk_0000_04.png
+geo_0123,Taiwan,data/images/geo_0123.jpg,1,0.3640466630458832,3059307,Google_Maps,10170965,1,6,6144,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0001_06.png
+geo_0123,Taiwan,data/images/geo_0123.jpg,2,0.34604108333587646,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0123,Taiwan,data/images/geo_0123.jpg,3,0.3442338705062866,4545356,List_of_gravity_hills,15211723,0,7,7168,1024,shard_548/shard_00005/4545356.png.tiles/chunk_0000_07.png
+geo_0123,Taiwan,data/images/geo_0123.jpg,4,0.34392672777175903,4545356,List_of_gravity_hills,15211716,0,0,0,1024,shard_548/shard_00005/4545356.png.tiles/chunk_0000_00.png
+geo_0123,Taiwan,data/images/geo_0123.jpg,5,0.34091246128082275,4495083,List_of_South_Fork_Eel_River_crossings,14724994,0,3,3072,386,shard_542/shard_00005/4495083.png.tiles/chunk_0000_03.png
+geo_0124,Taiwan,data/images/geo_0124.jpg,1,0.3582420349121094,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0124,Taiwan,data/images/geo_0124.jpg,2,0.35142648220062256,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0124,Taiwan,data/images/geo_0124.jpg,3,0.3386842608451843,6008255,"Portal:Geography/Featured_picture/2006,_week_28",19816562,0,0,0,1024,shard_725/shard_00002/6008255.png.tiles/chunk_0000_00.png
+geo_0124,Taiwan,data/images/geo_0124.jpg,4,0.3354485034942627,7620068,Tropic_of_Capricorn,24483195,0,3,3072,1024,shard_919/shard_00007/7620068.png.tiles/chunk_0000_03.png
+geo_0124,Taiwan,data/images/geo_0124.jpg,5,0.33381956815719604,1101592,Back_road,4381372,0,1,1024,1024,shard_132/shard_00013/1101592.png.tiles/chunk_0000_01.png
+geo_0125,Taiwan,data/images/geo_0125.jpg,1,0.3847465515136719,4780816,"Mahratta,_Wahroonga",16289845,0,3,3072,1024,shard_577/shard_00000/4780816.png.tiles/chunk_0000_03.png
+geo_0125,Taiwan,data/images/geo_0125.jpg,2,0.38089582324028015,4816205,Manhattan_House,16394371,0,3,3072,1024,shard_581/shard_00002/4816205.png.tiles/chunk_0000_03.png
+geo_0125,Taiwan,data/images/geo_0125.jpg,3,0.3688533306121826,7314755,"The_Briars,_Wahroonga",23550209,0,4,4096,1024,shard_882/shard_00001/7314755.png.tiles/chunk_0000_04.png
+geo_0125,Taiwan,data/images/geo_0125.jpg,4,0.3687032163143158,1752649,Chinese_Garden_of_Friendship,6332393,1,0,0,1024,shard_211/shard_00011/1752649.png.tiles/chunk_0001_00.png
+geo_0125,Taiwan,data/images/geo_0125.jpg,5,0.3675007224082947,3256145,Hastings_Prototype_House,10752932,0,1,1024,1024,shard_393/shard_00000/3256145.png.tiles/chunk_0000_01.png
+geo_0126,Tunisia,data/images/geo_0126.jpg,1,0.423748642206192,3348451,Highway_15_(Jordan),11009040,0,1,1024,844,shard_404/shard_00009/3348451.png.tiles/chunk_0000_01.png
+geo_0126,Tunisia,data/images/geo_0126.jpg,2,0.40795475244522095,2938384,Geography_of_Western_Sahara,9819379,0,1,1024,1024,shard_354/shard_00011/2938384.png.tiles/chunk_0000_01.png
+geo_0126,Tunisia,data/images/geo_0126.jpg,3,0.407364159822464,6016996,Portal:Jordan/Selected_picture,19830742,0,3,3072,274,shard_726/shard_00002/6016996.png.tiles/chunk_0000_03.png
+geo_0126,Tunisia,data/images/geo_0126.jpg,4,0.39635998010635376,5197891,Moroccan_Western_Sahara_Wall,17505127,0,4,4096,1024,shard_627/shard_00003/5197891.png.tiles/chunk_0000_04.png
+geo_0126,Tunisia,data/images/geo_0126.jpg,5,0.3925394117832184,2938384,Geography_of_Western_Sahara,9819383,0,5,5120,1024,shard_354/shard_00011/2938384.png.tiles/chunk_0000_05.png
+geo_0127,Tunisia,data/images/geo_0127.jpg,1,0.413595050573349,4446821,List_of_African_regions_by_life_expectancy,14206831,0,1,1024,1024,shard_536/shard_00006/4446821.png.tiles/chunk_0000_01.png
+geo_0127,Tunisia,data/images/geo_0127.jpg,2,0.4127289652824402,7626767,Truck_Surf_Hotel,24494736,0,2,2048,1024,shard_920/shard_00005/7626767.png.tiles/chunk_0000_02.png
+geo_0127,Tunisia,data/images/geo_0127.jpg,3,0.4115554094314575,4985531,Mediterranean_Sea,16878783,3,1,1024,1024,shard_601/shard_00006/4985531.png.tiles/chunk_0003_01.png
+geo_0127,Tunisia,data/images/geo_0127.jpg,4,0.3959152102470398,806400,Amioun,3529602,0,7,7168,1024,shard_097/shard_00002/806400.png.tiles/chunk_0000_07.png
+geo_0127,Tunisia,data/images/geo_0127.jpg,5,0.39405712485313416,7300022,The_Amazing_Race_1,23501169,1,0,0,1024,shard_881/shard_00001/7300022.png.tiles/chunk_0001_00.png
+geo_0128,Tunisia,data/images/geo_0128.jpg,1,0.3801567554473877,7300022,The_Amazing_Race_1,23501169,1,0,0,1024,shard_881/shard_00001/7300022.png.tiles/chunk_0001_00.png
+geo_0128,Tunisia,data/images/geo_0128.jpg,2,0.37395650148391724,6063250,Portal:Western_Sahara/Selected_pictures,19901602,0,1,1024,1024,shard_731/shard_00007/6063250.png.tiles/chunk_0000_01.png
+geo_0128,Tunisia,data/images/geo_0128.jpg,3,0.37145984172821045,6023407,Portal:Mauritania/Featured_picture,19840431,0,1,1024,1024,shard_727/shard_00000/6023407.png.tiles/chunk_0000_01.png
+geo_0128,Tunisia,data/images/geo_0128.jpg,4,0.36980515718460083,1812945,Circles_of_latitude_between_the_25th_parallel_north_and_the_30th_parallel_north,6508478,2,0,0,1024,shard_218/shard_00006/1812945.png.tiles/chunk_0002_00.png
+geo_0128,Tunisia,data/images/geo_0128.jpg,5,0.36917588114738464,6063250,Portal:Western_Sahara/Selected_pictures,19901609,1,0,0,1024,shard_731/shard_00007/6063250.png.tiles/chunk_0001_00.png
+geo_0129,Tunisia,data/images/geo_0129.jpg,1,0.38463836908340454,5037026,"Mezher,_Lebanon",17025976,0,1,1024,335,shard_608/shard_00000/5037026.png.tiles/chunk_0000_01.png
+geo_0129,Tunisia,data/images/geo_0129.jpg,2,0.3725084960460663,1314652,Bizerte,5032427,1,4,4096,1024,shard_158/shard_00005/1314652.png.tiles/chunk_0001_04.png
+geo_0129,Tunisia,data/images/geo_0129.jpg,3,0.3723403811454773,4566897,List_of_monuments_in_Sliema,15408788,1,0,0,1024,shard_551/shard_00002/4566897.png.tiles/chunk_0001_00.png
+geo_0129,Tunisia,data/images/geo_0129.jpg,4,0.3717157244682312,4566881,"List_of_monuments_in_Salé,_Morocco",15408686,0,1,1024,1024,shard_551/shard_00002/4566881.png.tiles/chunk_0000_01.png
+geo_0129,Tunisia,data/images/geo_0129.jpg,5,0.37164658308029175,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0130,Tunisia,data/images/geo_0130.jpg,1,0.39416515827178955,5567120,Oilibya,18590375,0,1,1024,1024,shard_672/shard_00000/5567120.png.tiles/chunk_0000_01.png
+geo_0130,Tunisia,data/images/geo_0130.jpg,2,0.39259034395217896,523741,A1_motorway_(Tunisia),2739083,0,1,1024,1024,shard_063/shard_00001/523741.png.tiles/chunk_0000_01.png
+geo_0130,Tunisia,data/images/geo_0130.jpg,3,0.38525474071502686,7587742,Trans-Arabian_Pipeline,24388232,0,2,2048,1024,shard_915/shard_00007/7587742.png.tiles/chunk_0000_02.png
+geo_0130,Tunisia,data/images/geo_0130.jpg,4,0.38392817974090576,7587902,Trans-Sahara_Highway,24388857,0,2,2048,1024,shard_915/shard_00008/7587902.png.tiles/chunk_0000_02.png
+geo_0130,Tunisia,data/images/geo_0130.jpg,5,0.3805232048034668,4585209,List_of_roads_in_Kenya,15568092,0,2,2048,886,shard_553/shard_00004/4585209.png.tiles/chunk_0000_02.png
+geo_0131,Uganda,data/images/geo_0131.jpg,1,0.4500662088394165,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0131,Uganda,data/images/geo_0131.jpg,2,0.42214643955230713,3059471,Google_Street_View_coverage,10171999,7,7,7168,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_07.png
+geo_0131,Uganda,data/images/geo_0131.jpg,3,0.4207782447338104,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0131,Uganda,data/images/geo_0131.jpg,4,0.4181694984436035,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0131,Uganda,data/images/geo_0131.jpg,5,0.38531166315078735,6915553,"Sonde,_Uganda",22376758,0,1,1024,1024,shard_834/shard_00006/6915553.png.tiles/chunk_0000_01.png
+geo_0132,Uganda,data/images/geo_0132.jpg,1,0.45441702008247375,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0132,Uganda,data/images/geo_0132.jpg,2,0.4457748532295227,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0132,Uganda,data/images/geo_0132.jpg,3,0.43093782663345337,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0132,Uganda,data/images/geo_0132.jpg,4,0.42860323190689087,3059471,Google_Street_View_coverage,10171999,7,7,7168,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_07.png
+geo_0132,Uganda,data/images/geo_0132.jpg,5,0.39747822284698486,3059473,Google_Street_View_in_Africa,10172011,0,3,3072,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_03.png
+geo_0133,Uganda,data/images/geo_0133.jpg,1,0.41269901394844055,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0133,Uganda,data/images/geo_0133.jpg,2,0.4054567813873291,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0133,Uganda,data/images/geo_0133.jpg,3,0.38862770795822144,3059471,Google_Street_View_coverage,10171999,7,7,7168,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_07.png
+geo_0133,Uganda,data/images/geo_0133.jpg,4,0.3797444701194763,2985787,Ggaba,9959709,0,1,1024,1024,shard_360/shard_00010/2985787.png.tiles/chunk_0000_01.png
+geo_0133,Uganda,data/images/geo_0133.jpg,5,0.37953439354896545,5311171,Nakasero,17828457,0,3,3072,1024,shard_641/shard_00001/5311171.png.tiles/chunk_0000_03.png
+geo_0134,Uganda,data/images/geo_0134.jpg,1,0.43313705921173096,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0134,Uganda,data/images/geo_0134.jpg,2,0.39437443017959595,6514375,Rwamagana_Solar_Power_Station,21219251,0,1,1024,288,shard_786/shard_00003/6514375.png.tiles/chunk_0000_01.png
+geo_0134,Uganda,data/images/geo_0134.jpg,3,0.391762912273407,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0134,Uganda,data/images/geo_0134.jpg,4,0.3915850818157196,3059471,Google_Street_View_coverage,10171999,7,7,7168,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_07.png
+geo_0134,Uganda,data/images/geo_0134.jpg,5,0.37993431091308594,3059473,Google_Street_View_in_Africa,10172008,0,0,0,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_00.png
+geo_0135,Uganda,data/images/geo_0135.jpg,1,0.4709762632846832,3059473,Google_Street_View_in_Africa,10172014,0,6,6144,1024,shard_369/shard_00001/3059473.png.tiles/chunk_0000_06.png
+geo_0135,Uganda,data/images/geo_0135.jpg,2,0.44310903549194336,3059471,Google_Street_View_coverage,10172001,8,1,1024,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0008_01.png
+geo_0135,Uganda,data/images/geo_0135.jpg,3,0.43140676617622375,3059471,Google_Street_View_coverage,10171999,7,7,7168,1024,shard_369/shard_00001/3059471.png.tiles/chunk_0007_07.png
+geo_0135,Uganda,data/images/geo_0135.jpg,4,0.41607141494750977,2985787,Ggaba,9959709,0,1,1024,1024,shard_360/shard_00010/2985787.png.tiles/chunk_0000_01.png
+geo_0135,Uganda,data/images/geo_0135.jpg,5,0.41462814807891846,5311171,Nakasero,17828457,0,3,3072,1024,shard_641/shard_00001/5311171.png.tiles/chunk_0000_03.png
+geo_0136,United Arab Emirates,data/images/geo_0136.jpg,1,0.413006067276001,4525747,List_of_buildings_in_Dubai,15017328,2,3,3072,1024,shard_546/shard_00000/4525747.png.tiles/chunk_0002_03.png
+geo_0136,United Arab Emirates,data/images/geo_0136.jpg,2,0.41051185131073,4525747,List_of_buildings_in_Dubai,15017322,1,5,5120,1024,shard_546/shard_00000/4525747.png.tiles/chunk_0001_05.png
+geo_0136,United Arab Emirates,data/images/geo_0136.jpg,3,0.40915265679359436,2343001,Dubai_Golf_City,8066642,0,0,0,1024,shard_282/shard_00013/2343001.png.tiles/chunk_0000_00.png
+geo_0136,United Arab Emirates,data/images/geo_0136.jpg,4,0.38889238238334656,4535743,List_of_development_projects_in_Dubai,15113138,1,2,2048,1024,shard_547/shard_00002/4535743.png.tiles/chunk_0001_02.png
+geo_0136,United Arab Emirates,data/images/geo_0136.jpg,5,0.3886933922767639,4585199,List_of_roads_in_Dubai,15568023,0,1,1024,1024,shard_553/shard_00004/4585199.png.tiles/chunk_0000_01.png
+geo_0137,United Arab Emirates,data/images/geo_0137.jpg,1,0.4178481698036194,2381328,E_44_road_(United_Arab_Emirates),8171857,0,1,1024,1024,shard_287/shard_00002/2381328.png.tiles/chunk_0000_01.png
+geo_0137,United Arab Emirates,data/images/geo_0137.jpg,2,0.4167156517505646,6387553,Road_signs_in_Saudi_Arabia,20854769,1,6,6144,1024,shard_771/shard_00000/6387553.png.tiles/chunk_0001_06.png
+geo_0137,United Arab Emirates,data/images/geo_0137.jpg,3,0.41466382145881653,584205,Abu_Dhabi_Central_Capital_District,2897531,0,3,3072,1024,shard_070/shard_00004/584205.png.tiles/chunk_0000_03.png
+geo_0137,United Arab Emirates,data/images/geo_0137.jpg,4,0.41380774974823,7591781,Transport_in_Dubai,24403031,0,5,5120,1024,shard_916/shard_00003/7591781.png.tiles/chunk_0000_05.png
+geo_0137,United Arab Emirates,data/images/geo_0137.jpg,5,0.4104287624359131,6388042,Roads_in_Kuwait,20857140,0,3,3072,1024,shard_771/shard_00001/6388042.png.tiles/chunk_0000_03.png
+geo_0138,United Arab Emirates,data/images/geo_0138.jpg,1,0.4046596586704254,6388042,Roads_in_Kuwait,20857140,0,3,3072,1024,shard_771/shard_00001/6388042.png.tiles/chunk_0000_03.png
+geo_0138,United Arab Emirates,data/images/geo_0138.jpg,2,0.3871557116508484,2381328,E_44_road_(United_Arab_Emirates),8171858,0,2,2048,873,shard_287/shard_00002/2381328.png.tiles/chunk_0000_02.png
+geo_0138,United Arab Emirates,data/images/geo_0138.jpg,3,0.38556551933288574,2055639,D_92_road_(United_Arab_Emirates),7216298,0,0,0,1024,shard_248/shard_00001/2055639.png.tiles/chunk_0000_00.png
+geo_0138,United Arab Emirates,data/images/geo_0138.jpg,4,0.38485032320022583,7592106,Transport_in_Saudi_Arabia,24404558,0,2,2048,1024,shard_916/shard_00003/7592106.png.tiles/chunk_0000_02.png
+geo_0138,United Arab Emirates,data/images/geo_0138.jpg,5,0.3847261667251587,3138849,Gulf_Road_(Saudi_Arabia),10423270,0,0,0,1024,shard_378/shard_00013/3138849.png.tiles/chunk_0000_00.png
+geo_0139,United Arab Emirates,data/images/geo_0139.jpg,1,0.4356871247291565,7591781,Transport_in_Dubai,24403031,0,5,5120,1024,shard_916/shard_00003/7591781.png.tiles/chunk_0000_05.png
+geo_0139,United Arab Emirates,data/images/geo_0139.jpg,2,0.43269750475883484,2343001,Dubai_Golf_City,8066642,0,0,0,1024,shard_282/shard_00013/2343001.png.tiles/chunk_0000_00.png
+geo_0139,United Arab Emirates,data/images/geo_0139.jpg,3,0.42255276441574097,6646947,Sarkhej–Gandhinagar_Highway,21589225,0,1,1024,1024,shard_802/shard_00003/6646947.png.tiles/chunk_0000_01.png
+geo_0139,United Arab Emirates,data/images/geo_0139.jpg,4,0.4192640781402588,2381327,E_311_road_(United_Arab_Emirates),8171854,0,2,2048,1024,shard_287/shard_00002/2381327.png.tiles/chunk_0000_02.png
+geo_0139,United Arab Emirates,data/images/geo_0139.jpg,5,0.4191625714302063,2342894,Dubai,8066338,6,5,5120,1024,shard_282/shard_00013/2342894.png.tiles/chunk_0006_05.png
+geo_0140,United Arab Emirates,data/images/geo_0140.jpg,1,0.41290783882141113,6006958,Portal:Formula_One/Next_Grand_Prix/Round_05,19814624,0,0,0,1024,shard_725/shard_00001/6006958.png.tiles/chunk_0000_00.png
+geo_0140,United Arab Emirates,data/images/geo_0140.jpg,2,0.3951722979545593,443753,2025_WRC2_Championship,2518597,0,0,0,1024,shard_053/shard_00004/443753.png.tiles/chunk_0000_00.png
+geo_0140,United Arab Emirates,data/images/geo_0140.jpg,3,0.3920099139213562,428836,2024_GT_World_Challenge_Europe_Endurance_Cup,2379996,0,0,0,1024,shard_051/shard_00006/428836.png.tiles/chunk_0000_00.png
+geo_0140,United Arab Emirates,data/images/geo_0140.jpg,4,0.382904589176178,6931769,South_Africa_Safari_Rally,22422118,0,0,0,1024,shard_836/shard_00006/6931769.png.tiles/chunk_0000_00.png
+geo_0140,United Arab Emirates,data/images/geo_0140.jpg,5,0.38005173206329346,440291,2025_GT_World_Challenge_America,2489692,0,0,0,1024,shard_053/shard_00001/440291.png.tiles/chunk_0000_00.png
+geo_0141,United Kingdom,data/images/geo_0141.jpg,1,0.38708990812301636,4555620,"List_of_listed_buildings_in_St_Andrews,_Fife",15295500,5,0,0,1024,shard_549/shard_00007/4555620.png.tiles/chunk_0005_00.png
+geo_0141,United Kingdom,data/images/geo_0141.jpg,2,0.38694047927856445,3242209,Harrow_on_the_Hill,10713815,0,2,2048,1024,shard_391/shard_00002/3242209.png.tiles/chunk_0000_02.png
+geo_0141,United Kingdom,data/images/geo_0141.jpg,3,0.386400043964386,4466826,List_of_Google_Easter_eggs,14426852,1,4,4096,1024,shard_539/shard_00009/4466826.png.tiles/chunk_0001_04.png
+geo_0141,United Kingdom,data/images/geo_0141.jpg,4,0.38339704275131226,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0141,United Kingdom,data/images/geo_0141.jpg,5,0.3804914951324463,4554903,List_of_listed_buildings_in_Cove_And_Kilcreggan,15289832,1,4,4096,1024,shard_549/shard_00006/4554903.png.tiles/chunk_0001_04.png
+geo_0142,United Kingdom,data/images/geo_0142.jpg,1,0.44378092885017395,7803236,Vatican_Gallery_of_Maps,25009992,0,0,0,1024,shard_941/shard_00007/7803236.png.tiles/chunk_0000_00.png
+geo_0142,United Kingdom,data/images/geo_0142.jpg,2,0.43500030040740967,6727496,Sensation_(art_exhibition),21817910,1,4,4096,1024,shard_812/shard_00000/6727496.png.tiles/chunk_0001_04.png
+geo_0142,United Kingdom,data/images/geo_0142.jpg,3,0.42968204617500305,5254942,Museo_Correr,17664192,0,2,2048,1024,shard_634/shard_00002/5254942.png.tiles/chunk_0000_02.png
+geo_0142,United Kingdom,data/images/geo_0142.jpg,4,0.4223954677581787,3059058,Google_Arts_&_Culture,10169612,0,3,3072,1024,shard_369/shard_00001/3059058.png.tiles/chunk_0000_03.png
+geo_0142,United Kingdom,data/images/geo_0142.jpg,5,0.42074957489967346,2923236,"Gemäldegalerie,_Berlin",9773469,0,0,0,1024,shard_352/shard_00006/2923236.png.tiles/chunk_0000_00.png
+geo_0143,United Kingdom,data/images/geo_0143.jpg,1,0.3952997326850891,3059469,Google_Street_View,10171930,1,3,3072,1024,shard_369/shard_00010/3059469.png.tiles/chunk_0001_03.png
+geo_0143,United Kingdom,data/images/geo_0143.jpg,2,0.3868744969367981,3079318,Grade_II_listed_buildings_in_Brighton_and_Hove:_T–V,10232126,0,3,3072,1024,shard_371/shard_00005/3079318.png.tiles/chunk_0000_03.png
+geo_0143,United Kingdom,data/images/geo_0143.jpg,3,0.3857842683792114,4503562,List_of_United_Kingdom_locations:_Str-Stt,14817853,0,5,5120,1024,shard_543/shard_00005/4503562.png.tiles/chunk_0000_05.png
+geo_0143,United Kingdom,data/images/geo_0143.jpg,4,0.3709648549556732,4555629,"List_of_listed_buildings_in_St_Monans,_Fife",15295542,0,1,1024,1024,shard_549/shard_00007/4555629.png.tiles/chunk_0000_01.png
+geo_0143,United Kingdom,data/images/geo_0143.jpg,5,0.3671870231628418,3079313,Grade_II_listed_buildings_in_Brighton_and_Hove:_I–L,10231976,0,5,5120,1024,shard_371/shard_00005/3079313.png.tiles/chunk_0000_05.png
+geo_0144,United Kingdom,data/images/geo_0144.jpg,1,0.3621212840080261,5493759,North_Carolina_Highway_751,18381065,0,2,2048,280,shard_663/shard_00001/5493759.png.tiles/chunk_0000_02.png
+geo_0144,United Kingdom,data/images/geo_0144.jpg,2,0.36138126254081726,1319538,Black_Lion_Skatepark,5046780,0,3,3072,1024,shard_159/shard_00009/1319538.png.tiles/chunk_0000_03.png
+geo_0144,United Kingdom,data/images/geo_0144.jpg,3,0.35810181498527527,5500157,"Northbrook_Park,_London",18403616,0,1,1024,1024,shard_663/shard_00007/5500157.png.tiles/chunk_0000_01.png
+geo_0144,United Kingdom,data/images/geo_0144.jpg,4,0.35619407892227173,4585163,List_of_road_junctions_in_the_United_Kingdom:_N,15567375,0,3,3072,1024,shard_553/shard_00004/4585163.png.tiles/chunk_0000_03.png
+geo_0144,United Kingdom,data/images/geo_0144.jpg,5,0.3493553400039673,7860114,Virginia_State_Route_215,25175759,0,1,1024,263,shard_948/shard_00006/7860114.png.tiles/chunk_0000_01.png
+geo_0145,United Kingdom,data/images/geo_0145.jpg,1,0.4003397226333618,2934309,GeoGuessr,9807321,0,1,1024,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_01.png
+geo_0145,United Kingdom,data/images/geo_0145.jpg,2,0.39471378922462463,7074760,Straight_line_mission,22845281,0,0,0,1024,shard_854/shard_00000/7074760.png.tiles/chunk_0000_00.png
+geo_0145,United Kingdom,data/images/geo_0145.jpg,3,0.3891156017780304,3059307,Google_Maps,10170951,0,0,0,1024,shard_369/shard_00001/3059307.png.tiles/chunk_0000_00.png
+geo_0145,United Kingdom,data/images/geo_0145.jpg,4,0.38848793506622314,6008517,Portal:Geography/Featured_picture_archive/2006,19816854,1,3,3072,1024,shard_725/shard_00002/6008517.png.tiles/chunk_0001_03.png
+geo_0145,United Kingdom,data/images/geo_0145.jpg,5,0.3780377507209778,2934309,GeoGuessr,9807320,0,0,0,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_00.png
+geo_0146,United States,data/images/geo_0146.jpg,1,0.39520180225372314,6387497,Road_signs_in_China,20853657,1,4,4096,1024,shard_771/shard_00000/6387497.png.tiles/chunk_0001_04.png
+geo_0146,United States,data/images/geo_0146.jpg,2,0.3801894783973694,1929450,Control_city,6874066,1,7,7168,1024,shard_232/shard_00013/1929450.png.tiles/chunk_0001_07.png
+geo_0146,United States,data/images/geo_0146.jpg,3,0.3761659264564514,7860114,Virginia_State_Route_215,25175759,0,1,1024,263,shard_948/shard_00006/7860114.png.tiles/chunk_0000_01.png
+geo_0146,United States,data/images/geo_0146.jpg,4,0.37498700618743896,2934309,GeoGuessr,9807324,0,4,4096,1024,shard_354/shard_00001/2934309.png.tiles/chunk_0000_04.png
+geo_0146,United States,data/images/geo_0146.jpg,5,0.3747791647911072,6387497,Road_signs_in_China,20853655,1,2,2048,1024,shard_771/shard_00000/6387497.png.tiles/chunk_0001_02.png
+geo_0147,United States,data/images/geo_0147.jpg,1,0.39400333166122437,3609938,Internet_Roadtrip,11792637,0,1,1024,675,shard_435/shard_00012/3609938.png.tiles/chunk_0000_01.png
+geo_0147,United States,data/images/geo_0147.jpg,2,0.3884054124355316,6187521,Quebec_Route_255,20256657,0,1,1024,757,shard_746/shard_00007/6187521.png.tiles/chunk_0000_01.png
+geo_0147,United States,data/images/geo_0147.jpg,3,0.38444989919662476,3609938,Internet_Roadtrip,11792636,0,0,0,1024,shard_435/shard_00012/3609938.png.tiles/chunk_0000_00.png
+geo_0147,United States,data/images/geo_0147.jpg,4,0.3839995861053467,4784251,Maine_State_Route_197,16299568,0,1,1024,814,shard_577/shard_00004/4784251.png.tiles/chunk_0000_01.png
+geo_0147,United States,data/images/geo_0147.jpg,5,0.38346338272094727,7677628,U.S._Route_9_in_New_York,24628313,0,7,7168,1024,shard_926/shard_00006/7677628.png.tiles/chunk_0000_07.png
+geo_0148,United States,data/images/geo_0148.jpg,1,0.3872074484825134,5494758,North_Creek_(conservation_area),18383884,0,0,0,1024,shard_663/shard_00002/5494758.png.tiles/chunk_0000_00.png
+geo_0148,United States,data/images/geo_0148.jpg,2,0.3830493986606598,5810548,Pennsylvania_State_Game_Lands_Number_12,19288128,0,2,2048,1024,shard_701/shard_00003/5810548.png.tiles/chunk_0000_02.png
+geo_0148,United States,data/images/geo_0148.jpg,3,0.37917405366897583,5494246,North_Carolina_game_land,18382051,0,0,0,1024,shard_663/shard_00001/5494246.png.tiles/chunk_0000_00.png
+geo_0148,United States,data/images/geo_0148.jpg,4,0.3787766695022583,5810596,Pennsylvania_State_Game_Lands_Number_49,19288336,0,0,0,1024,shard_701/shard_00003/5810596.png.tiles/chunk_0000_00.png
+geo_0148,United States,data/images/geo_0148.jpg,5,0.37542465329170227,3730671,James_River_Face_Wilderness_Addition,12151295,0,1,1024,1024,shard_450/shard_00002/3730671.png.tiles/chunk_0000_01.png
+geo_0149,United States,data/images/geo_0149.jpg,1,0.376517653465271,2965004,"Georgia,_New_Jersey",9893219,0,0,0,1024,shard_357/shard_00007/2965004.png.tiles/chunk_0000_00.png
+geo_0149,United States,data/images/geo_0149.jpg,2,0.3685540556907654,5493543,North_Carolina_Highway_205,18380683,0,1,1024,362,shard_663/shard_00001/5493543.png.tiles/chunk_0000_01.png
+geo_0149,United States,data/images/geo_0149.jpg,3,0.36380356550216675,7592423,"Transportation_in_Augusta,_Georgia",24405771,3,1,1024,1024,shard_916/shard_00004/7592423.png.tiles/chunk_0003_01.png
+geo_0149,United States,data/images/geo_0149.jpg,4,0.35981014370918274,7673305,U.S._Route_17_in_Florida,24620887,1,7,7168,1024,shard_926/shard_00002/7673305.png.tiles/chunk_0001_07.png
+geo_0149,United States,data/images/geo_0149.jpg,5,0.357540488243103,5350532,"National_Register_of_Historic_Places_listings_in_Hart_County,_Georgia",17952456,0,3,3072,1024,shard_645/shard_00007/5350532.png.tiles/chunk_0000_03.png
+geo_0150,United States,data/images/geo_0150.jpg,1,0.3782525062561035,1440100,Broad_River_Air_Park,5404675,0,0,0,1024,shard_173/shard_00012/1440100.png.tiles/chunk_0000_00.png
+geo_0150,United States,data/images/geo_0150.jpg,2,0.3770339787006378,3611855,Interstate_35,11799660,0,3,3072,1024,shard_436/shard_00000/3611855.png.tiles/chunk_0000_03.png
+geo_0150,United States,data/images/geo_0150.jpg,3,0.3743992745876312,5498807,North_Texas,18398611,2,5,5120,1024,shard_663/shard_00006/5498807.png.tiles/chunk_0002_05.png
+geo_0150,United States,data/images/geo_0150.jpg,4,0.3740103840827942,5137243,Missouri_Route_759,17331461,0,1,1024,387,shard_620/shard_00001/5137243.png.tiles/chunk_0000_01.png
+geo_0150,United States,data/images/geo_0150.jpg,5,0.3738512098789215,7860114,Virginia_State_Route_215,25175759,0,1,1024,263,shard_948/shard_00006/7860114.png.tiles/chunk_0000_01.png

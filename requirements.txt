@@ -1,0 +1,2 @@
+# PixelRAG research environment
+pixelrag==0.4.0
