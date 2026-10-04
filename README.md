@@ -1,4 +1,3 @@
-@'
 # PixelRAG for GeoGuessr
 
 Research tryout project exploring how useful PixelRAG-style visual retrieval is for image geolocation on GeoGuessr-style images.
@@ -145,4 +144,3 @@ Phase 3 complete — 4 October 2026
 The project has progressed from environment setup to a reproducible 150-image hosted PixelRAG visual retrieval baseline.
 
 Next milestone: implement and run Phase 4 evaluation.
-'@ | Set-Content README.md -Encoding UTF8
