@@ -1,0 +1,482 @@
+{
+  "experiment": "phase5_deterministic_reader",
+  "reader_type": "rank_weighted_explicit_country_title_match",
+  "total_images": 150,
+  "correct_predictions": 26,
+  "non_unknown_predictions": 51,
+  "unknown_predictions": 99,
+  "overall_accuracy": 0.17333333333333334,
+  "coverage": 0.34,
+  "selective_accuracy": 0.5098039215686274,
+  "abstention_rate": 0.66,
+  "per_country": {
+    "Andorra": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 1,
+      "unknown": 4,
+      "accuracy": 0.0,
+      "coverage": 0.2
+    },
+    "Argentina": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 1,
+      "unknown": 3,
+      "accuracy": 0.2,
+      "coverage": 0.4
+    },
+    "Botswana": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 3,
+      "unknown": 2,
+      "accuracy": 0.0,
+      "coverage": 0.6
+    },
+    "Bulgaria": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 1,
+      "unknown": 4,
+      "accuracy": 0.0,
+      "coverage": 0.2
+    },
+    "Cambodia": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 1,
+      "unknown": 3,
+      "accuracy": 0.2,
+      "coverage": 0.4
+    },
+    "China": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 0,
+      "unknown": 4,
+      "accuracy": 0.2,
+      "coverage": 0.2
+    },
+    "Ecuador": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 3,
+      "unknown": 2,
+      "accuracy": 0.0,
+      "coverage": 0.6
+    },
+    "Estonia": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 1,
+      "unknown": 4,
+      "accuracy": 0.0,
+      "coverage": 0.2
+    },
+    "Eswatini": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 2,
+      "unknown": 3,
+      "accuracy": 0.0,
+      "coverage": 0.4
+    },
+    "Faroe Islands": {
+      "n": 5,
+      "correct": 2,
+      "incorrect": 0,
+      "unknown": 3,
+      "accuracy": 0.4,
+      "coverage": 0.4
+    },
+    "France": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 0,
+      "unknown": 5,
+      "accuracy": 0.0,
+      "coverage": 0.0
+    },
+    "Greenland": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 0,
+      "unknown": 5,
+      "accuracy": 0.0,
+      "coverage": 0.0
+    },
+    "Latvia": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 1,
+      "unknown": 3,
+      "accuracy": 0.2,
+      "coverage": 0.4
+    },
+    "Lebanon": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 0,
+      "unknown": 5,
+      "accuracy": 0.0,
+      "coverage": 0.0
+    },
+    "Luxembourg": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 1,
+      "unknown": 4,
+      "accuracy": 0.0,
+      "coverage": 0.2
+    },
+    "Montenegro": {
+      "n": 5,
+      "correct": 2,
+      "incorrect": 0,
+      "unknown": 3,
+      "accuracy": 0.4,
+      "coverage": 0.4
+    },
+    "Northern Mariana Islands": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 3,
+      "unknown": 2,
+      "accuracy": 0.0,
+      "coverage": 0.6
+    },
+    "Pakistan": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 0,
+      "unknown": 5,
+      "accuracy": 0.0,
+      "coverage": 0.0
+    },
+    "Poland": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 2,
+      "unknown": 3,
+      "accuracy": 0.0,
+      "coverage": 0.4
+    },
+    "Puerto Rico": {
+      "n": 5,
+      "correct": 4,
+      "incorrect": 1,
+      "unknown": 0,
+      "accuracy": 0.8,
+      "coverage": 1.0
+    },
+    "Senegal": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 0,
+      "unknown": 4,
+      "accuracy": 0.2,
+      "coverage": 0.2
+    },
+    "South Africa": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 0,
+      "unknown": 4,
+      "accuracy": 0.2,
+      "coverage": 0.2
+    },
+    "South Korea": {
+      "n": 5,
+      "correct": 2,
+      "incorrect": 1,
+      "unknown": 2,
+      "accuracy": 0.4,
+      "coverage": 0.6
+    },
+    "Switzerland": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 0,
+      "unknown": 4,
+      "accuracy": 0.2,
+      "coverage": 0.2
+    },
+    "Taiwan": {
+      "n": 5,
+      "correct": 0,
+      "incorrect": 0,
+      "unknown": 5,
+      "accuracy": 0.0,
+      "coverage": 0.0
+    },
+    "Tunisia": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 1,
+      "unknown": 3,
+      "accuracy": 0.2,
+      "coverage": 0.4
+    },
+    "Uganda": {
+      "n": 5,
+      "correct": 1,
+      "incorrect": 0,
+      "unknown": 4,
+      "accuracy": 0.2,
+      "coverage": 0.2
+    },
+    "United Arab Emirates": {
+      "n": 5,
+      "correct": 3,
+      "incorrect": 1,
+      "unknown": 1,
+      "accuracy": 0.6,
+      "coverage": 0.8
+    },
+    "United Kingdom": {
+      "n": 5,
+      "correct": 2,
+      "incorrect": 0,
+      "unknown": 3,
+      "accuracy": 0.4,
+      "coverage": 0.4
+    },
+    "United States": {
+      "n": 5,
+      "correct": 2,
+      "incorrect": 1,
+      "unknown": 2,
+      "accuracy": 0.4,
+      "coverage": 0.6
+    }
+  },
+  "examples": {
+    "correct": [
+      {
+        "image_id": "geo_0008",
+        "gold_country": "Argentina",
+        "predicted_country": "Argentina",
+        "confidence": "1.0",
+        "evidence_rank": "1",
+        "evidence_title": "Google_Street_View_in_Argentina"
+      },
+      {
+        "image_id": "geo_0024",
+        "gold_country": "Cambodia",
+        "predicted_country": "Cambodia",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "Portal:Cambodia"
+      },
+      {
+        "image_id": "geo_0028",
+        "gold_country": "China",
+        "predicted_country": "China",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "SOHO_China"
+      },
+      {
+        "image_id": "geo_0046",
+        "gold_country": "Faroe Islands",
+        "predicted_country": "Faroe Islands",
+        "confidence": "1.0",
+        "evidence_rank": "1",
+        "evidence_title": "Geography_of_the_Faroe_Islands"
+      },
+      {
+        "image_id": "geo_0049",
+        "gold_country": "Faroe Islands",
+        "predicted_country": "Faroe Islands",
+        "confidence": "1.0",
+        "evidence_rank": "1",
+        "evidence_title": "Geography_of_the_Faroe_Islands"
+      },
+      {
+        "image_id": "geo_0064",
+        "gold_country": "Latvia",
+        "predicted_country": "Latvia",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "Road_signs_in_Latvia"
+      },
+      {
+        "image_id": "geo_0076",
+        "gold_country": "Montenegro",
+        "predicted_country": "Montenegro",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "M-4.1_highway_(Montenegro)"
+      },
+      {
+        "image_id": "geo_0080",
+        "gold_country": "Montenegro",
+        "predicted_country": "Montenegro",
+        "confidence": "1.0",
+        "evidence_rank": "3",
+        "evidence_title": "M-4.1_highway_(Montenegro)"
+      },
+      {
+        "image_id": "geo_0096",
+        "gold_country": "Puerto Rico",
+        "predicted_country": "Puerto Rico",
+        "confidence": "1.0",
+        "evidence_rank": "1",
+        "evidence_title": "List_of_highways_in_Ponce,_Puerto_Rico"
+      },
+      {
+        "image_id": "geo_0097",
+        "gold_country": "Puerto Rico",
+        "predicted_country": "Puerto Rico",
+        "confidence": "1.0",
+        "evidence_rank": "1",
+        "evidence_title": "Puerto_Rico_Highway_3"
+      }
+    ],
+    "incorrect": [
+      {
+        "image_id": "geo_0001",
+        "gold_country": "Andorra",
+        "predicted_country": "United States",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "Portal:U.S._roads/Selected_picture"
+      },
+      {
+        "image_id": "geo_0010",
+        "gold_country": "Argentina",
+        "predicted_country": "United States",
+        "confidence": "1.0",
+        "evidence_rank": "3",
+        "evidence_title": "U.S._Route_95_in_Arizona"
+      },
+      {
+        "image_id": "geo_0013",
+        "gold_country": "Botswana",
+        "predicted_country": "South Africa",
+        "confidence": "1.0",
+        "evidence_rank": "4",
+        "evidence_title": "R511_(South_Africa)"
+      },
+      {
+        "image_id": "geo_0014",
+        "gold_country": "Botswana",
+        "predicted_country": "South Africa",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "R511_(South_Africa)"
+      },
+      {
+        "image_id": "geo_0015",
+        "gold_country": "Botswana",
+        "predicted_country": "South Africa",
+        "confidence": "1.0",
+        "evidence_rank": "3",
+        "evidence_title": "R24_(South_Africa)"
+      },
+      {
+        "image_id": "geo_0018",
+        "gold_country": "Bulgaria",
+        "predicted_country": "United Kingdom",
+        "confidence": "1.0",
+        "evidence_rank": "4",
+        "evidence_title": "B_roads_in_Zone_3_of_the_Great_Britain_numbering_scheme"
+      },
+      {
+        "image_id": "geo_0025",
+        "gold_country": "Cambodia",
+        "predicted_country": "Ecuador",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "Ecuador_Highway_35"
+      },
+      {
+        "image_id": "geo_0032",
+        "gold_country": "Ecuador",
+        "predicted_country": "Puerto Rico",
+        "confidence": "1.0",
+        "evidence_rank": "1",
+        "evidence_title": "List_of_highways_in_Ponce,_Puerto_Rico"
+      },
+      {
+        "image_id": "geo_0034",
+        "gold_country": "Ecuador",
+        "predicted_country": "Argentina",
+        "confidence": "1.0",
+        "evidence_rank": "2",
+        "evidence_title": "Google_Street_View_in_Argentina"
+      },
+      {
+        "image_id": "geo_0035",
+        "gold_country": "Ecuador",
+        "predicted_country": "Puerto Rico",
+        "confidence": "1.0",
+        "evidence_rank": "5",
+        "evidence_title": "Puerto_Rico_Highway_3"
+      }
+    ],
+    "unknown": [
+      {
+        "image_id": "geo_0002",
+        "gold_country": "Andorra",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0003",
+        "gold_country": "Andorra",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0004",
+        "gold_country": "Andorra",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0005",
+        "gold_country": "Andorra",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0006",
+        "gold_country": "Argentina",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0007",
+        "gold_country": "Argentina",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0009",
+        "gold_country": "Argentina",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0011",
+        "gold_country": "Botswana",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0012",
+        "gold_country": "Botswana",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      },
+      {
+        "image_id": "geo_0016",
+        "gold_country": "Bulgaria",
+        "predicted_country": "UNKNOWN",
+        "evidence_title": ""
+      }
+    ]
+  }
+}

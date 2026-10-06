@@ -42,13 +42,13 @@ The next stage will evaluate how often retrieved visual evidence provides useful
 - [x] Phase 1 — Environment + PixelRAG smoke test
 - [x] Phase 2 — Dataset acquisition + frozen evaluation set
 - [x] Phase 3 — PixelRAG visual retrieval baseline
-- [ ] Phase 4 — Evaluation
-- [ ] Phase 5 — Reader / location reasoning
-- [ ] Phase 6 — Quantitative evaluation
-- [ ] Phase 7 — Failure analysis
-- [ ] Phase 8 — Text-aware extension
-- [ ] Phase 9 — Extension evaluation
-- [ ] Phase 10 — Final analysis and figures
+- [x] Phase 4 — Evaluation
+- [x] Phase 5 — Reader / location reasoning
+- [x] Phase 6 — Quantitative evaluation
+- [x] Phase 7 — Failure analysis
+- [x] Phase 8 — Text-aware extension
+- [x] Phase 9 — Extension evaluation
+- [x] Phase 10 — Final analysis and figures
 - [ ] Phase 11 — Research report
 - [ ] Phase 12 — Reproducibility + GitHub cleanup
 - [ ] Phase 13 — Final QA + submission

@@ -1,0 +1,353 @@
+{
+  "experiment": "phase6_retrieval_reader_comparison",
+  "total_images": 150,
+  "retrieval": {
+    "correct_top5_evidence": 26,
+    "correct_top5_evidence_rate": 0.17333333333333334,
+    "first_correct_evidence_rank_distribution": {
+      "1": 7,
+      "2": 2,
+      "3": 5,
+      "4": 5,
+      "5": 7
+    }
+  },
+  "reader": {
+    "correct": 26,
+    "incorrect": 25,
+    "unknown": 99,
+    "overall_accuracy": 0.17333333333333334,
+    "coverage": 0.34,
+    "selective_accuracy": 0.5098039215686274
+  },
+  "evidence_to_reader": {
+    "images_with_correct_evidence": 26,
+    "reader_correct_given_correct_evidence": 26,
+    "reader_wrong_given_correct_evidence": 0,
+    "reader_unknown_given_correct_evidence": 0,
+    "correct_evidence_to_correct_prediction_rate": 1.0,
+    "correct_evidence_to_any_prediction_rate": 1.0,
+    "correct_evidence_to_wrong_prediction_rate": 0.0,
+    "correct_evidence_to_unknown_rate": 0.0
+  },
+  "no_correct_evidence": {
+    "reader_correct": 0,
+    "reader_incorrect": 25,
+    "reader_unknown": 99,
+    "reader_correct_rate": 0.0
+  },
+  "cross_tab": {
+    "correct_evidence": {
+      "reader_correct": 26,
+      "reader_incorrect": 0,
+      "reader_unknown": 0
+    },
+    "no_correct_evidence": {
+      "reader_correct": 0,
+      "reader_incorrect": 25,
+      "reader_unknown": 99
+    }
+  },
+  "per_country": {
+    "Andorra": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 1,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Argentina": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 1,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Botswana": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 3,
+      "reader_unknown": 2,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Bulgaria": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 1,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Cambodia": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 1,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "China": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 0,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Ecuador": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 3,
+      "reader_unknown": 2,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Estonia": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 1,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Eswatini": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 2,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Faroe Islands": {
+      "n": 5,
+      "correct_top5_evidence": 2,
+      "retrieval_evidence_rate": 0.4,
+      "reader_correct": 2,
+      "reader_incorrect": 0,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.4,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "France": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 0,
+      "reader_unknown": 5,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Greenland": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 0,
+      "reader_unknown": 5,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Latvia": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 1,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Lebanon": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 0,
+      "reader_unknown": 5,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Luxembourg": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 1,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Montenegro": {
+      "n": 5,
+      "correct_top5_evidence": 2,
+      "retrieval_evidence_rate": 0.4,
+      "reader_correct": 2,
+      "reader_incorrect": 0,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.4,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Northern Mariana Islands": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 3,
+      "reader_unknown": 2,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Pakistan": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 0,
+      "reader_unknown": 5,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Poland": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 2,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Puerto Rico": {
+      "n": 5,
+      "correct_top5_evidence": 4,
+      "retrieval_evidence_rate": 0.8,
+      "reader_correct": 4,
+      "reader_incorrect": 1,
+      "reader_unknown": 0,
+      "reader_accuracy": 0.8,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Senegal": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 0,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "South Africa": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 0,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "South Korea": {
+      "n": 5,
+      "correct_top5_evidence": 2,
+      "retrieval_evidence_rate": 0.4,
+      "reader_correct": 2,
+      "reader_incorrect": 1,
+      "reader_unknown": 2,
+      "reader_accuracy": 0.4,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Switzerland": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 0,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Taiwan": {
+      "n": 5,
+      "correct_top5_evidence": 0,
+      "retrieval_evidence_rate": 0.0,
+      "reader_correct": 0,
+      "reader_incorrect": 0,
+      "reader_unknown": 5,
+      "reader_accuracy": 0.0,
+      "evidence_to_correct_conversion": 0.0
+    },
+    "Tunisia": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 1,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "Uganda": {
+      "n": 5,
+      "correct_top5_evidence": 1,
+      "retrieval_evidence_rate": 0.2,
+      "reader_correct": 1,
+      "reader_incorrect": 0,
+      "reader_unknown": 4,
+      "reader_accuracy": 0.2,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "United Arab Emirates": {
+      "n": 5,
+      "correct_top5_evidence": 3,
+      "retrieval_evidence_rate": 0.6,
+      "reader_correct": 3,
+      "reader_incorrect": 1,
+      "reader_unknown": 1,
+      "reader_accuracy": 0.6,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "United Kingdom": {
+      "n": 5,
+      "correct_top5_evidence": 2,
+      "retrieval_evidence_rate": 0.4,
+      "reader_correct": 2,
+      "reader_incorrect": 0,
+      "reader_unknown": 3,
+      "reader_accuracy": 0.4,
+      "evidence_to_correct_conversion": 1.0
+    },
+    "United States": {
+      "n": 5,
+      "correct_top5_evidence": 2,
+      "retrieval_evidence_rate": 0.4,
+      "reader_correct": 2,
+      "reader_incorrect": 1,
+      "reader_unknown": 2,
+      "reader_accuracy": 0.4,
+      "evidence_to_correct_conversion": 1.0
+    }
+  }
+}

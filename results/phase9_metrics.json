@@ -1,0 +1,9 @@
+{
+  "text_aware_success_cases": 3,
+  "image_only_correct": 0,
+  "text_aware_correct": 1,
+  "both_correct": 0,
+  "text_added_correct_evidence": 1,
+  "image_only_correct_evidence": 0,
+  "neither_correct": 2
+}

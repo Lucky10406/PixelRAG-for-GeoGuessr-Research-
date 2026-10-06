@@ -1,0 +1,43 @@
+{
+  "experiment": "phase7_failure_analysis",
+  "total_images": 150,
+  "retrieval_failures": {
+    "count": 124,
+    "rate": 0.8266666666666667,
+    "categories": {
+      "wrong_country_transport_or_road": 20,
+      "generic_retrieval": 42,
+      "landmark_or_location_bias": 13,
+      "weak_or_non_specific_retrieval": 32,
+      "geographically_related_wrong_evidence": 3,
+      "transport_or_road_without_country_clue": 12,
+      "wrong_country_specific_evidence": 2
+    }
+  },
+  "reader_incorrect": {
+    "count": 25,
+    "rate": 0.16666666666666666,
+    "categories": {
+      "wrong_generic_clue": 5,
+      "wrong_transport_or_road_clue": 12,
+      "wrong_clue_geographically_related": 3,
+      "wrong_specific_clue": 5
+    },
+    "geographically_related_wrong_predictions": 3
+  },
+  "reader_unknown": {
+    "count": 99,
+    "rate": 0.66
+  },
+  "manual_review": {
+    "retrieval_cases_flagged": 45
+  },
+  "methodology_notes": [
+    "Retrieval failure is defined as no explicit gold-country evidence in the Top-5 titles.",
+    "Automated categories use retrieval titles and metadata only.",
+    "Visual ambiguity cannot be established reliably without inspecting the original image.",
+    "Text-missed failure cannot be established because useful_visible_text is currently unannotated.",
+    "Manual review is therefore required before treating the taxonomy as final.",
+    "Reader-side categories describe the evidence selected by the deterministic reader."
+  ]
+}

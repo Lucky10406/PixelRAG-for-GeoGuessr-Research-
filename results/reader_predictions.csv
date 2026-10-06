@@ -1,0 +1,151 @@
+image_id,predicted_country,confidence,evidence_rank,evidence_score,evidence_title,candidate_countries,reader_status
+geo_0001,United States,1.0,5,0.37050560116767883,Portal:U.S._roads/Selected_picture,"{""United States"": 1.0}",explicit_match
+geo_0002,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0003,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0004,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0005,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0006,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0007,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0008,Argentina,1.0,1,0.3726465702056885,Google_Street_View_in_Argentina,"{""Argentina"": 5.0}",explicit_match
+geo_0009,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0010,United States,1.0,3,0.4222944974899292,U.S._Route_95_in_Arizona,"{""United States"": 4.0}",explicit_match
+geo_0011,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0012,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0013,South Africa,1.0,4,0.3700191378593445,R511_(South_Africa),"{""South Africa"": 2.0}",explicit_match
+geo_0014,South Africa,1.0,5,0.37248048186302185,R511_(South_Africa),"{""South Africa"": 1.0}",explicit_match
+geo_0015,South Africa,1.0,3,0.3980730175971985,R24_(South_Africa),"{""South Africa"": 3.0}",explicit_match
+geo_0016,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0017,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0018,United Kingdom,1.0,4,0.36570748686790466,B_roads_in_Zone_3_of_the_Great_Britain_numbering_scheme,"{""United Kingdom"": 2.0}",explicit_match
+geo_0019,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0020,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0021,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0022,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0023,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0024,Cambodia,1.0,5,0.3960985839366913,Portal:Cambodia,"{""Cambodia"": 1.0}",explicit_match
+geo_0025,Ecuador,1.0,5,0.3607085049152374,Ecuador_Highway_35,"{""Ecuador"": 1.0}",explicit_match
+geo_0026,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0027,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0028,China,1.0,5,0.3793441951274872,SOHO_China,"{""China"": 1.0}",explicit_match
+geo_0029,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0030,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0031,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0032,Puerto Rico,1.0,1,0.40884071588516235,"List_of_highways_in_Ponce,_Puerto_Rico","{""Puerto Rico"": 12.0}",explicit_match
+geo_0033,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0034,Argentina,1.0,2,0.38703393936157227,Google_Street_View_in_Argentina,"{""Argentina"": 4.0}",explicit_match
+geo_0035,Puerto Rico,1.0,5,0.3948863744735718,Puerto_Rico_Highway_3,"{""Puerto Rico"": 1.0}",explicit_match
+geo_0036,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0037,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0038,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0039,Latvia,1.0,1,0.38273847103118896,Portal:Latvia/Featured_picture/12,"{""Latvia"": 5.0}",explicit_match
+geo_0040,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0041,Puerto Rico,1.0,3,0.36063235998153687,"List_of_highways_in_Ponce,_Puerto_Rico","{""Puerto Rico"": 3.0}",explicit_match
+geo_0042,Puerto Rico,1.0,2,0.38615331053733826,Puerto_Rico_Highway_252,"{""Puerto Rico"": 6.0}",explicit_match
+geo_0043,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0044,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0045,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0046,Faroe Islands,1.0,1,0.4107693135738373,Geography_of_the_Faroe_Islands,"{""Faroe Islands"": 5.0}",explicit_match
+geo_0047,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0048,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0049,Faroe Islands,1.0,1,0.4531390070915222,Geography_of_the_Faroe_Islands,"{""Faroe Islands"": 7.0}",explicit_match
+geo_0050,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0051,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0052,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0053,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0054,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0055,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0056,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0057,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0058,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0059,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0060,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0061,Poland,1.0,2,0.3831644654273987,Poland–Russia_border,"{""Poland"": 10.0}",explicit_match
+geo_0062,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0063,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0064,Latvia,1.0,5,0.3555094003677368,Road_signs_in_Latvia,"{""Latvia"": 1.0}",explicit_match
+geo_0065,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0066,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0067,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0068,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0069,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0070,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0071,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0072,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0073,Switzerland,1.0,4,0.369396448135376,List_of_cultural_property_of_national_significance_in_Switzerland:_Fribourg,"{""Switzerland"": 2.0}",explicit_match
+geo_0074,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0075,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0076,Montenegro,1.0,5,0.38745006918907166,M-4.1_highway_(Montenegro),"{""Montenegro"": 1.0}",explicit_match
+geo_0077,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0078,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0079,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0080,Montenegro,1.0,3,0.43790245056152344,M-4.1_highway_(Montenegro),"{""Montenegro"": 5.0}",explicit_match
+geo_0081,Puerto Rico,0.625,2,0.3999703526496887,Puerto_Rico_Highway_504,"{""Puerto Rico"": 5.0, ""United States"": 3.0}",explicit_match
+geo_0082,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0083,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0084,Puerto Rico,0.875,2,0.41317179799079895,"Aguadilla,_Puerto_Rico","{""Puerto Rico"": 7.0, ""United States"": 1.0}",explicit_match
+geo_0085,Puerto Rico,0.8,2,0.39841896295547485,Puerto_Rico_Highway_123,"{""Puerto Rico"": 4.0, ""United States"": 1.0}",explicit_match
+geo_0086,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0087,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0088,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0089,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0090,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0091,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0092,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0093,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0094,Latvia,1.0,1,0.4027857184410095,A6_road_(Latvia),"{""Latvia"": 5.0}",explicit_match
+geo_0095,Latvia,1.0,5,0.36775022745132446,Portal:Latvia/Featured_picture/12,"{""Latvia"": 1.0}",explicit_match
+geo_0096,Puerto Rico,1.0,1,0.4188899099826813,"List_of_highways_in_Ponce,_Puerto_Rico","{""Puerto Rico"": 14.0}",explicit_match
+geo_0097,Puerto Rico,1.0,1,0.427101194858551,Puerto_Rico_Highway_3,"{""Puerto Rico"": 12.0}",explicit_match
+geo_0098,Puerto Rico,0.555556,3,0.40118521451950073,Puerto_Rico_Highway_3,"{""Puerto Rico"": 5.0, ""Northern Mariana Islands"": 4.0}",explicit_match
+geo_0099,Argentina,1.0,4,0.41937726736068726,Google_Street_View_in_Argentina,"{""Argentina"": 2.0}",explicit_match
+geo_0100,Puerto Rico,1.0,4,0.43322741985321045,Puerto_Rico_Highway_3,"{""Puerto Rico"": 2.0}",explicit_match
+geo_0101,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0102,Senegal,1.0,3,0.38316410779953003,N4_road_(Senegal),"{""Senegal"": 5.0}",explicit_match
+geo_0103,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0104,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0105,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0106,South Africa,1.0,4,0.3641248047351837,South_Africa_Safari_Rally,"{""South Africa"": 2.0}",explicit_match
+geo_0107,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0108,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0109,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0110,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0111,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0112,South Korea,1.0,3,0.38677605986595154,National_Route_58_(South_Korea),"{""South Korea"": 6.0}",explicit_match
+geo_0113,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0114,China,1.0,1,0.3995774984359741,Road_signs_in_China,"{""China"": 5.0}",explicit_match
+geo_0115,South Korea,1.0,5,0.38004767894744873,National_Route_28_(South_Korea),"{""South Korea"": 1.0}",explicit_match
+geo_0116,Switzerland,1.0,1,0.3977246582508087,List_of_cultural_property_of_national_significance_in_Switzerland:_Bern_A-M,"{""Switzerland"": 7.0}",explicit_match
+geo_0117,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0118,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0119,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0120,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0121,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0122,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0123,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0124,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0125,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0126,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0127,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0128,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0129,Lebanon,1.0,1,0.38463836908340454,"Mezher,_Lebanon","{""Lebanon"": 5.0}",explicit_match
+geo_0130,Tunisia,1.0,2,0.39259034395217896,A1_motorway_(Tunisia),"{""Tunisia"": 4.0}",explicit_match
+geo_0131,Uganda,1.0,5,0.38531166315078735,"Sonde,_Uganda","{""Uganda"": 1.0}",explicit_match
+geo_0132,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0133,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0134,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0135,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0136,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0137,United Arab Emirates,1.0,1,0.4178481698036194,E_44_road_(United_Arab_Emirates),"{""United Arab Emirates"": 5.0}",explicit_match
+geo_0138,United Arab Emirates,1.0,2,0.3871557116508484,E_44_road_(United_Arab_Emirates),"{""United Arab Emirates"": 7.0}",explicit_match
+geo_0139,United Arab Emirates,1.0,4,0.4192640781402588,E_311_road_(United_Arab_Emirates),"{""United Arab Emirates"": 2.0}",explicit_match
+geo_0140,South Africa,1.0,4,0.382904589176178,South_Africa_Safari_Rally,"{""South Africa"": 2.0}",explicit_match
+geo_0141,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0142,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0143,United Kingdom,1.0,3,0.3857842683792114,List_of_United_Kingdom_locations:_Str-Stt,"{""United Kingdom"": 3.0}",explicit_match
+geo_0144,United Kingdom,1.0,4,0.35619407892227173,List_of_road_junctions_in_the_United_Kingdom:_N,"{""United Kingdom"": 2.0}",explicit_match
+geo_0145,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0146,China,1.0,1,0.39520180225372314,Road_signs_in_China,"{""China"": 6.0}",explicit_match
+geo_0147,United States,1.0,5,0.38346338272094727,U.S._Route_9_in_New_York,"{""United States"": 1.0}",explicit_match
+geo_0148,UNKNOWN,0.0,,,,{},no_explicit_country_evidence
+geo_0149,United States,1.0,4,0.35981014370918274,U.S._Route_17_in_Florida,"{""United States"": 2.0}",explicit_match
+geo_0150,UNKNOWN,0.0,,,,{},no_explicit_country_evidence

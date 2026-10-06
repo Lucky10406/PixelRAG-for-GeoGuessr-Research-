@@ -1,0 +1,15 @@
+{
+  "experiment": "baseline-v0",
+  "evaluation_type": "retrieval_country_evidence",
+  "n_images": 150,
+  "top1_country_evidence_rate": 0.06,
+  "top5_country_evidence_rate": 0.18,
+  "images_with_any_country_evidence": 27,
+  "images_without_country_evidence": 123,
+  "mean_first_evidence_rank": 2.888888888888889,
+  "frozen_split": true,
+  "retrieval_top_k": 5,
+  "text_annotation_available": false,
+  "country_matching_version": "v2_strict",
+  "note": "Metrics measure explicit country-specific evidence in retrieved page titles. They are not end-to-end geolocation accuracy."
+}
