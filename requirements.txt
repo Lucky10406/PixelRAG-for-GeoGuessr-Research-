@@ -1,2 +1,11 @@
-# PixelRAG research environment
+# Core PixelRAG environment
 pixelrag==0.4.0
+
+# Dataset / evaluation
+pandas
+requests
+
+# OCR / image processing
+numpy
+Pillow
+easyocr

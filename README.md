@@ -1,68 +1,56 @@
 # PixelRAG for GeoGuessr
 
-Research tryout project exploring how useful PixelRAG-style visual retrieval is for image geolocation on GeoGuessr-style images.
-
-## Current status
-
-**Phase 1 — Environment and API verification: COMPLETE**
-
-- Python 3.13.2 virtual environment
-- PixelRAG 0.4.0 installed
-- Hosted PixelRAG API verified
-- Text search endpoint verified
-- Image retrieval endpoint verified
-
-**Phase 2 — Dataset and frozen evaluation split: COMPLETE**
-
-- Dataset: `ubitquitin/geolocation-geoguessr-images-50k`
-- 49,997 unique image files identified
-- 124 countries represented
-- Frozen evaluation split: **150 images**
-- 30 countries × 5 images
-- Random seed: 42
-- Country-level evaluation is the primary task because the dataset metadata does not provide reliable city/region labels.
-
-**Phase 3 — PixelRAG visual retrieval baseline: COMPLETE**
-
-- 150 frozen GeoGuessr images queried
-- Top-k = 5
-- **750 retrieval hits saved**
-- Raw retrieval responses saved to `results/retrieval_records.jsonl`
-- Flattened retrieval results saved to `results/retrieval_hits.csv`
-- Initial smoke-test duplicate removed
-- No additional API queries are required for this completed retrieval baseline
-
-**Phase 4 — Evaluation: NEXT**
-
-The next stage will evaluate how often retrieved visual evidence provides useful country-level geographic evidence.
-
-## Phase tracking
-
-- [x] Phase 0 — Research definition
-- [x] Phase 1 — Environment + PixelRAG smoke test
-- [x] Phase 2 — Dataset acquisition + frozen evaluation set
-- [x] Phase 3 — PixelRAG visual retrieval baseline
-- [x] Phase 4 — Evaluation
-- [x] Phase 5 — Reader / location reasoning
-- [x] Phase 6 — Quantitative evaluation
-- [x] Phase 7 — Failure analysis
-- [x] Phase 8 — Text-aware extension
-- [x] Phase 9 — Extension evaluation
-- [x] Phase 10 — Final analysis and figures
-- [ ] Phase 11 — Research report
-- [ ] Phase 12 — Reproducibility + GitHub cleanup
-- [ ] Phase 13 — Final QA + submission
+Research tryout project evaluating **PixelRAG-style visual retrieval for GeoGuessr-style image geolocation**, with a small OCR/text-aware extension.
 
 ## Research question
 
 > How useful is PixelRAG-style visual retrieval for image geolocation, and which kinds of visual evidence make retrieval succeed or fail on GeoGuessr-style images?
 
-A later extension will investigate whether visible text can be extracted and used to make retrieval more targeted.
+## Final results
 
-## Project structure
+The experiment uses a **frozen 150-image benchmark**: 30 countries × 5 images, selected with random seed 42.
+
+### Image-only baseline
+
+- PixelRAG Top-5 correct country evidence: **26/150 (17.3%)**
+- Deterministic reader coverage: **51/150 (34.0%)**
+- Reader correct: **26/150 (17.3%)**
+- Reader incorrect: **25/150 (16.7%)**
+- Reader `UNKNOWN`: **99/150 (66.0%)**
+- Selective accuracy: **51.0%**
+
+When correct country evidence was present in the Top-5, the deterministic reader converted it correctly in all 26 cases. When correct evidence was absent, the reader produced 25 incorrect predictions and 99 abstentions.
+
+### Text-aware extension
+
+A conservative EasyOCR → PixelRAG text pipeline processed all 150 images.
+
+- Useful OCR text: **3/150 (2.0%)**
+- No useful OCR text: **147/150 (98.0%)**
+- Text-aware correct evidence among OCR-success cases: **1/3 (33.3%)**
+- Text-added correct evidence: **1/3**
+
+The France case (`geo_0055`) is the clearest proof of concept: OCR produced `liledeFrance moblites | Hybride`, and text-aware retrieval recovered France-specific evidence that was absent from image-only Top-5 retrieval.
+
+The 1/3 text-aware result is **not** interpreted as an overall accuracy improvement because OCR coverage was only 2% and the comparison contains only three cases.
+
+## Dataset
+
+Source dataset: `ubitquitin/geolocation-geoguessr-images-50k`
+
+The project enumerated **49,997 unique image files across 124 countries** and froze a 150-image evaluation subset. Country-level evaluation is used because reliable city/region labels were not available in the frozen metadata.
+
+The selected images are recorded in:
+
+- `data/sample_plan.csv`
+- `data/eval_metadata.csv`
+
+The repository does **not** require the approximately 217 GB local PixelRAG index. The completed retrieval baseline uses the hosted PixelRAG API.
+
+## Repository structure
 
 ```text
-pixelrag-geoguessr-tryout/
+.
 ├── README.md
 ├── requirements.txt
 ├── configs/
@@ -75,72 +63,104 @@ pixelrag-geoguessr-tryout/
 ├── src/
 │   ├── prepare_dataset.py
 │   ├── query_pixelrag.py
-│   ├── run_reader.py
 │   ├── evaluate.py
+│   ├── run_reader.py
+│   ├── evaluate_reader.py
+│   ├── analyze_phase6.py
+│   ├── analyze_phase7.py
+│   ├── prepare_manual_review.py
+│   ├── evaluate_phase9.py
 │   ├── analyze_failures.py
 │   └── text_aware.py
 ├── results/
-│   ├── README.md
 │   ├── retrieval_records.jsonl
-│   └── retrieval_hits.csv
-├── figures/
+│   ├── retrieval_hits.csv
+│   ├── phase6_metrics.json
+│   ├── phase7_failure_analysis.csv
+│   ├── phase7_failure_summary.json
+│   ├── text_aware_records.jsonl
+│   ├── phase9_text_vs_image.csv
+│   ├── phase9_metrics.json
+│   └── ...
 ├── report/
+│   └── PixelRAG_GeoGuessr_Research_Report.pdf
 └── experiments/
     └── EXPERIMENT_LOG.md
 ```
 
+## Reproduce the pipeline
 
-Running the project
+Create the environment and install dependencies:
 
-Create and activate the virtual environment, then install:
-
+```powershell
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
+```
 
-The dataset preparation script can enumerate the Kaggle dataset, freeze the evaluation sample, and download the selected images.
+Prepare the frozen evaluation set:
 
-The PixelRAG retrieval baseline can be run with:
+```powershell
+python src\prepare_dataset.py --plan
+python src\prepare_dataset.py --download
+```
 
-python src/query_pixelrag.py --limit 150
+Run the hosted PixelRAG image baseline:
 
-The completed Phase 3 retrieval artifacts are already stored in results/, so the baseline does not need to be rerun to continue with evaluation.
+```powershell
+python src\query_pixelrag.py --limit 150
+```
 
-Dataset
+Evaluate retrieval and reader stages:
 
-Source dataset:
+```powershell
+python src\evaluate.py
+python src\run_reader.py
+python src\evaluate_reader.py
+python src\analyze_phase6.py
+python src\analyze_phase7.py
+```
 
-ubitquitin/geolocation-geoguessr-images-50k
+Run the OCR/text-aware extension and comparison:
 
-The dataset contains GeoGuessr-style images organized by country. The project uses a frozen subset rather than the full dataset to keep the tryout reproducible and computationally manageable.
+```powershell
+python src\text_aware.py --limit 150
+python src\evaluate_phase9.py
+```
 
-Evaluation plan
+The stored result files allow inspection without re-running the API queries.
 
-The evaluation will measure:
+## Evaluation discipline
 
-country-level prediction accuracy
-retrieval evidence hits in top-k
-rank of the first useful geographic evidence
-score of useful retrieved evidence
-text-rich vs. text-poor retrieval behavior where metadata supports it
-qualitative retrieval successes and failures
+- The 150-image split is frozen.
+- Gold country labels are used for evaluation, not for PixelRAG querying.
+- Country matching uses strict aliases to reduce false positives.
+- The deterministic reader does not use gold labels during prediction.
+- Raw retrieval outputs are preserved.
+- Failure categories are explicitly described as preliminary automated labels, not human-validated visual annotations.
+- Weak or negative results are reported rather than replaced with stronger-looking qualitative examples.
 
-No ground-truth information is used in the PixelRAG query itself.
+## Important metric note
 
-Research discipline
+An earlier Phase 4 artifact reports **27/150** images with any correct country evidence. The finalized Phase 6 comparison uses a stricter comparable matching path and reports **26/150**. The research report documents this discrepancy and uses the Phase 6 result for the main baseline/reader comparison.
 
-This repository keeps retrieval outputs separate from later evaluation and reasoning stages.
+## Report
 
-Important constraints:
+The submission-ready report is available at:
 
-Do not use the 217 GB local PixelRAG index as a dependency.
-Do not manually edit predictions.
-Do not cherry-pick qualitative examples as quantitative evidence.
-Keep the 150-image evaluation split frozen.
-Record failed experiments and implementation decisions.
-Report negative or weak results honestly.
-Current checkpoint
+`report/PixelRAG_GeoGuessr_Research_Report.pdf`
 
-Phase 3 complete — 4 October 2026
+## Main result files
 
-The project has progressed from environment setup to a reproducible 150-image hosted PixelRAG visual retrieval baseline.
+- `results/retrieval_records.jsonl` — raw PixelRAG responses
+- `results/retrieval_hits.csv` — flattened Top-5 retrievals
+- `results/phase6_metrics.json` — finalized baseline/reader comparison
+- `results/reader_predictions.csv` — deterministic reader outputs
+- `results/phase7_failure_analysis.csv` — preliminary failure categories
+- `results/text_aware_records.jsonl` — OCR/text retrieval records
+- `results/phase9_text_vs_image.csv` — image-only vs text-aware comparison
+- `results/phase9_metrics.json` — Phase 9 summary
 
-Next milestone: implement and run Phase 4 evaluation.
+## Scope and limitations
+
+This is a focused research tryout, not a complete GeoGuessr solver. The primary metric measures explicit country evidence in retrieved page titles rather than end-to-end geolocation accuracy. The OCR extension has very low coverage, and its 1/3 text-added result is a proof-of-concept observation rather than a statistically stable improvement estimate.

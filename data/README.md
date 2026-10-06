@@ -1,10 +1,16 @@
 # Data
 
-Do not commit the GeoGuessr dataset to GitHub.
+The evaluation uses the Kaggle dataset `ubitquitin/geolocation-geoguessr-images-50k`.
 
-This folder will contain:
-- instructions for obtaining the dataset
-- local dataset files
-- frozen evaluation metadata
+The repository stores only the frozen metadata and sampling artifacts needed to reproduce the evaluation definition:
 
-The evaluation split will be frozen before quantitative analysis.
+- `sample_plan.csv` — frozen 30-country × 5-image sampling plan, seed 42
+- `eval_metadata.csv` — selected image metadata
+- `kaggle_file_manifest.csv` — enumerated dataset file manifest
+
+Raw image files are intentionally not committed to GitHub. Download the source dataset separately and run:
+
+```powershell
+python src\prepare_dataset.py --plan
+python src\prepare_dataset.py --download
+```
